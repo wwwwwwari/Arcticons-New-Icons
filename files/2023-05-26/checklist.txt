@@ -1,0 +1,8 @@
+/1. no hidden layers left
+/2. all lines must = 1px
+/3. all colors must = fff or ffffff and not transparent
+/4. all caps round; all corners round
+/5. no +-.,! in SVG file names
+/6. all appfilter lines match new icon names **pay attention to one you use pre-existing shared icons - icon name might be unexpected
+/7. no "transform elements", "fill-rule:evenodd", "scientific e-notation" in svg
+8. default styling: <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>

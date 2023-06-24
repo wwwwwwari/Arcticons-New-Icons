@@ -1,0 +1,7 @@
+Hello, this request includes the following:
+
+1. New icons for Chan Burauza, DMS Explorer, Jisho, myAIS, Neko Atsume, Paotang (เป๋าตัง), Quadrix, SCB Easy, TrueMoney, TunnelBear, Twitcasting, Webex, Webex Intune, and Webex Meeting
+2. Added new variants for HeyTap Cloud and SIM toolkit apps to use the existing icons in appfilter.xml
+3. Removed Chan Burauza, myAIS, Neko Atsume, TunnelBear, Twitcasting, Webex and Webex Meet from requests.txt
+4. Changed the link to InkScape guide in CONTRIBUTING.md - it was previously pointing to Inkscape_guide.md (lowercase g) when it should be Inkscape_Guide.md (uppercase G)
+

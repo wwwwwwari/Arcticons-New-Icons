@@ -1,0 +1,10 @@
+Hello, this request includes:
+
+1. New icons for Arc Launcher and its Pro version, made by @rimwulf in #1477
+- resized to 48x48 px
+- changed the 'pro' label (originally using an external font) to standard arcticons font
+2. Added @rimwulf to contributors.xml 
+3. New icons for BitKub, DNS Changer (2 of them), KKP mobile, OldSchool Editor, Shortcut To URL, SSO Connect, WhosCall, PromPlus (หมอพร้อม)
+4. Updated appfilter.xml for the new icons
+5. Added 3 variants of document readers to use the pre-existing documents.svg
+6. Removed DNS Changer, Doc Reader, OldSchool Editor from requests.txt

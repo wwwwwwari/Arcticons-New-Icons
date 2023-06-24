@@ -1,0 +1,24 @@
+0. ungroup everything, including layer group, then combine everything
+0. force everything to be fff and 1 width using regex
+1. no hidden layers left
+2. all lines must = 1px
+3. all colors must = fff or ffffff
+4. all caps round; all corners round
+5. no +-.,! in SVG file names
+6. all appfilter lines match new icon names
+7. no "transform", "fill-rule:evenodd", "scientific e-notation" in svg
+8. default styling: <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+
+
+regex (for unoptimized svgs!)
+stroke-width:\d*.?\d*;
+stroke-width:1;
+
+stroke:#[abcdef0-9]{3,6}
+stroke:#fff
+
+stroke-linecap:[a-z]*;
+stroke-linecap:round;
+
+stroke-linejoin:[a-z]*;
+stroke-linejoin:round;

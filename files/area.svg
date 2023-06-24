@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg9961"
+   sodipodi:docname="area.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9963"
+     pagecolor="#878787"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="11.645833"
+     inkscape:cx="16.014311"
+     inkscape:cy="24.042934"
+     inkscape:window-width="1366"
+     inkscape:window-height="737"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9961" />
+  <defs
+     id="defs9957">
+    <style
+       id="style9955">.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <g
+     id="g10916">
+    <circle
+       class="a"
+       cx="24"
+       cy="24"
+       r="21.5"
+       id="circle9959"
+       style="stroke:#33d636;stroke-opacity:1" />
+    <path
+       class="a"
+       d="m 37.5,4.5 h -27 a 2,2 0 0 0 -2,2 v 35 a 2,2 0 0 0 2,2 h 27 a 2,2 0 0 0 2,-2 v -35 a 2,2 0 0 0 -2,-2 z"
+       id="path10576"
+       style="fill:none;stroke:#333dd2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       class="a"
+       d="m 43.5,37.5 v -27 a 2,2 0 0 0 -2,-2 h -35 a 2,2 0 0 0 -2,2 v 27 a 2,2 0 0 0 2,2 h 35 a 2,2 0 0 0 2,-2 z"
+       id="path10449"
+       style="fill:none;stroke:#f3ff15;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       class="a"
+       d="m 40.5,5.5 h -33 a 2,2 0 0 0 -2,2 v 33 a 2,2 0 0 0 2,2 h 33 a 2,2 0 0 0 2,-2 v -33 a 2,2 0 0 0 -2,-2 z"
+       id="path10703"
+       style="fill:none;stroke:#c93f3f;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+  </g>
+</svg>

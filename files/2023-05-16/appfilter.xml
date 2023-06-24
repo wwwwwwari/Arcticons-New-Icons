@@ -1,0 +1,34 @@
+<appfilter>
+
+	<!-- Chan Burauza -->
+	<item component="ComponentInfo{smugcat93.chanburauza/smugcat93.chanburauza.activities.MainActivity}" drawable="chan_burauza"/>
+
+	<!-- Jisho -->
+	<item component="ComponentInfo{com.github.reline.jisho/com.github.reline.jisho.ui.activities.MainActivity}" drawable="jisho"/>
+
+	<!-- myAIS -->
+	<item component="ComponentInfo{com.ais.mimo.eservice/com.myais.android.features.splash.ui.SplashActivity}" drawable="myais"/>
+
+	<!-- Neko Atsume -->
+	<item component="ComponentInfo{jp.co.hit_point.nekoatsume/jp.co.hit_point.nekoatsume.GActivity}" drawable="neko_atsume"/>
+
+	
+	<!-- SCB EASY -->
+	<item component="ComponentInfo{com.scb.phone/com.scb.phone.view.activity.splash.SplashActivity}" drawable="scb_easy"/>
+
+	<!-- TotalCmd-LAN (Windows shares) -->
+	<item component="ComponentInfo{com.ghisler.tcplugins.LAN/com.android.tcplugins.FileSystem.AboutActivity}" drawable="totalcmd_lan_windows_shares"/>
+
+	<!-- TrueMoney -->
+	<item component="ComponentInfo{th.co.truemoney.wallet/th.co.truemoney.wallet.activity.LoadingScreenActivity}" drawable="truemoney"/>
+
+	<!-- TunnelBear -->
+	<item component="ComponentInfo{com.tunnelbear.android/com.tunnelbear.android.mvvmReDesign.NavGraphActivity}" drawable="tunnelbear"/>
+
+	<!-- TwitCasting -->
+	<item component="ComponentInfo{com.sidefeed.TCViewer/st.moi.tcviewer.presentation.launcher.LauncherActivity}" drawable="twitcasting"/>
+
+	<!-- เป๋าตัง -->
+	<item component="ComponentInfo{com.ktb.customer.qr/com.ktb.customer.qr.feature.ekyc.ui.splashscreen.EkycSplashScreenActivity}" drawable=""/>
+
+</appfilter>
