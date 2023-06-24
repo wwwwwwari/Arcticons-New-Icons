@@ -49,4 +49,4 @@ python3 random_requests.py -di "\home\myuser\git\Arcticons\other" -do ".\out"
 ```
 
 ## License
-`random_requests.py` is licensed under [The Unlicense](unlicense.org)
+`random_requests.py` is licensed under [The Unlicense]([https://unlicense.org](https://opensource.org/license/unlicense/)https://opensource.org/license/unlicense/)
