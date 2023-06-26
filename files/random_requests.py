@@ -15,28 +15,28 @@ class ErrorLevel(Enum):
 	ERROR_LEVEL_INFORMATIONAL = 2
 
 class ErrorName(Enum):
-	FILE_NOT_READABLE = 1
-	FILE_NOT_WRITABLE = 11
-	FILE_NOT_EXISTS = 21
-	FILE_OUT_IS_A_DIR = 22
-	DIR_OUT_IS_A_FILE = 19
-	DIR_IN_NOT_EXISTS = 20
-	PARSE_HEADER_NOT_FOUND = 2
-	PARSE_WHOLE_FILE_ENTRY_NOT_FOUND = 3
-	PARSE_TOTAL_REQUESTS_NOT_DIVISIBLE = 4
-	PARSE_ENTRY_WITHOUT_ENTRY_LINE = 5
-	PARSE_ENTRY_WITHOUT_COMPONENT_LINE = 6
-	PARSE_ENTRY_WITHOUT_GPLAY_LINE = 7
-	PARSE_ENTRY_WITHOUT_FDROID_LINE = 8
-	PARSE_ENTRY_WITHOUT_REQUEST_COUNTER_LINE = 9
-	PARSE_ENTRY_WITHOUT_LAST_REQUESTED_TIME_LINE = 10
-	INVALID_ARGUMENTS_NO_NUMBER = 12
-	INVALID_ARGUMENTS_NEGATIVE_SKIP_POPULAR = 13
-	INVALID_ARGUMENTS_NEGATIVE_THRESHOLD = 14
-	INVALID_ARGUMENTS_TOO_BIG_NUMBER = 15
-	INVALID_ARGUMENTS_TOO_BIG_SKIP_POPULAR = 16
-	INVALID_ARGUMENTS_FILTER_RETURNS_NOTHING = 17
-	WARNING_FILTERED_POPULATION_TOO_SMALL = 18
+	FILE_NOT_READABLE = 100
+	FILE_NOT_WRITABLE = 101
+	FILE_NOT_EXISTS = 102
+	FILE_OUT_IS_A_DIR = 103
+	DIR_OUT_IS_A_FILE = 110
+	DIR_IN_NOT_EXISTS = 111
+	PARSE_HEADER_NOT_FOUND = 200
+	PARSE_WHOLE_FILE_ENTRY_NOT_FOUND = 201
+	PARSE_TOTAL_REQUESTS_NOT_DIVISIBLE = 202
+	PARSE_ENTRY_WITHOUT_ENTRY_LINE = 210
+	PARSE_ENTRY_WITHOUT_COMPONENT_LINE = 211
+	PARSE_ENTRY_WITHOUT_GPLAY_LINE = 212
+	PARSE_ENTRY_WITHOUT_FDROID_LINE = 213
+	PARSE_ENTRY_WITHOUT_REQUEST_COUNTER_LINE = 214
+	PARSE_ENTRY_WITHOUT_LAST_REQUESTED_TIME_LINE = 215
+	INVALID_ARGUMENTS_NO_NUMBER = 300
+	INVALID_ARGUMENTS_NEGATIVE_SKIP_POPULAR = 301
+	INVALID_ARGUMENTS_NEGATIVE_THRESHOLD = 302
+	INVALID_ARGUMENTS_TOO_BIG_NUMBER = 303
+	INVALID_ARGUMENTS_TOO_BIG_SKIP_POPULAR = 304
+	INVALID_ARGUMENTS_FILTER_RETURNS_NOTHING = 305
+	WARNING_FILTERED_POPULATION_TOO_SMALL = 900
 
 DEFAULT_NUMBER = 10
 DEFAULT_SKIP_POPULAR = 0
@@ -52,9 +52,10 @@ DEFAULT_REQUESTS_FILE_NAME = "requests.txt"
 DEFAULT_RANDOMIZED_REQ_FILE_NAME = "random_requests.txt"
 DEFAULT_NEW_REQ_FILE_NAME = "new_requests.txt"
 
+#define and validate command line arguments
 def prepare_arguments():	
 	script_directory = os.path.dirname(os.path.realpath(__file__))
-	parser = argparse.ArgumentParser(prog="python3 random_requests.py", description="randomly select Requests from "+DEFAULT_REQUESTS_FILE_NAME+". Copy Arcticons/other/"+DEFAULT_REQUESTS_FILE_NAME+" to the same folder as this script, then run the script. Randomly selected requests will be saved at random_requests.txt and the remaining requests at new_requests.txt in the same folder")
+	parser = argparse.ArgumentParser(prog="python3 random_requests.py", description="Randomly select icon requests from " + DEFAULT_REQUESTS_FILE_NAME + ". Put " + DEFAULT_REQUESTS_FILE_NAME + " in the same folder as this script (default), or a specified folder (-di argument). Randomly selected requests will be saved as " + DEFAULT_RANDOMIZED_REQ_FILE_NAME + ", and the remaining requests as "+ DEFAULT_NEW_REQ_FILE_NAME +" in the same folder as this script (default), or a specified folder (-do argument)")
 	parser.add_argument("-di", "--input-dir", nargs="?", const=script_directory, default=script_directory, help="directory of "+DEFAULT_REQUESTS_FILE_NAME+" (default=same as this script)")
 	parser.add_argument("-do", "--output-dir", nargs="?", const=script_directory, default=script_directory, help="directory of the output files (default=same as this script)")
 	parser.add_argument("-n", "--number", nargs="?", const=DEFAULT_NUMBER, default=DEFAULT_NUMBER, type=int, help="number of requests to be randomly selected (default=10)")
@@ -62,9 +63,11 @@ def prepare_arguments():
 	parser.add_argument("-t", "--request-threshold", nargs="?", const=DEFAULT_REQUEST_THRESHOLD, default=DEFAULT_REQUEST_THRESHOLD, type=int, help="selected requests must have been requested at least N times (default=1)")
 	parser.add_argument("-v", "--verbose", action="store_true", help="show verbose output")
 	
+	#the first sys.argv is "random_requests.py", which won't be relevant to our processing
 	del(sys.argv[0])
 	args = parser.parse_args(sys.argv)
 
+	#validate -do and -di arguments
 	if os.path.exists(args.input_dir):
 		if not os.path.isfile(os.path.join(args.input_dir, DEFAULT_REQUESTS_FILE_NAME)):
 			print_error_handling(ErrorLevel.ERROR_LEVEL_CRITICAL, ErrorName.FILE_NOT_EXISTS, DEFAULT_REQUESTS_FILE_NAME, args.input_dir)
@@ -72,16 +75,17 @@ def prepare_arguments():
 		print_error_handling(ErrorLevel.ERROR_LEVEL_CRITICAL, ErrorName.DIR_IN_NOT_EXISTS, args.input_dir)
 	try:
 		Path(args.output_dir).mkdir(parents=True, exist_ok=True)
-		out_loc = os.path.join(args.output_dir, DEFAULT_RANDOMIZED_REQ_FILE_NAME)
-		if os.path.exists(out_loc) and os.path.isdir(out_loc):
-			print_error_handling(ErrorLevel.ERROR_LEVEL_CRITICAL, ErrorName.FILE_OUT_IS_A_DIR, out_loc)
-		out_loc = os.path.join(args.output_dir, DEFAULT_NEW_REQ_FILE_NAME)
-		if os.path.exists(out_loc) and os.path.isdir(out_loc):
-			print_error_handling(ErrorLevel.ERROR_LEVEL_CRITICAL, ErrorName.FILE_OUT_IS_A_DIR, out_loc)
+		out_loc1 = os.path.join(args.output_dir, DEFAULT_RANDOMIZED_REQ_FILE_NAME)
+		if os.path.exists(out_loc1) and os.path.isdir(out_loc1):
+			print_error_handling(ErrorLevel.ERROR_LEVEL_CRITICAL, ErrorName.FILE_OUT_IS_A_DIR, out_loc1)
+		out_loc2 = os.path.join(args.output_dir, DEFAULT_NEW_REQ_FILE_NAME)
+		if os.path.exists(out_loc2) and os.path.isdir(out_loc2):
+			print_error_handling(ErrorLevel.ERROR_LEVEL_CRITICAL, ErrorName.FILE_OUT_IS_A_DIR, out_loc2)
 			
 	except FileExistsError:
 		print_error_handling(ErrorLevel.ERROR_LEVEL_CRITICAL, ErrorName.DIR_OUT_IS_A_FILE, args.output_dir)
 
+	#validate other arguments
 	if args.number < 1:
 		print_error_handling(ErrorLevel.ERROR_LEVEL_CRITICAL, ErrorName.INVALID_ARGUMENTS_NO_NUMBER, args.number)
 	if args.request_threshold < 0:
@@ -89,14 +93,18 @@ def prepare_arguments():
 	if args.skip_popular < 0:
 		print_error_handling(ErrorLevel.ERROR_LEVEL_CRITICAL, ErrorName.INVALID_ARGUMENTS_NEGATIVE_SKIP_POPULAR, args.skip_popular)
 
-	print("Running with the following settings: ")
-	print("- Randomly selecting", args.number, "request(s) that have been requested at least", args.request_threshold, "time(s)")
-	print("- Skipping", args.skip_popular, "most popular request(s)")
 	if args.verbose:
+		print("Running with the following settings: ")
+		print("- Randomly selecting", args.number, "request(s) that have been requested at least", args.request_threshold, "time(s)")
+		print("- Skipping", args.skip_popular, "most popular request(s)")
+		print("- Looking for", DEFAULT_REQUESTS_FILE_NAME,"in", args.input_dir)
+		print("- Writing output files in", args.output_dir)
 		print("- Verbose output enabled")
 	
 	return args
 
+#count how many icon requests there are. we assume an entry always begins with ENTRY_STARTS_WITH
+#note: the header of requests.txt has the total number count, but it is often inaccurate
 def line_counter(lines):
 	header_end_idx = -1
 	line_count_per_entry = 0
@@ -111,6 +119,7 @@ def line_counter(lines):
 			
 	return header_end_idx, line_count_per_entry		
 
+#group all the lines by the icon request entries they belong to
 def compute_final_population(lines, line_count_per_entry, args):
 	combined_lines = []
 	included_lines = []
@@ -177,6 +186,7 @@ def compute_final_population(lines, line_count_per_entry, args):
 
 	return combined_lines, included_lines
 
+#error processing
 def print_error_handling(e_lvl, e_code, *args):	
 	DEFAULT_PARSE_ERROR = "A logical error occurred while trying to parse "+DEFAULT_REQUESTS_FILE_NAME+". The format of the file may have been changed, please contact the script author."
 	DEFAULT_INVALID_ARGUMENTS_ERROR = "An invalid argument was entered. Please correct the specified error and re-run the script."
@@ -278,6 +288,7 @@ def print_error_handling(e_lvl, e_code, *args):
 		print("**************************************************************")
 		sys.exit()
 
+#refresh the header for requests.txt
 def make_new_request_header(remaining_requests):
 	DASH_LINE = "-------------------------------------------------------\n"
 	
@@ -291,6 +302,7 @@ def make_new_request_header(remaining_requests):
 	new_request_header.append(DASH_LINE)
 	return new_request_header
 		
+#main processing def
 def process_file(f, args):
 	lines = f.readlines()	
 	header_end_idx, line_count_per_entry = line_counter(lines)
