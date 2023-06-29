@@ -1,0 +1,88 @@
+<appfilter>
+
+	<!-- 3Plus -->
+	<item component="ComponentInfo{com.beci.thaitv3android/com.beci.thaitv3android.view.activity.SplashScreenActivity}" drawable="3plus"/>
+
+	<!-- A-Mobile -->
+	<item component="ComponentInfo{com.ccpp.baac/com.ccpp.baac.ui.activitys.SplashActivity}" drawable="amobile"/>
+
+	<!-- AEON Thai Mobile -->
+	<item component="ComponentInfo{com.th.aeon.app.aeon.pro/com.th.aeon.app.aeon.pro.MainActivity}" drawable="aeon_thai_mobile"/>
+
+	<!-- ALL GEN -->
+	<item component="ComponentInfo{th.co.ghbank.allgen/th.co.ghbank.allgen.MainActivity}" drawable="all_gen"/>
+
+	<!-- Ch7HD -->
+	<item component="ComponentInfo{com.Ch7.Android/com.ch7.android.ui.activity.SplashActivity}" drawable="ch7hd"/>
+
+	<!-- CH8 -->
+	<item component="ComponentInfo{com.thaich8/com.thaich8.SplashScreen}" drawable="ch8"/>
+
+	<!-- CIMB TH -->
+	<item component="ComponentInfo{com.cimbthai.digital.mycimb/mycimb.digital.cimbthai.com.takoandroidsuperapp.SuperAppMainActivity}" drawable="cimb_th"/>
+
+	<!-- Kapook! -->
+	<item component="ComponentInfo{apps.kapook.com/apps.kapook.com.fragment.SplashActivity}" drawable="kapook"/>
+
+	<!-- Kerry Express -->
+	<item component="ComponentInfo{kerry.express.th.mobile.tracking/kerry.express.th.mobile.tracking.presenter.MainActivity}" drawable="kerry_express"/>
+
+	<!-- KMA -->
+	<item component="ComponentInfo{com.krungsri.kma/crc64935ca4cc35634e1d.MainActivity}" drawable="kma"/>
+
+	<!-- KTC Mobile -->
+	<item component="ComponentInfo{com.tapktc.app/com.tapktc.onboard.ui.splash.SplashActivity}" drawable="ktc_mobile"/>
+
+	<!-- Lotus's App -->
+	<item component="ComponentInfo{com.lotuss.oneapp/com.lotuss.oneapp.NewMainActivity}" drawable="lotuss_app"/>
+
+	<!-- MCOT.net -->
+	<item component="ComponentInfo{us.citec.project.mcot.activity/us.citec.project.mcot.activity.MainActivity}" drawable="mcotnet"/>
+
+	<!-- MThai -->
+	<item component="ComponentInfo{com.mthai.app/com.mthai.MainActivity}" drawable="mthai"/>
+
+	<!-- My Thairath -->
+	<item component="ComponentInfo{com.trendvg3.droid.feed/com.trendvg3.droid.feed.MainActivity}" drawable="my_thairath"/>
+
+	<!-- Power Buy -->
+	<item component="ComponentInfo{com.powerbuy.mobile/com.powerbuy.mobile.presentation.MainActivity}" drawable="power_buy"/>
+
+	<!-- Sanook -->
+	<item component="ComponentInfo{m.sanook.com/m.sanook.com.activity.SplashScreenActivity}" drawable="sanook"/>
+
+	<!-- Thanachart Connect -->
+	<item component="ComponentInfo{th.co.thanachartbank.mbanking/th.co.thanachartbank.mbanking.MainActivity}" drawable="thanachart_connect"/>
+
+	<!-- ttb touch -->
+	<item component="ComponentInfo{com.TMBTOUCH.PRODUCTION/bl.To}" drawable="ttb_touch"/>
+
+	<!-- UOB TMRW TH -->
+	<item component="ComponentInfo{com.uob.mightyth2/uob.com.digitalbank.features.base.LauncherActivity}" drawable="uob_tmrw_th"/>
+
+	<!-- กยศ. Connect -->
+	<item component="ComponentInfo{th.or.studentloan.app/com.ktb.dsl.presentation.login.LoginActivity}" drawable="_connect"/>
+
+	<!-- กรุงเทพธุรกิจ -->
+	<item component="ComponentInfo{com.news.bkk/com.news.bkk.ui.LaunchActivity}" drawable=""/>
+
+</appfilter>
+
+<appfilter>
+
+	<!-- 1112 Delivery -->
+	<item component="ComponentInfo{com.minorfoodgroup.one1112.one/com.pizza.android.splashscreen.SplashActivity}" drawable="1112_delivery"/>
+
+	<!-- 34HD -->
+	<item component="ComponentInfo{com.amarintv.mobile/com.amarintv.mobile.MainActivity}" drawable="34hd"/>
+
+	<!-- MGR Online -->
+	<item component="ComponentInfo{th.co.manager.mgr_online/th.co.manager.mgr_online.MainActivity}" drawable="mgr_online"/>
+
+	<!-- Naiin -->
+	<item component="ComponentInfo{com.pshade.naiin/com.pshade.naiin.ui.splash.SplashActivity}" drawable="naiin"/>
+
+	<!-- Thai PBS -->
+	<item component="ComponentInfo{th.or.thaipbs.thaipbsnews/th.or.thaipbs.thaipbsnews.SplashScreen}" drawable="thai_pbs"/>
+
+</appfilter>
