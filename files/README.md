@@ -1,52 +1,54 @@
-# Arcticons Request Randomizer
-A Python3 script that chooses icon requests from [Arcticon](https://github.com/Donnnno/Arcticons)'s `requests.txt` file randomly, because I am indecisive.
-
-## Requirements
-Python 3.11+
-
-## Usage
+# My Arcticons Checklist and Workflow
+This is my general checklist and workflow for Arcticons development on Debian Linux.
+## Required Tools
+1. Git - should be pre-installed on Linux
+2. InkScape - [Download](https://inkscape.org/release/1.2.2/gnulinux/)
+3. Geany - `sudo apt install geany`
+4. Diffuse - `sudo apt install diffuse`
+## My Directory Structure
 ```
-python3 random_requests.py [-h] [-di [INPUT_DIR]] [-do [OUTPUT_DIR]] [-n [NUMBER]] [-s [SKIP_POPULAR]] [-t [REQUEST_THRESHOLD]] [-v]
+(My git folder)/
+|_ Arcticons/ (Local repository of wwwwwwari/Arcticons)
+|_ Arcticons-New-Icons/ (Local repository of wwwwwwari/Arcticons-New-Icons)
+   |_ files/ (main workspace folder; also contains the randomizer script)
+      |_ YYYY-MM-DD/ (workspace of each pull request)
+      |  |_ svg/ (all SVG files are saved within here)
+      |     |_ bkup/ (backups of /work/ SVG files I've made before applying the regex)
+      |     |_ opti/ (final files to be copied to the main repository. you shouldn't edit these directly)
+      |     |_ work/ (main workspace for SVGs)
+      |_ plans/ (icons I'm interested in doing in the future)
 ```
-The script writes `random_requests.txt` containing the randomly selected requests, and `new_requests.txt` containing the content of `requests.txt` with the randomly selected requests removed.
-
-## Parameters
-```
-  -h, --help            show this help message and exit
-  -di [INPUT_DIR], --input-dir [INPUT_DIR]
-                        directory of requests.txt (default=same as this script)
-  -do [OUTPUT_DIR], --output-dir [OUTPUT_DIR]
-                        directory of the output files (default=same as this script)
-  -n [NUMBER], --number [NUMBER]
-                        number of requests to be randomly selected (default=10)
-  -s [SKIP_POPULAR], --skip-popular [SKIP_POPULAR]
-                        skip N most popular requests (default=0/no skip)
-  -t [REQUEST_THRESHOLD], --request-threshold [REQUEST_THRESHOLD]
-                        selected requests must have been requested at least N times (default=1)
-  -v, --verbose         show verbose output
-```
-
-## Examples
-### Randomly choosing 10 icon requests from `requests.txt` that is in the same folder as the script
-```
-python3 random_requests.py
-```
-
-### Randomly choosing 20 icon requests that have been requested at least 2 times from `requests.txt` that is in the same folder as the script
-```
-python3 random_requests.py -n 20 -t 2
-```
-
-### Randomly choosing 15 icons requests from `requests.txt` that is in the same folder as the script, excluding top 20 most requested icons
-Why? Because Donnnno is probably already on them.
-```
-python3 random_requests.py -n 15 -s 20
-```
-
-### Randomly choosing 10 icon requests from `requests.txt` that is in the `\home\myuser\git\Arcticons\other\` directory and writing the output files to a sub-folder `out` of where this script is
-```
-python3 random_requests.py -di "\home\myuser\git\Arcticons\other" -do ".\out"
-```
-
-## License
-`random_requests.py` is licensed under [The Unlicense](https://opensource.org/license/unlicense/)
+## Checklist
+### While Making Icons
+#### General Checks
+1. Save the `<item component>` entries of the new icons in a new text file called `new_appfilter.txt`, this will be used to update `appfilter` after all icons are done.
+2. No +1-.,! in icon file names
+3. If the name begins with a number, prefix it with an underscore, e.g. 1track.svg becomes \_1track.svg
+4. Never use dots. Dots slow down the validation because of their differences from lines (i.e. fills instead of no fill; no stroke instead of strokes).  Use very small lines instead.
+### After Making Icons 
+#### InkScape Checks
+1. There are no hidden layers left.
+2. Everything is ungrouped, including the layer. 
+3. Combine everything.
+4. All lines are 1px wide
+5. All lines are ffffffff white (check the actual color code, not the color slide).
+6. All lines have round caps and round joins.
+#### Geany Checks
+##### SVG Validation
+1. Check that there is no `transform`, `evenodd` and `e-notation` mentioned in any svg files. If there is any, follow Arcticons' [guideline](https://github.com/Donnnno/Arcticons/blob/main/CONTRIBUTING.md#how-to-replace) on how to remove them.
+2. Back up the svg files above into a backup folder beforehand
+3. Open the svg files in `geany` and CTRL+H the following using Regular Expressions and save all files:
+`stroke-width:\d*.?\d*;` -> `stroke-width:1;`
+`stroke:#[abcdef0-9]{3,6};` -> `stroke:#fff;`
+`stroke-linecap:[a-z]*;` -> `stroke-linecap:round;`
+`stroke-linejoin:[a-z]*;` -> `stroke-linejoin:round;`
+4. Re-check that everything still looks correct.
+5. Using InkScape, re-save all the files as Optimized SVGs in a separate folder.
+##### File Updates and Pull Request
+1. Ensure wwwwwwari's GitHub repo is in sync with Donnnno's using the web interface.
+2. Refresh the local PC's Arcticons repository folder with `git pull origin main`
+3. Update `Arcticons/other/appfilter.xml` following `new_appfilter.txt`.
+4. Update `Arcticons/other/requests.xml`. 
+5. Copy icons from the `Arcticons-New-Icons/files/YYYY-MM-DD/opti/` to `Arcticons/other/`
+6. Upload the changes with `git push origin main` to wwwwwwari/Arcticons
+7. Make a pull request
