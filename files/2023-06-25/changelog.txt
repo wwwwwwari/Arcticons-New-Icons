@@ -1,6 +1,6 @@
 todo: need to refresh appfilter and requests
 
-1. New icons for betway, easy open link, redreader alpha, monster super league*, tsuki adventure 1 & 2, op auto clicker, go north east, 1track, uae pass, mint browser, pepper invest, valkyrie connect**, zmanim, mergin maps, lunar phase apps, uninstaller apps, faz.net, loopmuenster, pixly, animeboya, auction, malaysia prayer time, egg ns emulator, tabii, albertsons and bein connect
+1. New icons for betway, easy open link, redreader alpha, monster super league*, tsuki adventure 1 & 2, op auto clicker, go north east, 1track, uae pass, mint browser, pepper invest, valkyrie connect**, zmanim, mergin maps, lunar phase apps, uninstaller apps, faz.net, loopmuenster, pixly, animeboya, auction, malaysia prayer time, egg ns emulator, tabii, albertsons, nds4droid and bein connect
 
 
 *I use the [astrochip](https://monstersuperleague.fandom.com/wiki/Capturing) design for the icon, as it is to this game what pokeball is to pokemon games

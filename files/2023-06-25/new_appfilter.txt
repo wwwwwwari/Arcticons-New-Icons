@@ -129,8 +129,12 @@ https://play.google.com/store/apps/details?id=com.meltinglogic.pixly
 <!-- beIN CONNECT -->
 <item component="ComponentInfo{ptv.bein.mena/com.netcosports.andbeinconnect.activity.SplashBeINAConnectActivity}" drawable="bein_connect" />
 
+<!-- nds4droid -->
+<item component="ComponentInfo{com.opendoorstudios.ds4droid/com.opendoorstudios.ds4droid.MainActivity}" drawable="nds4droid"/>
+
 +++
 Update to add:
 
 <!-- Twitcasting -->
 <item component="ComponentInfo{com.sidefeed.TCViewer/st.moi.tcviewer.presentation.home.HomeActivity}" drawable="twitcasting"/>
+
