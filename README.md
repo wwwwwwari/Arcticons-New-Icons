@@ -1,4 +1,4 @@
-# Wari's New Icons for Arcticons
+# Wari's Soon-To-Be New Icons for Arcticons
 Repo to host my original icon files for Arcticons and other related files.
 
 ## Licenses
