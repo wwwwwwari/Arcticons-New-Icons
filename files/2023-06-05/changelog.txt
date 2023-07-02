@@ -1,5 +1,3 @@
-Hello, this request includes:
-
 1. New icons for Arc Launcher and its Pro version, made by @rimwulf in #1477
 - resized to 48x48 px
 - changed the 'pro' label (originally using an external font) to standard arcticons font
