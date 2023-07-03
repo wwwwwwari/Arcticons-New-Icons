@@ -7,7 +7,7 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg990"
-   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xml:space="preserve"
    sodipodi:docname="lemmotif.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="11.645833"
-     inkscape:cx="16.014311"
+     inkscape:cx="8.5008947"
      inkscape:cy="24.042934"
      inkscape:window-width="1366"
      inkscape:window-height="737"
@@ -34,13 +34,8 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg990" /><defs
      id="defs987"><style
-       id="style1174">.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Layer 2"
-     transform="matrix(1.4330061,0,0,1.4330061,-10.256213,-12.45593)"
-     style="stroke-width:0.69783374;stroke-dasharray:none"><path
-       style="fill:none;stroke:#ffffff;stroke-width:0.69783374;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stop-color:#000000"
-       d="m 14.463,38.35 2.243394,-3.012497 M 23.899,22.074 C 21.543659,15.742711 16.526057,12.581455 11.611565,12.530355 V 24.681643 L 16.706394,26.586001 23.899,22.074 v 8.222758 l -7.192606,5.040745 V 26.486191 M 33.347282,38.35 31.103888,35.337503 M 23.911282,22.074 c 2.355341,-6.331289 7.372943,-9.492545 12.287435,-9.543645 V 24.681643 L 31.103888,26.586001 23.911282,22.074 m 0,8.222758 7.192606,5.040745 v -8.851312"
-       id="path21137"
-       sodipodi:nodetypes="cccccccccccccccccccc" /></g></svg>
+       id="style1174">.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path
+     style="fill:none;stroke:#fff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stop-color:#000000"
+     d="m 10.469354,42.499854 3.214798,-4.316927 M 23.9912,19.176247 C 20.615982,10.103471 13.425727,5.5733718 6.3832305,5.5001452 V 22.913015 L 13.684152,25.641972 23.9912,19.176247 V 30.959509 L 13.684152,38.182927 V 25.498943 M 37.530646,42.499854 34.315848,38.182927 M 24.0088,19.176247 C 27.384018,10.103471 34.574272,5.5733718 41.616769,5.5001452 V 22.913015 L 34.315848,25.641972 24.0088,19.176247 m 0,11.783262 10.307048,7.223418 V 25.498943"
+     id="path21137"
+     sodipodi:nodetypes="cccccccccccccccccccc" /></svg>

@@ -7,7 +7,7 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg990"
-   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xml:space="preserve"
    sodipodi:docname="_1track.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,40 +25,19 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="11.645833"
-     inkscape:cx="16.014311"
-     inkscape:cy="17.173524"
+     inkscape:cx="8.7584976"
+     inkscape:cy="17.173525"
      inkscape:window-width="1366"
      inkscape:window-height="737"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" /><defs
+     inkscape:current-layer="svg990" /><defs
      id="defs987"><style
    id="style1174">.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
 		
-	</defs><g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Layer 2"
-     style="stroke:#ffffff;stroke-opacity:1"
-     transform="matrix(1.1867248,0,0,1.1867248,-4.4811106,-4.4810778)"><path
-       sodipodi:type="star"
-       style="fill:none;stroke:#ffffff;stroke-width:0.60954395;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       id="path301"
-       inkscape:flatsided="true"
-       sodipodi:sides="6"
-       sodipodi:cx="7.7920675"
-       sodipodi:cy="8.4400578"
-       sodipodi:r1="11.39249"
-       sodipodi:r2="9.8661852"
-       sodipodi:arg1="0.52359878"
-       sodipodi:arg2="1.0471976"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 17.658254,14.136303 -9.8661865,5.696245 -9.8661861,-5.696245 10e-8,-11.3924905 9.8661861,-5.6962451 9.8661864,5.6962452 z"
-       transform="matrix(1.4037086,0,0,1.3614853,13.061968,12.508718)" /><path
-       id="path7130"
-       style="fill:none;stroke:#ffffff;stroke-width:0.42761129;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-       class="st5"
-       d="m 64,25.7 2,-1.1 v 7.376432"
-       transform="matrix(1.9706106,0,0,1.9706106,-108.00494,-24.590828)" /></g></svg>
+	</defs><path
+     id="path7130"
+     style="fill:none;stroke:#fff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     class="st5"
+     d="m 17.01539,26.43769 4.677145,-2.57243 V 41.115582 M 40.43525,33.203472 24,42.406942 7.5647515,33.203472 7.5647516,14.796529 24,5.5930578 40.43525,14.796529 Z" /></svg>

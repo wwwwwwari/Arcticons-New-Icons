@@ -1,9 +1,11 @@
 todo: do appfilter and requests
 
-1. New icons:
-	1112 Delivery, 1Track, 34HD, 3Plus, A-Mobile, AEON Thai Mobile, Albertsons, All Gen, Anime Boya, Auction, Bein Connect, CH7HD, Connect for Lemmy, Easy Open Link, Egg NS Emulator, Faz.net, fennec for Lemmy, Go North East, Lemming, Lemmotif, Liftoff, Loopmuenster, Lunar Phases (many similar apps), Malaysia Prayer Time, Manga UP!, Mergin Maps, MGR Online, Mint Browsers Monster Super League*, nds4droid, OP Auto Clicker, Pepper Invest, Pixly, RedReader Alpha, Studentload Connect, Summit, tabii, ThaiPBS, Thunder, Tsuki Adventure 1 & 2, UAE Pass, Uninstaller (many similar apps), Valkyrie Connect**, Zmanim
-2. New alternative icon for Blue Archive
-3. Add a new variant of TwitCasting
+1. Added icons:
+	Newly created icons: 1112 Delivery, 1Track, 34HD, 3Plus, A-Mobile, AEON Thai Mobile, Albertsons, All Gen, Anime Boya, Auction, Bangkok Biznews, Bein Connect, CH7HD, CIMB TH, Easy Open Link, Egg NS Emulator, Faz.net, fennec for Lemmy, Go North East, Kapook!, Kerry Express, KMA, KTC Mobile, Lemming, Lemmotif, Liftoff, Loopmuenster, Lotus's, Lunar Phases (many similar apps), Malaysia Prayer Time, Manga UP!, MCOT.net, Mergin Maps, MGR Online, Mint Browsers Monster Super League*, MThai, My Thairath, nds4droid, OP Auto Clicker, Pepper Invest, Pixly, Power Buy, RedReader Alpha, Sanook, Studentload Connect, Summit, tabii, ThaiPBS, Thanachart Connect, TTB Touch, Thunder, Tsuki Adventure 1 & 2, UAE Pass, Uninstaller (many similar apps),  UOB TMRW, Valkyrie Connect**, Zmanim
+	New alternative icons: Blue Archive
+	Reused icons: Connect for Lemmy, CH8
+2. Added a new variant of TwitCasting
+3. Fixed #1602 and other icons having similar issues (...)
 
 *I use the [astrochip](https://monstersuperleague.fandom.com/wiki/Capturing) design for the icon, as it is to this game what pokeball is to pokemon games
 **The icon is based on a ["hero"](https://i.imgur.com/JzGv3OM.png) icon from within the game, which is based on one of the main characters. Two other choices are the app's actual [icon](https://i.imgur.com/4jeeM8J.png) and the [text logo](https://i.imgur.com/VFJYBSq.png), both of which I think would be harder to see if made, so I go with the hero icon instead. Any suggestions, let me know.

@@ -7,7 +7,7 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg990"
-   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xml:space="preserve"
    sodipodi:docname="easy_open_link.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="11.645833"
-     inkscape:cx="16.014311"
+     inkscape:cx="8.7584976"
      inkscape:cy="24.042934"
      inkscape:window-width="1366"
      inkscape:window-height="737"
@@ -34,15 +34,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg990" /><defs
      id="defs987"><style
-       id="style1174">.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Layer 2"
-     transform="matrix(0.89957239,0,0,0.89957239,2.9358349,2.1158697)"
-     style="stroke-width:1.11163928;stroke-dasharray:none"><path
-       id="rect9107"
-       style="display:inline;fill:none;fill-opacity:0.797357;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.999745;stop-color:#000000;stroke-width:1.11163928;stroke-dasharray:none"
-       d="M 31.932326,25.302959 V 44.062904 H 3.6801043 v -28.252222 0 H 22.442002" /><path
-       id="path9690-3"
-       style="fill:none;fill-opacity:0.797357;stroke:#ffffff;stroke-width:1.11163928;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.999745;stop-color:#000000"
-       d="M 32.639388,24.595212 21.95261,35.281992 12.461013,25.790396 23.147792,15.103618 m 9.491823,9.491294 3.450733,3.450732 v 0 h 7.060725 l 3.29e-4,-23.4540306 -23.45404,3.201e-4 v 7.0607255 l 3.450049,3.450048" /></g></svg>
+       id="style1174">.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path
+     id="path9690-3"
+     style="fill:none;fill-opacity:0.797357;stroke:#fff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.999745;stop-color:#000000"
+     d="m 32.297327,24.241043 -9.61353,9.613533 -8.538379,-8.538378 9.613531,-9.613531 m 8.538582,8.538106 3.104185,3.104184 v 0 h 6.351633 l 2.96e-4,-21.0985987 -21.098607,2.88e-4 V 12.59828 l 3.103569,3.103568 m 7.902667,9.175865 V 41.753642 H 6.2463551 v -25.414919 0 H 23.12404" /></svg>

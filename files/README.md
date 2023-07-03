@@ -35,8 +35,9 @@ This is my general checklist and workflow for Arcticons development on Debian Li
 6. All lines have round caps and round joins.
 #### Geany Checks
 ##### SVG Validation
-1. Check that there is no `transform`, `evenodd` and `e-notation` mentioned in any svg files. If there is any, follow Arcticons' [guideline](https://github.com/Donnnno/Arcticons/blob/main/CONTRIBUTING.md#how-to-replace) on how to remove them.
-2. Back up the svg files above into a backup folder beforehand
+1. Check that there is no `transform`, `evenodd` and `e-notation` mentioned in any svg files. If there is any, follow Arcticons' [guideline](https://ithub.com/Donnnno/Arcticons/blob/main/CONTRIBUTING.md#how-to-replace) on how to remove them.
+    1. You can also remove `tranform` easily by making a dummy stroke nearby, combine it with the icon, save, then uncombine, remove the dummy stroke, and save again.
+2. Back up the svg files above into a backup folder
 3. Open the svg files in `geany` and CTRL+H the following using Regular Expressions and save all files:
 `stroke-width:\d*.?\d*;` -> `stroke-width:1;`
 `stroke:#[abcdef0-9]{3,6};` -> `stroke:#fff;`
