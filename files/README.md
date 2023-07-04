@@ -39,18 +39,19 @@ This is my general checklist and workflow for Arcticons development on Debian Li
     1. You can also remove `tranform` easily by making a dummy stroke nearby, combine it with the icon, save, then uncombine, remove the dummy stroke, and save again.
 2. Back up the svg files above into a backup folder
 3. Open the svg files in `geany` and CTRL+H the following using Regular Expressions and save all files:
-`stroke-width:\d*.?\d*;` -> `stroke-width:1;`
-`stroke:#[abcdef0-9]{3,6};` -> `stroke:#fff;`
-`stroke-linecap:[a-z]*;` -> `stroke-linecap:round;`
-`stroke-linejoin:[a-z]*;` -> `stroke-linejoin:round;`
+    1. `stroke-width:\d*.?\d*;` -> `stroke-width:1;`
+    2. `stroke:#[abcdef0-9]{3,6};` -> `stroke:#fff;`
+    3. `stroke-linecap:[a-z]*;` -> `stroke-linecap:round;`
+    4. `stroke-linejoin:[a-z]*;` -> `stroke-linejoin:round;`
 4. Re-check that everything still looks correct.
-5. Using InkScape, re-save all the files as Optimized SVGs in a separate folder.
+5. Using SVGO, re-save all the files as Optimized SVGs in a separate folder:
+    1. `svgo -f ./work -i ./opti`
 ##### File Updates and Pull Request
 1. Ensure wwwwwwari's GitHub repo is in sync with Donnnno's using the web interface.
 2. Refresh the local PC's Arcticons repository folder with `git pull origin main`
-3. Make sure icon file names aren't duplicate with any existing icons
-4. Make sure no one has already submitted pull requests for any of the new icons yet
-5. Update `Arcticons/other/appfilter.xml` following `new_appfilter.txt`.
+3. Make sure icon file names aren't duplicate with any newly added icons - check `Arcticons/other/`
+4. Make sure no one has already submitted pull requests for any of the new icons yet - check open pull requests
+5. Update `Arcticons/other/appfilter.xml` following `new_appfilter.txt` and ensure the entries match the new icons
 6. Update `Arcticons/other/requests.xml`. 
 7. Copy icons from the `Arcticons-New-Icons/files/YYYY-MM-DD/opti/` to `Arcticons/other/`
 8. Upload the changes with `git push origin main` to wwwwwwari/Arcticons
