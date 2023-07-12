@@ -1,14 +1,15 @@
-# My Arcticons Checklist and Workflow
-This is my general checklist and workflow for Arcticons development on Debian Linux.
+# Wari's Arcticons Checklist and Workflow
+This is my general checklist and workflow for Arcticons development on Debian Linux. The process should be similar on other OSs too, though.
+* If you use Windows or Mac, ensure that the linefeed character in all of your files is `LF`, not `CR` or `CRLF`. 
 ## Required Tools
 1. Git - should be pre-installed on Linux
 2. InkScape - [Download](https://inkscape.org/release/1.2.2/gnulinux/)
 3. Geany - `sudo apt install geany`
 4. Diffuse - `sudo apt install diffuse` to compare differences between files (optional)
 5. SVGO - `sudo apt install svgo`
-## My Directory Structure
+## Directory Structure
 ```
-(My git folder)/
+(Your git folder)/
 |_ Arcticons/ (Local repository of wwwwwwari/Arcticons)
 |_ Arcticons-New-Icons/ (Local repository of wwwwwwari/Arcticons-New-Icons)
    |_ files/ (main workspace folder; also contains the randomizer script)
@@ -25,15 +26,16 @@ This is my general checklist and workflow for Arcticons development on Debian Li
 1. Save the `<item component>` entries of the new icons in a new text file called `new_appfilter.txt`, this will be used to update `appfilter` after all icons are done.
 2. No +-.,! in icon file names
 3. If the name begins with a number, prefix it with an underscore, e.g. 1track.svg becomes \_1track.svg
-4. Never use dots. Dots slow down the validation because of their differences from lines (i.e. fills instead of no fill; no stroke instead of strokes).  Use very small lines instead.
+4. Never use dots. They slow down the validation because of their differences from lines (i.e. fills instead of no fill; no stroke instead of strokes).  Use very small lines instead.
 ### After Making Icons 
 #### InkScape Checks
 1. There are no hidden layers left.
 2. Everything is ungrouped, including the layer. 
 3. Combine everything.
 4. All lines are 1px wide
-5. All lines are ffffffff white (check the actual color code, not the color slide).
-6. All lines have round caps and round joins.
+5. All lines are ffffffff white
+    1. Check the actual color code under the color slides, not the color slides themselves. InkScape loves to tell you that everything is pure white when the color code is like fffffffb).
+7. All lines have round caps and round joins.
 #### Geany Checks
 ##### SVG Validation
 1. Check that there is no `transform`, `evenodd` and `e-notation` mentioned in any svg files. If there is any, follow Arcticons' [guideline](https://ithub.com/Donnnno/Arcticons/blob/main/CONTRIBUTING.md#how-to-replace) on how to remove them.
@@ -48,7 +50,7 @@ This is my general checklist and workflow for Arcticons development on Debian Li
 5. Using SVGO, re-save all the files as Optimized SVGs in a separate folder:
     1. `svgo -f ./work -i ./opti`
 ##### File Updates and Pull Request
-1. Ensure wwwwwwari's GitHub repo is in sync with Donnnno's using the web interface.
+1. Ensure that your GitHub repo is in sync with Donnnno's using the [web interface](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) before proceeding.
 2. Refresh the local PC's Arcticons repository folder with `git pull origin main`
 3. Make sure icon file names aren't duplicate with any existing and newly added icons - check `Arcticons/icons/` and `Arcticons/other/`
 4. Make sure no one has already submitted pull requests for any of the new icons yet - check open pull requests
