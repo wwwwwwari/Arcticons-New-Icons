@@ -50,7 +50,7 @@ This is my general checklist and workflow for Arcticons development on Debian Li
 ##### File Updates and Pull Request
 1. Ensure wwwwwwari's GitHub repo is in sync with Donnnno's using the web interface.
 2. Refresh the local PC's Arcticons repository folder with `git pull origin main`
-3. Make sure icon file names aren't duplicate with any newly added icons - check `Arcticons/other/`
+3. Make sure icon file names aren't duplicate with any existing and newly added icons - check `Arcticons/icons/` and `Arcticons/other/`
 4. Make sure no one has already submitted pull requests for any of the new icons yet - check open pull requests
 5. Update `Arcticons/other/appfilter.xml` following `new_appfilter.txt` and ensure the entries match the new icons
 6. Update `Arcticons/other/requests.xml`. 
