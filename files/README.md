@@ -38,7 +38,6 @@ This is my general checklist and workflow for Arcticons's icon making process on
     1. Check the actual color code under the color slides, not the color slides themselves. InkScape loves to tell you that everything is pure white when the color code is like fffffffb).
 7. All lines have round caps and round joins.
 #### Geany Checks
-##### SVG Validation
 1. Check that there is no `transform`, `evenodd` and `e-notation` mentioned in any svg files. If there is any, follow Arcticons' [guideline](https://ithub.com/Donnnno/Arcticons/blob/main/CONTRIBUTING.md#how-to-replace) on how to remove them.
     1. You can also remove `tranform` easily by making a dummy stroke nearby, combine it with the icon, save, then uncombine, remove the dummy stroke, and save again.
 2. Back up the svg files above into a backup folder
@@ -50,7 +49,7 @@ This is my general checklist and workflow for Arcticons's icon making process on
 4. Re-check that everything still looks correct.
 5. Using SVGO, re-save all the files as Optimized SVGs in a separate folder:
     1. `svgo -f ./work -i ./opti`
-##### File Updates and Pull Request
+#### Final Checks & Making a Pull Request
 1. Ensure that your GitHub repo is in sync with Donnnno's using the [web interface](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) before proceeding.
 2. Refresh the local PC's Arcticons repository folder with `git pull origin main`
 3. Make sure icon file names aren't duplicate with any existing and newly added icons - check `Arcticons/icons/` and `Arcticons/other/`
