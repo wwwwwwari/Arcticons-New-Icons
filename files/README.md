@@ -14,7 +14,7 @@ This is my general checklist and workflow for Arcticons development on Debian Li
       |_ YYYY-MM-DD/ (workspace of each pull request)
       |  |_ svg/ (all SVG files are saved within here)
       |     |_ bkup/ (backups of /work/ SVG files I've made before applying the regex)
-      |     |_ opti/ (final files to be copied to the main repository. you shouldn't edit these directly)
+      |     |_ opti/ (final files to be copied to the main repository. shouldn't be edited directly)
       |     |_ work/ (main workspace for SVGs)
       |_ plans/ (icons I'm interested in doing in the future)
 ```
