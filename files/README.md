@@ -5,6 +5,7 @@ This is my general checklist and workflow for Arcticons development on Debian Li
 2. InkScape - [Download](https://inkscape.org/release/1.2.2/gnulinux/)
 3. Geany - `sudo apt install geany`
 4. Diffuse - `sudo apt install diffuse` to compare differences between files (optional)
+5. SVGO - `sudo apt install svgo`
 ## My Directory Structure
 ```
 (My git folder)/
