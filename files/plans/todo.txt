@@ -1,0 +1,3 @@
+true_iservice and tungngern's icons are broken
+
+need to research preparerelease.py on how it builds png in /app/src/dark/res/drawable-nodpi
