@@ -1,5 +1,5 @@
 # Wari's Arcticons Checklist and Workflow
-This is my general checklist and workflow for Arcticons development on Debian Linux. The process should be similar on other OSs too, though.
+This is my general checklist and workflow for Arcticons's icon making process on Debian Linux. The process should be similar on other OSs too, though.
 * If you use Windows or Mac, ensure that the linefeed character in all of your files is `LF`, not `CR` or `CRLF`. 
 ## Required Tools
 1. Git - should be pre-installed on Linux
