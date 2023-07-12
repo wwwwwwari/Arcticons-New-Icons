@@ -52,7 +52,7 @@ This is my general checklist and workflow for Arcticons development on Debian Li
 2. Refresh the local PC's Arcticons repository folder with `git pull origin main`
 3. Make sure icon file names aren't duplicate with any existing and newly added icons - check `Arcticons/icons/` and `Arcticons/other/`
 4. Make sure no one has already submitted pull requests for any of the new icons yet - check open pull requests
-5. Update `Arcticons/other/appfilter.xml` following `new_appfilter.txt` and ensure the entries match the new icons
+5. Update `Arcticons/other/appfilter.xml` following `new_appfilter.txt` and ensure the entries match the new icons, especially the value after `drawable=` (must match .svg file names).
 6. Update `Arcticons/other/requests.xml`. 
 7. Copy icons from the `Arcticons-New-Icons/files/YYYY-MM-DD/opti/` to `Arcticons/other/`
 8. Upload the changes with `git push origin main` to wwwwwwari/Arcticons
@@ -65,5 +65,5 @@ If you want to change the icon file names, you need to rename the following file
 3. `/app/src/you/res/drawable-anydpi-v26/your-icon.xml`
 4. `/icons/white/your-icon.svg`
 5. `/icons/black/your-icon.svg`
-## Calendar Icon Files
+### Calendar Icon Files
 For Calendar apps, there are **TWO** appfilter entries per app: calendar_31 (static) and calendar_ (dynamic)
