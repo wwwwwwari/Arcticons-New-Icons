@@ -27,6 +27,7 @@ This is my general checklist and workflow for Arcticons development on Debian Li
 2. No +-.,! in icon file names
 3. If the name begins with a number, prefix it with an underscore, e.g. 1track.svg becomes \_1track.svg
 4. Never use dots. They slow down the validation because of their differences from lines (i.e. fills instead of no fill; no stroke instead of strokes).  Use very small lines instead.
+5. For Calendar apps, there are **TWO** appfilter entries to make per app: one with at `drawable=calendar_31` (static icon) and the other with `drawable=calendar_ (dynamic)`.
 ### After Making Icons 
 #### InkScape Checks
 1. There are no hidden layers left.
@@ -67,5 +68,3 @@ If you want to change the icon file names, you need to rename the following file
 3. `/app/src/you/res/drawable-anydpi-v26/your-icon.xml`
 4. `/icons/white/your-icon.svg`
 5. `/icons/black/your-icon.svg`
-### Calendar Icon Files
-For Calendar apps, there are **TWO** appfilter entries per app: calendar_31 (static) and calendar_ (dynamic)
