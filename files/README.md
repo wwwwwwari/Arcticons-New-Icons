@@ -55,7 +55,7 @@ This is my general checklist and workflow for Arcticons's icon making process on
 3. Make sure icon file names aren't duplicate with any existing and newly added icons - check `Arcticons/icons/` and `Arcticons/other/`
 4. Make sure no one has already submitted pull requests for any of the new icons yet - check open pull requests
 5. Update `Arcticons/other/appfilter.xml` following `new_appfilter.txt` and ensure the entries match the new icons, especially the value after `drawable=` (must match .svg file names).
-  1. You don't need to insert each of the new entries to maintain the files' alphabetical sort order. Just insert all of your new entries somewhere - Arcticons' build process will automatically sort the lines afterwards.
+    1. You don't need to insert each of the new entries to maintain the files' alphabetical sort order. Just insert all of your new entries somewhere - Arcticons' build process will automatically sort the lines afterwards.
 7. Update `Arcticons/other/requests.xml`. 
 8. Copy icons from the `Arcticons-New-Icons/files/YYYY-MM-DD/opti/` to `Arcticons/other/`
 9. Upload the changes with `git push origin main` to wwwwwwari/Arcticons
