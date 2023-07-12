@@ -1,0 +1,12 @@
+  <!-- HyperRail -->
+  <item component="ComponentInfo{be.hyperrail.android/be.hyperrail.android.activities.MainActivity}" drawable="hyperrail"/>
+
+  <!-- Mi Fitness -->
+  <item component="ComponentInfo{com.mi.health/com.xiaomi.fitness.login.SplashActivity}" drawable="mi_fitness"/>
+
+  <!-- Mi Fitness -->
+  <item component="ComponentInfo{com.xiaomi.wearable/com.xiaomi.fitness.login.SplashActivity}" drawable="mi_fitness"/>
+
+  <!-- Pepper -->
+  <item component="ComponentInfo{com.tippingcanoe.pepperpl/com.pepper.apps.android.presentation.MainActivity}" drawable="pepper"/>
+

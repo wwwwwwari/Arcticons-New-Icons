@@ -4,7 +4,7 @@ This is my general checklist and workflow for Arcticons development on Debian Li
 1. Git - should be pre-installed on Linux
 2. InkScape - [Download](https://inkscape.org/release/1.2.2/gnulinux/)
 3. Geany - `sudo apt install geany`
-4. Diffuse - `sudo apt install diffuse`
+4. Diffuse - `sudo apt install diffuse` to compare differences between files (optional)
 ## My Directory Structure
 ```
 (My git folder)/
@@ -22,7 +22,7 @@ This is my general checklist and workflow for Arcticons development on Debian Li
 ### While Making Icons
 #### General Checks
 1. Save the `<item component>` entries of the new icons in a new text file called `new_appfilter.txt`, this will be used to update `appfilter` after all icons are done.
-2. No +1-.,! in icon file names
+2. No +-.,! in icon file names
 3. If the name begins with a number, prefix it with an underscore, e.g. 1track.svg becomes \_1track.svg
 4. Never use dots. Dots slow down the validation because of their differences from lines (i.e. fills instead of no fill; no stroke instead of strokes).  Use very small lines instead.
 ### After Making Icons 
@@ -56,3 +56,13 @@ This is my general checklist and workflow for Arcticons development on Debian Li
 7. Copy icons from the `Arcticons-New-Icons/files/YYYY-MM-DD/opti/` to `Arcticons/other/`
 8. Upload the changes with `git push origin main` to wwwwwwari/Arcticons
 9. Make a pull request
+## Other Notes
+### Renaming Icon Files
+If you want to change the icon file names, you need to rename the following files in addition to updating `appfilter.xml`:
+1. `/app/src/light/res/drawable-nodpi/your-icon.png`
+2. `/app/src/dark/res/drawable-nodpi/your-icon.png`
+3. `/app/src/you/res/drawable-anydpi-v26/your-icon.xml`
+4. `/icons/white/your-icon.svg`
+5. `/icons/black/your-icon.svg`
+## Calendar Icon Files
+For Calendar apps, there are **TWO** appfilter entries per app: calendar_31 (static) and calendar_ (dynamic)

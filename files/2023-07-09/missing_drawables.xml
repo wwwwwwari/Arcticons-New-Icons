@@ -1,0 +1,48 @@
+<resources>
+  
+  <!-- Kalium  -->
+  <item component="ComponentInfo{com.banano.kaliumwallet/com.banano.kaliumwallet.MainActivity}" drawable="kalium"/>
+
+  <!-- Checkey -->
+  <item component="ComponentInfo{info.guardianproject.checkey/info.guardianproject.checkey.MainActivity}" drawable="checkey"/>
+
+  <!-- Fallout Shelter -->
+  <item component="ComponentInfo{com.bethsoft.falloutshelter/com.bhvr.Prime31MainActivityWithMemoryWarning}" drawable="falloutshelter"/>
+
+  <!-- FIFA Mobile -->
+  <item component="ComponentInfo{com.ea.gp.fifamobile/com.ea.gp.fifamobile.FifaMainActivity}" drawable="fifa_mobile"/>
+
+  <!-- Fruit Radar -->
+  <item component="ComponentInfo{eu.quelltext.mundraub/eu.quelltext.mundraub.activities.StartupActivity}" drawable="fruitradar"/>
+
+  <!-- Light House -->
+  <item component="ComponentInfo{com.bananadevelopment.lighthouse/md54c141cce6222f129d1b82da10b59cd89.SplashActivity}" drawable="lighthouse"/>
+
+  <!-- ON Plus -->
+  <item component="ComponentInfo{com.vtvcab.onsports/com.vtvcab.onsports.SplashActivity}" drawable="on_plus"/>
+
+  <!-- Perspective -->
+  <item component="ComponentInfo{com.dan.perspective/com.dan.perspective.MainActivity}" drawable="perspective"/>
+
+  <!-- Plankwork-out -->
+  <item component="ComponentInfo{fat.burnning.plank.fitness.loseweight/fat.burnning.plank.fitness.loseweight.activity.StartActivity}" drawable="plank_workout"/>
+
+  <!-- Power Ampache -->
+  <item component="ComponentInfo{com.antoniotari.reactiveampacheapp/com.antoniotari.reactiveampacheapp.ui.activities.SplashActivity}" drawable="powerampache"/>
+
+  <!-- Power Ampache -->
+  <item component="ComponentInfo{com.antoniotari.reactiveampacheapp/com.antoniotari.reactiveampacheapp.MainActivity}" drawable="powerampache"/>
+
+  <!-- Privacy Shade -->
+  <item component="ComponentInfo{com.blackberry.privacyfilter/com.blackberry.privacyfilter.ToggleActivity}" drawable="privacyshade"/>
+
+  <!-- USB Backup -->
+  <item component="ComponentInfo{com.sec.android.autobackup/com.sec.android.autobackup.ui.LauncherActivity}" drawable="usb_backup"/>
+
+  <!-- VideoCrop -->
+  <item component="ComponentInfo{ru.cherryperry.instavideo/ru.cherryperry.instavideo.presentation.MainActivity}" drawable="videocrop"/>
+
+  <!-- Walgreens -->
+  <item component="ComponentInfo{com.usablenet.mobile.walgreen/com.usablenet.mobile.walgreen.AppStart}" drawable="walgreens"/>
+
+</resources>

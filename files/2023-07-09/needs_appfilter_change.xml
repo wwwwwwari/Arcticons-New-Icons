@@ -1,0 +1,176 @@
+  <!-- Alaska Airlines -->
+  <item component="ComponentInfo{com.alaskaairlines.android/com.alaskaairlines.android.activities.MainActivity}" drawable="alaska_airlines"/>
+
+  <!-- AppLock -->
+  <item component="ComponentInfo{com.sp.protector.free/com.sp.protector.free.StartActivity}" drawable="app_lock"/>
+
+  <!-- BicikeLJ official -->
+  <item component="ComponentInfo{com.jcdecaux.vls.ljubljana/com.jcdecaux.vls.app.navigation.NavigationActivity}" drawable="bicikelj"/>
+
+  <!-- Bird Buddy: Smart Bird Feeder -->
+  <item component="ComponentInfo{com.birdbuddy.app/com.birdbuddy.app.MainActivity}" drawable="birdbuddy"/>
+
+  <!-- Burger King -->
+  <item component="ComponentInfo{burgerking.com.br.appandroid/burgerking.com.br.appandroid.splash.SplashActivity_}" drawable="burgerking"/>
+
+  <!-- Calculator -->
+  <item component="ComponentInfo{com.hld.anzenbokusufake/com.hld.anzenbokusu.calculator}" drawable="calculator"/>
+
+  <!-- Calendar -->
+  <item component="ComponentInfo{com.lbrc.PeriodCalendar/com.digitalchemy.period.activity.MainActivity}" drawable="calendar_"/>
+
+  <!-- Calendar -->
+  <item component="ComponentInfo{com.mi.calendar.agenda/com.icalendar.os.activity.SplashScreenActivity}" drawable="calendar_"/>
+
+  <!-- Calendar -->
+  <item component="ComponentInfo{org.leafos.etar/com.android.calendar.AllInOneActivity}" drawable="calendar_"/>
+
+  <!-- Camera -->
+  <item component="ComponentInfo{com.motorola.odm.camera3/com.android.camera.CameraLauncher}" drawable="camera"/>
+
+  <!-- Camera -->
+  <item component="ComponentInfo{Cameracom.iakmds.librecamera/com.iakmds.librecamera.MainActivity}" drawable="camera"/>
+
+  <!-- Chromium -->
+  <item component="ComponentInfo{org.leafos.chromium/com.google.android.apps.chrome.Main}" drawable="google_chrome"/>
+
+  <!-- Chromium -->
+  <item component="ComponentInfo{org.chromium.chrome.stable/com.google.android.apps.chrome.Main}" drawable="google_chrome"/>
+
+  <!-- Clock -->
+  <item component="ComponentInfo{org.artsplanet.android.simpleanalogclock/org.artsplanet.android.simpleanalogclock.MainActivity}" drawable="clock"/>
+
+  <!-- Default -->
+  <item component=":CALENDAR" drawable="calendar_"/>
+
+  <!-- Disney+ -->
+  <item component="ComponentInfo{in.startv.hotstar/com.hotstar.MainActivity}" drawable="disney"/>
+
+  <!-- Dolphin Emulator -->
+  <item component="ComponentInfo{org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.DolphinEmulator}" drawable="dolphinemulator"/>
+
+  <!-- DTEK by BlackBerry -->
+  <item component="ComponentInfo{com.blackberry.privacydashboard/com.blackberry.privacydashboard.SafeguardActivity}" drawable="privacy_dashboard"/>
+
+  <!-- Family Safety -->
+  <item component="ComponentInfo{com.microsoft.familysafety/com.microsoft.familysafety.MainActivity}" drawable="microsoft_family_safety"/>
+
+  <!-- Flik Pay -->
+  <item component="ComponentInfo{si.bankart.flik/si.bankart.flik.MainActivity}" drawable="flik"/>
+
+  <!-- FM Radio -->
+  <item component="ComponentInfo{com.huaqin.FM/com.huaqin.FM.FM}" drawable="radio"/>
+
+  <!-- FM Radio -->
+  <item component="ComponentInfo{com.ontim.fmradio/com.ontim.fmradio.activities.MainActivity}" drawable="radio"/>
+
+  <!-- FM Radio -->
+  <item component="ComponentInfo{com.funbase.xradio/com.funbase.xradio.home.activity.MainActivity}" drawable="radio"/>
+
+  <!-- FM Radio -->
+  <item component="ComponentInfo{com.ape.fmradio/com.ape.fmradio.FmMainActivity}" drawable="radio"/>
+
+  <!-- Gallery -->
+  <item component="ComponentInfo{gallery.photos.video.quickpic.fastopenphotosvideos/com.galleryapp.gallery.dev.activities.SplashActivity.Orange}" drawable="gallery"/>
+
+  <!-- Gallery -->
+  <item component="ComponentInfo{com.zui.gallery/com.zui.gallery.app.GalleryActivity}" drawable="gallery"/>
+
+  <!-- GEICO Mobile -->
+  <item component="ComponentInfo{com.geico.mobile/com.geico.mobile.android.ace.geicoapppresentation.splash.mvvm.view.AceSplashActivity}" drawable="letter_uppercase_square_g"/>
+
+  <!-- Godot Editor -->
+  <item component="ComponentInfo{org.godotengine.editor.v3/org.godotengine.editor.GodotProjectManager}" drawable="godot"/>
+
+  <!-- Godot Editor -->
+  <item component="ComponentInfo{org.godotengine.editor.v4/org.godotengine.editor.GodotProjectManager}" drawable="godot"/>
+
+  <!-- Google Analytics -->
+  <item component="ComponentInfo{com.google.android.apps.giant/com.google.android.apps.giant.flutter.HostActivity}" drawable="google_analytics"/>
+
+  <!-- Gov.br -->
+  <item component="ComponentInfo{br.gov.meugovbr/br.gov.meugovbr.MainActivity}" drawable="gov_br"/>
+
+  <!-- GSAApp -->
+  <item component="ComponentInfo{de.umweltbundesamt.gsa/de.umweltbundesamt.gsa.views.SplashActivity}" drawable="gsa"/>
+
+  <!-- INDmoney -->
+  <item component="ComponentInfo{in.indwealth/com.indwealth.android.ui.splash.SplashActivity}" drawable="ind_money"/>
+
+  <!-- Just Eat / Takeaway / Thuisbezorgd / Lieferando / GrubHub -->
+  <item component="ComponentInfo{at.lieferservice.android/com.takeaway.android.activity.Splash}" drawable="just_eat"/>
+
+  <!-- Just Eat / Takeaway / Thuisbezorgd / Lieferando / GrubHub -->
+  <item component="ComponentInfo{be.pizza.android/com.takeaway.android.activity.Splash}" drawable="just_eat"/>
+
+  <!-- Kiwi.com -->
+  <item component="ComponentInfo{com.skypicker.main/com.kiwi.android.feature.splash.impl.ui.SplashActivity}" drawable="kiwi"/>
+
+  <!-- Liên Quân Mobile -->
+  <item component="ComponentInfo{com.garena.game.kgvn/com.garena.game.kgtw.SGameActivity}" drawable="lien_quan_mobile"/>
+  <item component="ComponentInfo{com.garena.game.kgsam/com.garena.game.kgtw.SGameActivity}" drawable="lien_quan_mobile"/>
+  <item component="ComponentInfo{com.garena.game.kgth/com.garena.game.kgtw.SGameActivity}" drawable="lien_quan_mobile"/>
+  <item component="ComponentInfo{com.garena.game.kgtw/com.garena.game.kgtw.SGameActivity}" drawable="lien_quan_mobile"/>
+
+  <!-- Manual Camera DSLR Pro -->
+  <item component="ComponentInfo{com.lensesdev.manual.camera.pro/com.antafunny.burstcamera.MainActivity}" drawable="lineage_camera"/>
+
+  <!-- mBills.si -->
+  <item component="ComponentInfo{si.mbills.mbills_petrol.prod/si.mbills.mbills_petrol.MainActivity}" drawable="mbills"/>
+
+  <!-- Meow -->
+  <item component="ComponentInfo{app.meowstodon.meowstodon/app.meowstodon.meowstodon.MainActivity}" drawable="meowstodon"/>
+
+  <!-- Millennium -->
+  <item component="ComponentInfo{wit.android.bcpBankingApp.millennium/wit.android.bcpBankingApp.ui.activities.SplashScreenActivity}" drawable="bankmillennium"/>
+
+  <!-- MOJ M -->
+  <item component="ComponentInfo{si.mercator.mojm/si.mercator.mojm.MainActivity}" drawable="mojm"/>
+
+  <!-- MOJ@SKB -->
+  <item component="ComponentInfo{com.halcom.mobile.hybrid.skbasi2xxxx/com.halcom.mobile.hybrid.activity.SplashActivitySKBASI2X}" drawable="skb"/>
+
+  <!-- Music Player -->
+  <item component="ComponentInfo{com.bestmusic2018.SMuciPro/com.bestmusic2018.smusicplayer3dpro.UIMain.activity.MainActivity}" drawable="mediaplayer"/>
+
+  <!-- Olauncher -->
+  <item component="ComponentInfo{app.olaunchercf/app.olaunchercf.MainActivity}" drawable="circle"/>
+  
+  <!-- Os Launcher 12 Free -->
+  <item component="ComponentInfo{appmania.launcher.oslauncher.free/appmania.launcher.oslauncher.SplashActivity}" drawable="letter_uppercase_square_x"/>
+
+  <!-- Palm Store -->
+  <item component="ComponentInfo{com.transsnet.store/com.afmobi.palmplay.StartActivity}" drawable="palmstore"/>
+
+  <!-- Phone -->
+  <item component="ComponentInfo{com.android.contacts/com.android.dialer.app.DialtactsActivity}" drawable="phone"/>
+
+  <!-- QooApp -->
+  <item component="ComponentInfo{com.qooapp.qoohelper/com.qooapp.qoohelper.arch.welcome.WelcomeActivity}" drawable="qoo_app"/>
+
+  <!-- Schoology -->
+  <item component="ComponentInfo{com.schoology.app/com.schoology.app.navigation.startup.StartupActivity}" drawable="letter_uppercase_circle_s"/>
+
+  <!-- Smart AudioBook Player  -->
+  <item component="ComponentInfo{ak.alizandro.smartaudiobookplayer/ak.alizandro.smartaudiobookplayer.PlayerActivity}" drawable="smart_audiobook_player"/>
+
+  <!-- Snack Video -->
+  <item component="ComponentInfo{com.kwai.bulldog/com.yxcorp.gifshow.homepage.HomeActivity}" drawable="snackvideo"/>
+
+  <!-- Sticker Maker -->
+  <item component="ComponentInfo{customstickermaker.whatsappstickers.personalstickersforwhatsapp/customstickermaker.whatsappstickers.personalstickersforwhatsapp.permission.PermissionActivity}" drawable="stickermaker"/>
+
+  <!-- SuperImage -->
+  <item component="ComponentInfo{com.zhenxiang.superimage/com.zhenxiang.superimage.MainActivity}" drawable="letter_uppercase_square_s"/>
+
+  <!-- Unitto -->
+  <item component="ComponentInfo{com.sadellie.unitto/com.sadellie.unitto.MainActivity}" drawable="letter_uppercase_square_u"/>
+
+  <!-- VIMAGE -->
+  <item component="ComponentInfo{com.vimage.android/com.vimage.vimageapp.SplashActivity}" drawable="letter_uppercase_square_v"/>
+
+  <!-- Yandex Start -->
+  <item component="ComponentInfo{ru.yandex.searchplugin/ru.yandex.searchplugin.MainActivity}" drawable="yandex_start"/>
+
+  <!-- Youtube TV -->
+  <item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.startup.activity.SplashActivity}" drawable="youtube_tv"/>

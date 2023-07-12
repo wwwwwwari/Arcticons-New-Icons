@@ -1,0 +1,81 @@
+This pull requests mostly fix icons not showing up in the following ways:
+1. **Rename some icon files** - for cases where it is obvious that the icon files are just a typo/weirdly named, this renames the files in `src\dark`, `src\light`, `src\you`, `icons\white` and `icons\black`.
+    * Hyperrail (`hyperraril` -> `hyperrail`)
+    * Mi Fitness (`mi_fittness` -> `mi_fitness`)
+    * Pepper (`pepper_1` -> `pepper`)
+2. **Add new icons** - for cases where I couldn't find the existing icon files that their appfilter entries are trying to use at all, new icons are added.
+3. **Change the drawable value in some appfilter entries** - for apps that I could find the existing .svg files they're trying to use, but the `drawable=` value is wrong.
+    * Note: This also adds 3 other variants of Lien Quan Mobile that I found.
++++
+todo
+1. The following appfilter entries are pointing at non-existent icons
+- com.banano.kaliumwallet (pr #1476)
+- info.guardianproject.checkey (unknown pr)
+- com.bethsoft.falloutshelter (unknown pr)
+- com.ea.gp.fifamobile (unknown pr)
+- eu.quelltext.mundraub (unknown pr)
+- com.bananadevelopment.lighthouse (unknown pr)
+- com.vtvcab.onsports (pr #1483)
+- com.dan.perspective (unknown pr)
+- fat.burnning.plank.fitness.loseweight (unknown pr)
+- com.antoniotari.reactiveampacheapp (unknown pr)
+- com.blackberry.privacyfilter (unknown pr)
+- com.sec.android.autobackup (pr #1483)
+- ru.cherryperry.instavideo (unknown pr)
+- com.usablenet.mobile.walgreen (unknown pr)
+
+2. icon exists but appfilter points at wrong drawable name
+- com.alaskaairlines.android, change to "alaska_airlines"
+- com.sp.protector.free, change to "app_lock"
+- com.jcdecaux.vls.ljubljana, change to "bicikelj"
+- com.birdbuddy.app, change to "birdbuddy"
+- burgerking.com.br.appandroid, change to "burgerking"
+- com.hld.anzenbokusufake, change to "calculator"
+- com.lbrc.PeriodCalendar, com.mi.calendar.agenda and org.leafos.etar, change to "calendar_"
+- com.motorola.odm.camera3 and Cameracom.iakmds.librecamera, change to "camera"
+- org.leafos.chromium and org.chromium.chrome.stable, change to "google_chrome"
+- org.artsplanet.android.simpleanalogclock, change to "clock"
+- :CALENDAR, change to "calendar_"
+- in.startv.hotstar, change to "disney"
+- org.dolphinemu.dolphinemu, change to "dolphinemulator"
+- com.blackberry.privacydashboard, change to "privacy_dashboard"
+- com.microsoft.familysafety, change to "microsoft_family_safety"
+- si.bankart.flik, change to "flik"
+- com.huaqin.FM, com.ontim.fmradio, com.funbase.xradio and com.ape.fmradio, change to "radio"
+- gallery.photos.video.quickpic.fastopenphotosvideos and com.zui.gallery, change  to "gallery"
+- com.geico.mobile, change to "letter_uppercase_square_g"
+- org.godotengine.editor.v3 and org.godotengine.editor.v4, change to "godot"
+- com.google.android.apps.giant, change to "google_analytics"
+- br.gov.meugovbr, change to "gov_br"
+- de.umweltbundesamt.gsa, change to "gsa"
+- in.indwealth, change to "ind_money"
+- at.lieferservice.android and be.pizza.android, change to "just_eat"
+- com.skypicker.main, change to "kiwi"
+- com.garena.game.kgvn, change to "lien_quan_mobile" (also added "com.garena.game.kgth", "com.garena.game.kgsam", and "com.garena.game.kgtw" as new variants of this app)
+- com.lensesdev.manual.camera.pro, change to "lineage_camera"
+- si.mbills.mbills_petrol.prod, change to "mbills"
+- app.meowstodon.meowstodon. change to "meowstodon"
+- wit.android.bcpBankingApp.millennium, change to "bankmillennium"
+- si.mercator.mojm, change to "mojm"
+- com.halcom.mobile.hybrid.skbasi2xxxx, change to "skb"
+- com.bestmusic2018.SMuciPro, change to "music"
+- app.olaunchercf, change to "circle"
+- openfoodfacts.github.scrachx.openfood, change to "openfoodfacts"
+- appmania.launcher.oslauncher.free, change to "letter_uppercase_square_x"
+- com.transsnet.store, change to "palmstore"
+- com.android.contacts, change to "phone"
+- com.qooapp.qoohelper, change to "qoo_app"
+- com.schoology.app, change to "letter_uppercase_circle_s"
+- ak.alizandro.smartaudiobookplayer, change to "smart_audiobook_player"
+- com.kwai.bulldog, change to "snackvideo"
+- customstickermaker.whatsappstickers.personalstickersforwhatsapp, change to "stickermaker"
+- com.zhenxiang.superimage, change to "letter_uppercase_square_s"
+- com.sadellie.unitto, change to "letter_uppercase_square_u"
+- com.vimage.android, change to "letter_uppercase_square_v"
+- ru.yandex.searchplugin, change to "yandex_start"
+- {com.google.android.apps.youtube.unplugged, change to "youtube_tv"
+
+3. Rename the icon itself
+- hyperraril.svg, change to "hyperrail.svg"
+- mi_fittness.svg, change to "mi_fitness.svg"
+- pepper_1.svg, change to "pepper.svg"
