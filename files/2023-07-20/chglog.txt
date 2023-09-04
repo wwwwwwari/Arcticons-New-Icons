@@ -1,0 +1,5 @@
+This PR includes:
+1. New icons for 37 apps - mostly Kemco games and Thai university apps
+2. Alternative icon for TunnelBear
+3. Fixed stroke color values in Tungngern and True iService icons (#1628)
+4. Remove FF7 and Getting Over It from requests.txt

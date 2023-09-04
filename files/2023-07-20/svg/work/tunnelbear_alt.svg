@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="a"
+   viewBox="0 0 48 48"
+   version="1.1"
+   sodipodi:docname="tunnelbear.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="11.645833"
+     inkscape:cx="15.627907"
+     inkscape:cy="24.042934"
+     inkscape:window-width="1366"
+     inkscape:window-height="737"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="a" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.b{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <path
+     id="path16"
+     style="stroke-width:1;stroke-dasharray:none"
+     class="b"
+     d="M 43.499993,11.864855 H 17.900668 c -13.2327392,0 -15.3051329,8.571648 -12.0360695,12.581479 5.9604245,7.311187 16.1551415,1.54971 13.5182025,-4.3543 -1.482133,-3.318102 -5.764867,-3.830419 -7.700111,-1.496883 M 5.3295558,36.135144 c 2.4543392,-2.713488 9.4122872,-0.536637 13.8943662,-0.536637 2.02176,0 4.241869,-0.63332 5.591835,-4.43942 2.060433,-5.808922 5.17939,-14.841656 6.530951,-19.294232" />
+</svg>

@@ -18,9 +18,6 @@
 	<!-- iKKU -->
 	<item component="ComponentInfo{th.ac.app.ikku/th.ac.app.ikku.module.splash.activity.SplashScreenActivity}" drawable="ikku"/>
 
-	<!-- KKU REG -->
-	<item component="ComponentInfo{th.ac.kku.app/th.ac.kku.app.MainActivity}" drawable="kku_reg"/>
-
 	<!-- KMITL UApp -->
 	<item component="ComponentInfo{com.ktbuniversity.kmitlmobile/com.ktb_uapp.MainActivity}" drawable="kmitl_uapp"/>
 
@@ -57,11 +54,11 @@
     <!-- KULife -->
     <item component="ComponentInfo{th.ac.ku.kulife/th.ac.ku.kulife.MainActivity}" drawable="kulife"/>
 
-    <!-- SKY+ -->
-    <item component="ComponentInfo{whiz.muic.uspark.pro.android/whiz.uspark.pro.android.presentation.login.LoginActivity}" drawable="sky"/>
+    <!-- SKY+ for Lecturers -->
+    <item component="ComponentInfo{whiz.muic.uspark.pro.android/whiz.uspark.pro.android.presentation.login.LoginActivity}" drawable="sky_for_lecturers"/>
 
-    <!-- SKY+ -->
-    <item component="ComponentInfo{whiz.muic.uspark.student.android/whiz.uspark.student.android.presentation.login.LoginActivity}" drawable="sky"/>
+    <!-- SKY+ for Students -->
+    <item component="ComponentInfo{whiz.muic.uspark.student.android/whiz.uspark.student.android.presentation.login.LoginActivity}" drawable="sky_for_students"/>
 
     <!-- CMU MOBILE -->
     <item component="ComponentInfo{th.ac.cmu.mobile.portal/com.cmu_mobile_app_2019.MainActivity}" drawable="cmu_mobile"/>

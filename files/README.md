@@ -7,6 +7,7 @@ This is my general checklist and workflow for Arcticons's icon making process on
 3. Geany - `sudo apt install geany`
 4. Diffuse - `sudo apt install diffuse` to compare differences between files (optional)
 5. SVGO - `sudo apt install svgo`
+6. Compare two lists - [online tool](https://comparetwolists.com/)
 ## Directory Structure
 ```
 (Your git folder)/
@@ -46,6 +47,7 @@ This is my general checklist and workflow for Arcticons's icon making process on
     2. `stroke:#[abcdef0-9]{3,6};` -> `stroke:#fff;`
     3. `stroke-linecap:[a-z]*;` -> `stroke-linecap:round;`
     4. `stroke-linejoin:[a-z]*;` -> `stroke-linejoin:round;`
+    5. `stroke:rgba?.*?(?=[\"; ])` -> `stroke:#fff`
 4. Re-check that everything still looks correct.
 5. Using SVGO, re-save all the files as Optimized SVGs in a separate folder:
     1. `svgo -f ./work -i ./opti`
@@ -53,12 +55,13 @@ This is my general checklist and workflow for Arcticons's icon making process on
 1. Ensure that your GitHub repo is in sync with Donnnno's using the [web interface](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) before proceeding.
 2. Refresh the local PC's Arcticons repository folder with `git pull origin main`
 3. Make sure icon file names aren't duplicate with any existing and newly added icons - check `Arcticons/icons/` and `Arcticons/other/`
-4. Make sure no one has already submitted pull requests for any of the new icons yet - check open pull requests
+4. Make sure no one has already submitted pull requests for any of the new icons yet (check new and recently merged PRs)
 5. Update `Arcticons/other/appfilter.xml` following `new_appfilter.txt` and ensure the entries match the new icons, especially the value after `drawable=` (must match .svg file names).
     1. You don't need to insert each of the new entries to maintain the files' alphabetical sort order. Just insert all of your new entries somewhere - Arcticons' build process will automatically sort the lines afterwards.
-7. Update `Arcticons/other/requests.xml`. 
+    2. Also ensure your icon names don't already exist for other apps - use the **Compare two lists** tool to compare the list of your new icon names to the list of files in `icons/white` and `other/`
+7. Update `Arcticons/other/requests.txt`. 
 8. Copy icons from the `Arcticons-New-Icons/files/YYYY-MM-DD/opti/` to `Arcticons/other/`
-9. Upload the changes with `git push origin main` to wwwwwwari/Arcticons
+9. Upload the changes with `git status` `git commit -m <comment>` and `git push origin main` to `wwwwwwari/Arcticons`
 10. Make a pull request
 ## Other Notes
 ### Renaming Icon Files
