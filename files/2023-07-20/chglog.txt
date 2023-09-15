@@ -3,3 +3,7 @@ This PR includes:
 2. Alternative icon for TunnelBear
 3. Fixed stroke color values in Tungngern and True iService icons (#1628)
 4. Remove FF7 and Getting Over It from requests.txt
+5. Fix missing icons due to typo drawable value in appfilter
+6. Fix missing icons due to typo in icon file names (Aakash itutor, Cleartrip, DBS Digibank,
+7. Restore Folder Sync Pro app icon from 6.7.1 and put it in `/other/` (probably got accidentally removed when the folder icons were revamped? lol)
+
