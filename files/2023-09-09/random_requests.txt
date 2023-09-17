@@ -1,210 +1,213 @@
-<!-- TicketNew -->
-<item component="ComponentInfo{ticketnew.android.ui/ticketnew.android.ui.activity.SplashActivity}" drawable="ticketnew" />
-https://play.google.com/store/apps/details?id=ticketnew.android.ui
-https://f-droid.org/en/packages/ticketnew.android.ui/
-Requested 7 times
-Last requested 1688967975.0
-    
-<!-- Nykaaman -->
-<item component="ComponentInfo{com.fsn.nykaa.man/com.fsn.nykaa.SplashScreenActivity}" drawable="nykaaman" />
-https://play.google.com/store/apps/details?id=com.fsn.nykaa.man
-https://f-droid.org/en/packages/com.fsn.nykaa.man/
-Requested 5 times
-Last requested 1691283590.0
-    
-<!-- PNC -->
-<item component="ComponentInfo{com.pnc.ecommerce.mobile/com.pnc.mbl.ui.MainActivity}" drawable="pnc" />
-https://play.google.com/store/apps/details?id=com.pnc.ecommerce.mobile
-https://f-droid.org/en/packages/com.pnc.ecommerce.mobile/
-Requested 7 times
-Last requested 1693305789.0
-    
-<!-- Starlink -->
-<item component="ComponentInfo{com.starlink.mobile/com.starlink.mobile.MainActivity}" drawable="starlink" />
-https://play.google.com/store/apps/details?id=com.starlink.mobile
-https://f-droid.org/en/packages/com.starlink.mobile/
-Requested 5 times
-Last requested 1694112367.0
-    
-<!-- MVG Fahrinfo -->
-<item component="ComponentInfo{de.swm.mvgfahrinfo.muenchen/de.swm.mvgfahrinfo.muenchen.common.general.activities.StartupActivity}" drawable="mvg_fahrinfo" />
-https://play.google.com/store/apps/details?id=de.swm.mvgfahrinfo.muenchen
-https://f-droid.org/en/packages/de.swm.mvgfahrinfo.muenchen/
-Requested 5 times
-Last requested 1687165207.0
-    
-<!-- Inware -->
-<item component="ComponentInfo{com.evo.inware/com.evo.inware.ui.activities.SweetHomeActivity}" drawable="inware" />
-https://play.google.com/store/apps/details?id=com.evo.inware
-https://f-droid.org/en/packages/com.evo.inware/
-Requested 5 times
-Last requested 1694191988.0
-    
-<!-- Tellonym -->
-<item component="ComponentInfo{de.tellonym.app/de.tellonym.app.MainActivity}" drawable="tellonym" />
-https://play.google.com/store/apps/details?id=de.tellonym.app
-https://f-droid.org/en/packages/de.tellonym.app/
-Requested 6 times
-Last requested 1693246483.0
-    
-<!-- Яндекс -->
-<item component="ComponentInfo{com.yandex.searchapp/ru.yandex.searchplugin.MainActivity}" drawable="яндекс" />
-https://play.google.com/store/apps/details?id=com.yandex.searchapp
-https://f-droid.org/en/packages/com.yandex.searchapp/
-Requested 6 times
-Last requested 1694112367.0
-    
-<!-- SOUNDPEATS -->
-<item component="ComponentInfo{com.thirtydays.headset/com.thirtydays.headset.page.activity.LoadingActivity}" drawable="soundpeats" />
-https://play.google.com/store/apps/details?id=com.thirtydays.headset
-https://f-droid.org/en/packages/com.thirtydays.headset/
-Requested 6 times
-Last requested 1693165481.0
-    
-<!-- Santa Cruz -->
-<item component="ComponentInfo{dom.com.santacruz/uy.com.infocorp.icbanking.MainActivity}" drawable="santa_cruz" />
-https://play.google.com/store/apps/details?id=dom.com.santacruz
-https://f-droid.org/en/packages/dom.com.santacruz/
-Requested 7 times
-Last requested 1689159123.0
-    
-<!-- PhotoPrism Gallery -->
-<item component="ComponentInfo{ua.com.radiokot.photoprism/ua.com.radiokot.photoprism.features.gallery.view.GalleryActivity}" drawable="photoprism_gallery" />
-https://play.google.com/store/apps/details?id=ua.com.radiokot.photoprism
-https://f-droid.org/en/packages/ua.com.radiokot.photoprism/
-Requested 7 times
-Last requested 1693373741.0
-    
-<!-- Почта -->
-<item component="ComponentInfo{ru.yandex.mail/ru.yandex.mail.ui.LoginActivity}" drawable="почта" />
-https://play.google.com/store/apps/details?id=ru.yandex.mail
-https://f-droid.org/en/packages/ru.yandex.mail/
-Requested 5 times
-Last requested 1694112367.0
-    
-<!-- EhViewer -->
-<item component="ComponentInfo{moe.tarsin.ehviewer/com.hippo.ehviewer.ui.MainActivity}" drawable="ehviewer" />
-https://play.google.com/store/apps/details?id=moe.tarsin.ehviewer
-https://f-droid.org/en/packages/moe.tarsin.ehviewer/
-Requested 6 times
-Last requested 1689085576.0
-    
-<!-- Coding Python -->
-<item component="ComponentInfo{com.kvassyu.coding.py/com.kvassyu.coding.py.ui.SplashActivity}" drawable="coding_python" />
-https://play.google.com/store/apps/details?id=com.kvassyu.coding.py
-https://f-droid.org/en/packages/com.kvassyu.coding.py/
-Requested 5 times
-Last requested 1686392354.0
-    
-<!-- ToDark -->
-<item component="ComponentInfo{com.yoshi.todark/com.example.dark_todo.MainActivity}" drawable="todark" />
-https://play.google.com/store/apps/details?id=com.yoshi.todark
-https://f-droid.org/en/packages/com.yoshi.todark/
-Requested 6 times
-Last requested 1689960831.0
-    
-<!-- SkyView Free -->
-<item component="ComponentInfo{com.t11.skyviewfree/com.t11.skyview.MainActivity}" drawable="skyview_free" />
-https://play.google.com/store/apps/details?id=com.t11.skyviewfree
-https://f-droid.org/en/packages/com.t11.skyviewfree/
-Requested 6 times
-Last requested 1692644014.0
-    
-<!-- Google Pay for Business -->
-<item component="ComponentInfo{com.google.android.apps.nbu.paisa.merchant/com.google.android.apps.nbu.paisa.merchant.launcher.MerchantLauncherActivity}" drawable="google_pay_for_business" />
-https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.merchant
-https://f-droid.org/en/packages/com.google.android.apps.nbu.paisa.merchant/
-Requested 6 times
-Last requested 1694132621.0
-    
-<!-- Pocket Camp -->
-<item component="ComponentInfo{com.nintendo.zaca/com.snslinkage.dena.snslinkageunityplugin.SnsLinkageSafeUnityPlayerNativeActivity}" drawable="pocket_camp" />
-https://play.google.com/store/apps/details?id=com.nintendo.zaca
-https://f-droid.org/en/packages/com.nintendo.zaca/
-Requested 5 times
-Last requested 1692922950.0
-    
-<!-- Genshin Assistant -->
-<item component="ComponentInfo{com.kagura.genshin.assistant/crc64adcc93009daf0bd8.MainActivity}" drawable="genshin_assistant" />
-https://play.google.com/store/apps/details?id=com.kagura.genshin.assistant
-https://f-droid.org/en/packages/com.kagura.genshin.assistant/
-Requested 5 times
-Last requested 1691319563.0
-    
-<!-- MyMood -->
-<item component="ComponentInfo{com.nima.mymood/com.nima.mymood.MainActivity}" drawable="mymood" />
-https://play.google.com/store/apps/details?id=com.nima.mymood
-https://f-droid.org/en/packages/com.nima.mymood/
-Requested 6 times
-Last requested 1684679867.0
-    
-<!-- Музыка -->
-<item component="ComponentInfo{com.miui.playerlite/com.miui.player.ui.MusicBrowserActivity}" drawable="" />
-https://play.google.com/store/apps/details?id=com.miui.playerlite
-https://f-droid.org/en/packages/com.miui.playerlite/
-Requested 6 times
-Last requested 1688568875.0
-    
-<!-- Hesburger -->
-<item component="ComponentInfo{fi.hesburger.app/fi.hesburger.app.ui.activity.MainActivity}" drawable="hesburger" />
-https://play.google.com/store/apps/details?id=fi.hesburger.app
-https://f-droid.org/en/packages/fi.hesburger.app/
-Requested 5 times
-Last requested 1688410656.0
-    
-<!-- Convertidor de vídeo a MP3 -->
-<item component="ComponentInfo{mp3videoconverter.videotomp3.videotomp3converter/com.inshot.videotomp3.SplashActivity}" drawable="convertidor_de_vdeo_a_mp3" />
-https://play.google.com/store/apps/details?id=mp3videoconverter.videotomp3.videotomp3converter
-https://f-droid.org/en/packages/mp3videoconverter.videotomp3.videotomp3converter/
-Requested 7 times
-Last requested 1691160748.0
-    
-<!-- Whiteboard -->
-<item component="ComponentInfo{com.microsoft.whiteboard.publicpreview/com.microsoft.whiteboard.activity.WhiteBoardLauncherActivity}" drawable="whiteboard" />
-https://play.google.com/store/apps/details?id=com.microsoft.whiteboard.publicpreview
-https://f-droid.org/en/packages/com.microsoft.whiteboard.publicpreview/
-Requested 7 times
-Last requested 1691524856.0
-    
-<!-- JioCloud -->
-<item component="ComponentInfo{jio.cloud.drive/com.rjil.cloud.tej.client.app.AppStartActivity}" drawable="jiocloud" />
-https://play.google.com/store/apps/details?id=jio.cloud.drive
-https://f-droid.org/en/packages/jio.cloud.drive/
-Requested 5 times
-Last requested 1692451339.0
-    
-<!-- Uphold -->
-<item component="ComponentInfo{com.uphold.wallet/com.uphold.wallet.MainActivity}" drawable="uphold" />
-https://play.google.com/store/apps/details?id=com.uphold.wallet
-https://f-droid.org/en/packages/com.uphold.wallet/
-Requested 5 times
-Last requested 1693736609.0
-    
-<!-- USPS Mobile -->
-<item component="ComponentInfo{com.usps/com.usps.mobile.SplashScreenActivity}" drawable="usps_mobile" />
-https://play.google.com/store/apps/details?id=com.usps
-https://f-droid.org/en/packages/com.usps/
-Requested 5 times
-Last requested 1692088621.0
-    
-<!-- Jaw Exercises -->
-<item component="ComponentInfo{com.jawline.exercises/com.jawline.exercises.MainActivity}" drawable="jaw_exercises" />
-https://play.google.com/store/apps/details?id=com.jawline.exercises
-https://f-droid.org/en/packages/com.jawline.exercises/
-Requested 5 times
-Last requested 1690528790.0
-    
-<!-- Stop Motion Studio -->
-<item component="ComponentInfo{com.cateater.stopmotionstudio/com.cateater.stopmotionstudio.MainActivity}" drawable="stop_motion_studio" />
-https://play.google.com/store/apps/details?id=com.cateater.stopmotionstudio
-https://f-droid.org/en/packages/com.cateater.stopmotionstudio/
-Requested 5 times
-Last requested 1691579214.0
-    
-<!-- Temas Mint -->
-<item component="ComponentInfo{com.miui.theme.lite/com.miui.theme.lite.WallpaperPickerActivity}" drawable="temas_mint" />
-https://play.google.com/store/apps/details?id=com.miui.theme.lite
-https://f-droid.org/en/packages/com.miui.theme.lite/
-Requested 5 times
-Last requested 1689184360.0
-    
+	**NEW**
+
+	<!-- TicketNew -->
+	<item component="ComponentInfo{ticketnew.android.ui/ticketnew.android.ui.activity.SplashActivity}" drawable="ticketnew" />
+	https://play.google.com/store/apps/details?id=ticketnew.android.ui
+	https://f-droid.org/en/packages/ticketnew.android.ui/
+	Requested 7 times
+	Last requested 1688967975.0
+		
+	<!-- Nykaaman -->
+	<item component="ComponentInfo{com.fsn.nykaa.man/com.fsn.nykaa.SplashScreenActivity}" drawable="nykaaman" />
+	https://play.google.com/store/apps/details?id=com.fsn.nykaa.man
+	https://f-droid.org/en/packages/com.fsn.nykaa.man/
+	Requested 5 times
+	Last requested 1691283590.0
+		
+	<!-- PNC -->
+	<item component="ComponentInfo{com.pnc.ecommerce.mobile/com.pnc.mbl.ui.MainActivity}" drawable="pnc" />
+	https://play.google.com/store/apps/details?id=com.pnc.ecommerce.mobile
+	https://f-droid.org/en/packages/com.pnc.ecommerce.mobile/
+	Requested 7 times
+	Last requested 1693305789.0
+		
+	<!-- Starlink -->
+	<item component="ComponentInfo{com.starlink.mobile/com.starlink.mobile.MainActivity}" drawable="starlink" />
+	https://play.google.com/store/apps/details?id=com.starlink.mobile
+	https://f-droid.org/en/packages/com.starlink.mobile/
+	Requested 5 times
+	Last requested 1694112367.0
+		
+	<!-- MVG Fahrinfo -->
+	<item component="ComponentInfo{de.swm.mvgfahrinfo.muenchen/de.swm.mvgfahrinfo.muenchen.common.general.activities.StartupActivity}" drawable="mvg_fahrinfo" />
+	https://play.google.com/store/apps/details?id=de.swm.mvgfahrinfo.muenchen
+	https://f-droid.org/en/packages/de.swm.mvgfahrinfo.muenchen/
+	Requested 5 times
+	Last requested 1687165207.0
+		
+	<!-- Inware -->
+	<item component="ComponentInfo{com.evo.inware/com.evo.inware.ui.activities.SweetHomeActivity}" drawable="inware" />
+	https://play.google.com/store/apps/details?id=com.evo.inware
+	https://f-droid.org/en/packages/com.evo.inware/
+	Requested 5 times
+	Last requested 1694191988.0
+		
+	<!-- Tellonym -->
+	<item component="ComponentInfo{de.tellonym.app/de.tellonym.app.MainActivity}" drawable="tellonym" />
+	https://play.google.com/store/apps/details?id=de.tellonym.app
+	https://f-droid.org/en/packages/de.tellonym.app/
+	Requested 6 times
+	Last requested 1693246483.0
+		
+	<!-- Yandex with Alice -->
+	<item component="ComponentInfo{com.yandex.searchapp/ru.yandex.searchplugin.MainActivity}" drawable="yandex_with_alice" />
+	https://play.google.com/store/apps/details?id=com.yandex.searchapp
+	https://f-droid.org/en/packages/com.yandex.searchapp/
+	Requested 6 times
+	Last requested 1694112367.0
+		
+	<!-- SOUNDPEATS -->
+	<item component="ComponentInfo{com.thirtydays.headset/com.thirtydays.headset.page.activity.LoadingActivity}" drawable="soundpeats" />
+	https://play.google.com/store/apps/details?id=com.thirtydays.headset
+	https://f-droid.org/en/packages/com.thirtydays.headset/
+	Requested 6 times
+	Last requested 1693165481.0
+		
+	<!-- Santa Cruz -->
+	<item component="ComponentInfo{dom.com.santacruz/uy.com.infocorp.icbanking.MainActivity}" drawable="santa_cruz" />
+	https://play.google.com/store/apps/details?id=dom.com.santacruz
+	https://f-droid.org/en/packages/dom.com.santacruz/
+	Requested 7 times
+	Last requested 1689159123.0
+		
+	<!-- PhotoPrism Gallery -->
+	<item component="ComponentInfo{ua.com.radiokot.photoprism/ua.com.radiokot.photoprism.features.gallery.view.GalleryActivity}" drawable="photoprism_gallery" />
+	https://play.google.com/store/apps/details?id=ua.com.radiokot.photoprism
+	https://f-droid.org/en/packages/ua.com.radiokot.photoprism/
+	Requested 7 times
+	Last requested 1693373741.0
+		
+	<!-- EhViewer -->
+	<item component="ComponentInfo{moe.tarsin.ehviewer/com.hippo.ehviewer.ui.MainActivity}" drawable="ehviewer" />
+	https://play.google.com/store/apps/details?id=moe.tarsin.ehviewer
+	https://f-droid.org/en/packages/moe.tarsin.ehviewer/
+	Requested 6 times
+	Last requested 1689085576.0
+		
+	<!-- Coding Python -->
+	<item component="ComponentInfo{com.kvassyu.coding.py/com.kvassyu.coding.py.ui.SplashActivity}" drawable="coding_python" />
+	https://play.google.com/store/apps/details?id=com.kvassyu.coding.py
+	https://f-droid.org/en/packages/com.kvassyu.coding.py/
+	Requested 5 times
+	Last requested 1686392354.0
+		
+	<!-- ToDark -->
+	<item component="ComponentInfo{com.yoshi.todark/com.example.dark_todo.MainActivity}" drawable="todark" />
+	https://play.google.com/store/apps/details?id=com.yoshi.todark
+	https://f-droid.org/en/packages/com.yoshi.todark/
+	Requested 6 times
+	Last requested 1689960831.0
+		
+	<!-- SkyView Free -->
+	<item component="ComponentInfo{com.t11.skyviewfree/com.t11.skyview.MainActivity}" drawable="skyview" />
+	<item component="ComponentInfo{com.t11.skyview/com.t11.skyview.MainActivity}" drawable="skyview" />
+	https://play.google.com/store/apps/details?id=com.t11.skyviewfree
+	https://f-droid.org/en/packages/com.t11.skyviewfree/
+	Requested 6 times
+	Last requested 1692644014.0
+		
+	<!-- Google Pay for Business -->
+	<item component="ComponentInfo{com.google.android.apps.nbu.paisa.merchant/com.google.android.apps.nbu.paisa.merchant.launcher.MerchantLauncherActivity}" drawable="google_pay_for_business" />
+	https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.merchant
+	https://f-droid.org/en/packages/com.google.android.apps.nbu.paisa.merchant/
+	Requested 6 times
+	Last requested 1694132621.0
+		
+	<!-- Pocket Camp -->
+	<item component="ComponentInfo{com.nintendo.zaca/com.snslinkage.dena.snslinkageunityplugin.SnsLinkageSafeUnityPlayerNativeActivity}" drawable="pocket_camp" />
+	https://play.google.com/store/apps/details?id=com.nintendo.zaca
+	https://f-droid.org/en/packages/com.nintendo.zaca/
+	Requested 5 times
+	Last requested 1692922950.0
+		
+	<!-- Genshin Assistant -->
+	<item component="ComponentInfo{com.kagura.genshin.assistant/crc64adcc93009daf0bd8.MainActivity}" drawable="genshin_assistant" />
+	https://play.google.com/store/apps/details?id=com.kagura.genshin.assistant
+	https://f-droid.org/en/packages/com.kagura.genshin.assistant/
+	Requested 5 times
+	Last requested 1691319563.0
+		
+	<!-- MyMood -->
+	<item component="ComponentInfo{com.nima.mymood/com.nima.mymood.MainActivity}" drawable="mymood" />
+	https://play.google.com/store/apps/details?id=com.nima.mymood
+	https://f-droid.org/en/packages/com.nima.mymood/
+	Requested 6 times
+	Last requested 1684679867.0
+		
+	<!-- Hesburger -->
+	<item component="ComponentInfo{fi.hesburger.app/fi.hesburger.app.ui.activity.MainActivity}" drawable="hesburger" />
+	https://play.google.com/store/apps/details?id=fi.hesburger.app
+	https://f-droid.org/en/packages/fi.hesburger.app/
+	Requested 5 times
+	Last requested 1688410656.0
+		
+	<!-- Video to Audio -->
+	<item component="ComponentInfo{mp3videoconverter.videotomp3.videotomp3converter/com.inshot.videotomp3.SplashActivity}" drawable="video_to_audio" />
+	https://play.google.com/store/apps/details?id=mp3videoconverter.videotomp3.videotomp3converter
+	https://f-droid.org/en/packages/mp3videoconverter.videotomp3.videotomp3converter/
+	Requested 7 times
+	Last requested 1691160748.0
+		
+	<!-- Whiteboard -->
+	<item component="ComponentInfo{com.microsoft.whiteboard.publicpreview/com.microsoft.whiteboard.activity.WhiteBoardLauncherActivity}" drawable="whiteboard" />
+	https://play.google.com/store/apps/details?id=com.microsoft.whiteboard.publicpreview
+	https://f-droid.org/en/packages/com.microsoft.whiteboard.publicpreview/
+	Requested 7 times
+	Last requested 1691524856.0
+		
+	<!-- JioCloud -->
+	<item component="ComponentInfo{jio.cloud.drive/com.rjil.cloud.tej.client.app.AppStartActivity}" drawable="cloud" />
+	https://play.google.com/store/apps/details?id=jio.cloud.drive
+	https://f-droid.org/en/packages/jio.cloud.drive/
+	Requested 5 times
+	Last requested 1692451339.0
+		
+	<!-- Uphold -->
+	<item component="ComponentInfo{com.uphold.wallet/com.uphold.wallet.MainActivity}" drawable="uphold" />
+	https://play.google.com/store/apps/details?id=com.uphold.wallet
+	https://f-droid.org/en/packages/com.uphold.wallet/
+	Requested 5 times
+	Last requested 1693736609.0
+		
+	<!-- USPS Mobile -->
+	<item component="ComponentInfo{com.usps/com.usps.mobile.SplashScreenActivity}" drawable="usps_mobile" />
+	https://play.google.com/store/apps/details?id=com.usps
+	https://f-droid.org/en/packages/com.usps/
+	Requested 5 times
+	Last requested 1692088621.0
+		
+	<!-- Jaw Exercises -->
+	<item component="ComponentInfo{com.jawline.exercises/com.jawline.exercises.MainActivity}" drawable="jaw_exercises" />
+	https://play.google.com/store/apps/details?id=com.jawline.exercises
+	https://f-droid.org/en/packages/com.jawline.exercises/
+	Requested 5 times
+	Last requested 1690528790.0
+		
+	<!-- Stop Motion Studio -->
+	<item component="ComponentInfo{com.cateater.stopmotionstudio/com.cateater.stopmotionstudio.MainActivity}" drawable="stop_motion_studio" />
+	https://play.google.com/store/apps/details?id=com.cateater.stopmotionstudio
+	https://f-droid.org/en/packages/com.cateater.stopmotionstudio/
+	Requested 5 times
+	Last requested 1691579214.0
+		
+	<!-- Xiaomi Themes -->
+	<item component="ComponentInfo{com.miui.theme.lite/com.miui.theme.lite.WallpaperPickerActivity}" drawable="xiaomi_themes" />
+	https://play.google.com/store/apps/details?id=com.miui.theme.lite
+	https://f-droid.org/en/packages/com.miui.theme.lite/
+	Requested 5 times
+	Last requested 1689184360.0
+		
+	**USE EXISTING ICONS**
+	<!-- Yandex Mail -->
+	<item component="ComponentInfo{ru.yandex.mail/ru.yandex.mail.ui.LoginActivity}" drawable="mail" />
+	https://play.google.com/store/apps/details?id=ru.yandex.mail
+	https://f-droid.org/en/packages/ru.yandex.mail/
+	Requested 5 times
+	Last requested 1694112367.0
+
+	<!-- Music -->
+	<item component="ComponentInfo{com.miui.playerlite/com.miui.player.ui.MusicBrowserActivity}" drawable="music" />
+	https://play.google.com/store/apps/details?id=com.miui.playerlite
+	https://f-droid.org/en/packages/com.miui.playerlite/
+	Requested 6 times
+	Last requested 1688568875.0
