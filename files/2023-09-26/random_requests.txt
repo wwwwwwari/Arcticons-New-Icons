@@ -1,0 +1,156 @@
+<!-- Hurry -->
+<item component="ComponentInfo{com.samruston.hurry/com.samruston.hurry.ui.events.EventsActivity}" drawable="countdown"/>
+https://play.google.com/store/apps/details?id=com.samruston.hurry
+https://f-droid.org/en/packages/com.samruston.hurry/
+Requested 4 times
+Last requested 1692290676.0
+
+<!-- WoW Companion -->
+<item component="ComponentInfo{com.blizzard.wowcompanion/com.unity3d.player.UnityPlayerActivity}" drawable="letter_uppercase_circle_w"/>
+https://play.google.com/store/apps/details?id=com.blizzard.wowcompanion
+https://f-droid.org/en/packages/com.blizzard.wowcompanion/
+Requested 4 times
+Last requested 1695305086.0
+
+<!-- Citibank IN -->
+<item component="ComponentInfo{com.citiuat/com.citiuat.mobeix.MainActivity}" drawable="citi_mobile"/>
+https://play.google.com/store/apps/details?id=com.citiuat
+https://f-droid.org/en/packages/com.citiuat/
+Requested 4 times
+Last requested 1694178926.0
+
++++
+
+<!-- GLS Banking -->
+<item component="ComponentInfo{de.gls.banking.app/de.visualvest.gls.MainActivity}" drawable="gls_banking"/>
+https://play.google.com/store/apps/details?id=de.gls.banking.app
+https://f-droid.org/en/packages/de.gls.banking.app/
+Requested 4 times
+Last requested 1683542159.0
+    
+<!-- Tablet Center -->
+<item component="ComponentInfo{com.tblenovo.center/com.tblenovo.center.SplashActivity}" drawable="tablet"/>
+https://play.google.com/store/apps/details?id=com.tblenovo.center
+https://f-droid.org/en/packages/com.tblenovo.center/
+Requested 5 times
+Last requested 1692377712.0
+    
+<!-- App&Game 4PDA -->
+<item component="ComponentInfo{ru.freeman42.app4pda/ru.freeman42.app4pda.ui.MainActivity}" drawable="app_and_game_4pda"/>
+https://play.google.com/store/apps/details?id=ru.freeman42.app4pda
+https://f-droid.org/en/packages/ru.freeman42.app4pda/
+Requested 4 times
+Last requested 1691218154.0
+    
+<!-- Deemo -->
+<item component="ComponentInfo{com.rayark.pluto/com.google.firebase.MessagingUnityPlayerActivity}" drawable="deemo"/>
+https://play.google.com/store/apps/details?id=com.rayark.pluto
+https://f-droid.org/en/packages/com.rayark.pluto/
+Requested 4 times
+Last requested 1687394105.0
+    
+<!-- Finance Manager -->
+<item component="ComponentInfo{org.secuso.privacyfriendlyfinancemanager/org.secuso.privacyfriendlyfinance.activities.SplashActivity}" drawable="finance_manager"/>
+https://play.google.com/store/apps/details?id=org.secuso.privacyfriendlyfinancemanager
+https://f-droid.org/en/packages/org.secuso.privacyfriendlyfinancemanager/
+Requested 4 times
+Last requested 1693889279.0
+    
+<!-- Nonogram.com -->
+<item component="ComponentInfo{com.easybrain.nonogram/com.easybrain.template.SplashActivity}" drawable="nonogram"/>
+https://play.google.com/store/apps/details?id=com.easybrain.nonogram
+https://f-droid.org/en/packages/com.easybrain.nonogram/
+Requested 4 times
+Last requested 1693377694.0
+    
+<!-- Reigns -->
+<item component="ComponentInfo{com.devolver.reigns/com.unity3d.player.UnityPlayerActivity}" drawable="reigns"/>
+https://play.google.com/store/apps/details?id=com.devolver.reigns
+https://f-droid.org/en/packages/com.devolver.reigns/
+Requested 4 times
+Last requested 1692658103.0
+    
+<!-- Medicover -->
+<item component="ComponentInfo{pl.looksoft.medicover/pl.looksoft.medicover.ui.activity.SplashActivity}" drawable="medicover"/>
+https://play.google.com/store/apps/details?id=pl.looksoft.medicover
+https://f-droid.org/en/packages/pl.looksoft.medicover/
+Requested 4 times
+Last requested 1693240054.0
+    
+<!-- Volume Notification -->
+<item component="ComponentInfo{net.hyx.app.volumenotification/net.hyx.app.volumenotification.activity.RecyclerViewActivity}" drawable="volume_notification"/>
+https://play.google.com/store/apps/details?id=net.hyx.app.volumenotification
+https://f-droid.org/en/packages/net.hyx.app.volumenotification/
+Requested 4 times
+Last requested 1688989789.0
+    
+<!-- Alat -->
+<item component="ComponentInfo{com.wemabank.alat.prod/crc64944946ad7d7f913c.LandingPageActivity}" drawable="alat"/>
+https://play.google.com/store/apps/details?id=com.wemabank.alat.prod
+https://f-droid.org/en/packages/com.wemabank.alat.prod/
+Requested 4 times
+Last requested 1685527553.0
+    
+<!-- Root Checker Basic -->
+<item component="ComponentInfo{com.joeykrim.rootcheck/com.joeykrim.rootcheck.MainActivity}" drawable="root_checker_basic"/>
+https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck
+https://f-droid.org/en/packages/com.joeykrim.rootcheck/
+Requested 4 times
+Last requested 1691115716.0
+    
+<!-- MO BUS -->
+<item component="ComponentInfo{bbsr.crut.mobus.tracker/bbsr.crut.mobus.tracker.SplashActivity}" drawable="mo_bus"/>
+https://play.google.com/store/apps/details?id=bbsr.crut.mobus.tracker
+https://f-droid.org/en/packages/bbsr.crut.mobus.tracker/
+Requested 4 times
+Last requested 1695118678.0
+    
+<!-- Royal Bank -->
+<item component="ComponentInfo{com.rbs.mobile.android.rbs/co.uk.rbsg.mobile.android.feature.login.LoginActivity}" drawable="royal_bank"/>
+https://play.google.com/store/apps/details?id=com.rbs.mobile.android.rbs
+https://f-droid.org/en/packages/com.rbs.mobile.android.rbs/
+Requested 4 times
+Last requested 1694978659.0
+    
+<!-- Public Services Culture -->
+<item component="ComponentInfo{ru.gosuslugi.culture/ru.notamedia.pushka.pushka.MainActivity}" drawable="public_services_culture"/>
+https://play.google.com/store/apps/details?id=ru.gosuslugi.culture
+https://f-droid.org/en/packages/ru.gosuslugi.culture/
+Requested 4 times
+Last requested 1685910505.0
+    
+<!-- ABSLMF Investor App -->
+<item component="ComponentInfo{com.bslamc.fingo/com.bslamc.fingo.ui.splashscreen.SplashActivity}" drawable="abslmf_investor_app"/>
+https://play.google.com/store/apps/details?id=com.bslamc.fingo
+https://f-droid.org/en/packages/com.bslamc.fingo/
+Requested 4 times
+Last requested 1687723992.0
+    
+<!-- XHS -->
+<item component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.index.v2.IndexActivityV2}" drawable="xhs"/>
+https://play.google.com/store/apps/details?id=com.xingin.xhs
+https://f-droid.org/en/packages/com.xingin.xhs/
+Requested 4 times
+Last requested 1690933996.0
+    
+<!-- Pi-hole Connect -->
+<item component="ComponentInfo{com.tien.piholeconnect/com.tien.piholeconnect.MainActivity}" drawable="pi_hole_connect"/>
+https://play.google.com/store/apps/details?id=com.tien.piholeconnect
+https://f-droid.org/en/packages/com.tien.piholeconnect/
+Requested 4 times
+Last requested 1695063716.0
+    
+<!-- Widgeet -->
+<item component="ComponentInfo{art.widgeet.android/com.leaves.MainActivity}" drawable="widgeet"/>
+https://play.google.com/store/apps/details?id=art.widgeet.android
+https://f-droid.org/en/packages/art.widgeet.android/
+Requested 5 times
+Last requested 1692200512.0
+    
+<!-- Camera Date Folders -->
+<item component="ComponentInfo{de.kromke.andreas.cameradatefolders/de.kromke.andreas.cameradatefolders.MainActivity}" drawable="camera_date_folders"/>
+https://play.google.com/store/apps/details?id=de.kromke.andreas.cameradatefolders
+https://f-droid.org/en/packages/de.kromke.andreas.cameradatefolders/
+Requested 4 times
+Last requested 1688900482.0
+    
