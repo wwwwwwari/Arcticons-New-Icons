@@ -6,7 +6,7 @@ Requested 5 times
 Last requested 1694106719.0
 
 <!-- Pixel Launcher -->
-<item component="ComponentInfo{app.pixel_launcher/app.lawnchair.ui.preferences.PreferenceActivity}" drawable="letter_uppercase_square_p"/>
+<item component="ComponentInfo{app.pixel_launcher/app.lawnchair.ui.preferences.PreferenceActivity}" drawable="settings"/>
 https://play.google.com/store/apps/details?id=app.pixel_launcher
 https://f-droid.org/en/packages/app.pixel_launcher/
 Requested 5 times
@@ -16,232 +16,100 @@ Last requested 1694800295.0
 
 <!-- Ventusky -->
 <item component="ComponentInfo{cz.ackee.ventusky/cz.ackee.ventusky.screens.MainActivity}" drawable="ventusky"/>
-https://play.google.com/store/apps/details?id=cz.ackee.ventusky
-https://f-droid.org/en/packages/cz.ackee.ventusky/
-Requested 5 times
-Last requested 1692395877.0
     
 <!-- PostFinance -->
 <item component="ComponentInfo{ch.postfinance.android/ch.postfinance.android.splashscreen.presentation.SplashScreenActivity}" drawable="postfinance"/>
-https://play.google.com/store/apps/details?id=ch.postfinance.android
-https://f-droid.org/en/packages/ch.postfinance.android/
-Requested 5 times
-Last requested 1692040042.0
     
 <!-- AniLibria App -->
 <item component="ComponentInfo{ru.radiationx.anilibria.app/ru.radiationx.anilibria.ui.activities.main.MainActivity}" drawable="anilibria_app"/>
-https://play.google.com/store/apps/details?id=ru.radiationx.anilibria.app
-https://f-droid.org/en/packages/ru.radiationx.anilibria.app/
-Requested 5 times
-Last requested 1694096122.0
     
 <!-- US Mobile -->
 <item component="ComponentInfo{com.usmobile.dashboard/com.usmobile.dashboard.MainActivity}" drawable="us_mobile"/>
-https://play.google.com/store/apps/details?id=com.usmobile.dashboard
-https://f-droid.org/en/packages/com.usmobile.dashboard/
-Requested 5 times
-Last requested 1693866383.0
     
 <!-- Forza -->
 <item component="ComponentInfo{se.footballaddicts.livescore/se.footballaddicts.livescore.activities.StartActivity}" drawable="forza"/>
-https://play.google.com/store/apps/details?id=se.footballaddicts.livescore
-https://f-droid.org/en/packages/se.footballaddicts.livescore/
-Requested 5 times
-Last requested 1693429301.0
     
 <!-- WateryDroid -->
 <item component="ComponentInfo{tmendes.com.waterydroid/tmendes.com.waterydroid.SettingsActivity}" drawable="waterydroid"/>
-https://play.google.com/store/apps/details?id=tmendes.com.waterydroid
-https://f-droid.org/en/packages/tmendes.com.waterydroid/
-Requested 5 times
-Last requested 1693921605.0
     
 <!-- Indian Bikes Driving 3D -->
 <item component="ComponentInfo{com.Rohit.IndianBikes/com.unity3d.player.UnityPlayerActivity}" drawable="indian_bikes_driving_3d"/>
-https://play.google.com/store/apps/details?id=com.Rohit.IndianBikes
-https://f-droid.org/en/packages/com.Rohit.IndianBikes/
-Requested 5 times
-Last requested 1694720371.0
     
 <!-- 2gis beta -->
 <item component="ComponentInfo{ru.dublgis.dgismobile4preview/ru.dublgis.dgismobile.GrymMobileActivity}" drawable="_2gis_beta"/>
-https://play.google.com/store/apps/details?id=ru.dublgis.dgismobile4preview
-https://f-droid.org/en/packages/ru.dublgis.dgismobile4preview/
-Requested 5 times
-Last requested 1694022063.0
     
 <!-- radiko -->
 <item component="ComponentInfo{jp.radiko.Player/jp.radiko.player.MainActivity}" drawable="radiko"/>
-https://play.google.com/store/apps/details?id=jp.radiko.Player
-https://f-droid.org/en/packages/jp.radiko.Player/
-Requested 5 times
-Last requested 1695149249.0
     
 <!-- HTTP Injector -->
 <item component="ComponentInfo{com.evozi.injector/com.evozi.injector.views.MainActivity}" drawable="http_injector"/>
-https://play.google.com/store/apps/details?id=com.evozi.injector
-https://f-droid.org/en/packages/com.evozi.injector/
-Requested 5 times
-Last requested 1692164641.0
     
 <!-- DStv -->
 <item component="ComponentInfo{com.dstvmobile.android/com.dstv.now.android.ui.splash.SplashActivity}" drawable="dstv"/>
-https://play.google.com/store/apps/details?id=com.dstvmobile.android
-https://f-droid.org/en/packages/com.dstvmobile.android/
-Requested 5 times
-Last requested 1694786286.0
     
 <!-- Ameritrade -->
 <item component="ComponentInfo{com.tdameritrade.mobile3/com.tdameritrade.mobile3.activities.HomeActivity}" drawable="ameritrade"/>
-https://play.google.com/store/apps/details?id=com.tdameritrade.mobile3
-https://f-droid.org/en/packages/com.tdameritrade.mobile3/
-Requested 5 times
-Last requested 1693411927.0
-    
+
 <!-- Modern Warships -->
 <item component="ComponentInfo{com.Shooter.ModernWarships/com.unity3d.player.UnityPlayerActivity}" drawable="modern_warships"/>
-https://play.google.com/store/apps/details?id=com.Shooter.ModernWarships
-https://f-droid.org/en/packages/com.Shooter.ModernWarships/
-Requested 5 times
-Last requested 1693761750.0
-    
+
 <!-- Coke ON -->
 <item component="ComponentInfo{com.coke.cokeon/jp.co.cocacola.vmapp.ui.start.SplashActivity}" drawable="coke_on"/>
-https://play.google.com/store/apps/details?id=com.coke.cokeon
-https://f-droid.org/en/packages/com.coke.cokeon/
-Requested 5 times
-Last requested 1693512987.0
     
 <!-- MyFastweb -->
 <item component="ComponentInfo{it.fastweb.myfastweb/it.fastweb.myfastweb.activities.SplashActivity}" drawable="myfastweb"/>
-https://play.google.com/store/apps/details?id=it.fastweb.myfastweb
-https://f-droid.org/en/packages/it.fastweb.myfastweb/
-Requested 5 times
-Last requested 1692358732.0
-    
+
 <!-- Chipolo -->
 <item component="ComponentInfo{chipolo.net.v3/net.chipolo.app.ui.main.MainActivity}" drawable="chipolo"/>
-https://play.google.com/store/apps/details?id=chipolo.net.v3
-https://f-droid.org/en/packages/chipolo.net.v3/
-Requested 5 times
-Last requested 1693499384.0
     
 <!-- 10,000 sentences -->
 <item component="ComponentInfo{info.puzz.a10000sentences/info.puzz.a10000sentences.activities.CollectionsActivity}" drawable="_10000_sentences"/>
-https://play.google.com/store/apps/details?id=info.puzz.a10000sentences
-https://f-droid.org/en/packages/info.puzz.a10000sentences/
-Requested 5 times
-Last requested 1694891585.0
     
 <!-- klutter -->
 <item component="ComponentInfo{uk.winckle.klutter/uk.winckle.klutter.MainActivity}" drawable="klutter"/>
-https://play.google.com/store/apps/details?id=uk.winckle.klutter
-https://f-droid.org/en/packages/uk.winckle.klutter/
-Requested 5 times
-Last requested 1692487928.0
-    
+
 <!-- Infy Me -->
 <item component="ComponentInfo{com.infosys.it.infosysitapp/com.infosys.it.infosysitapp.SplashActivity}" drawable="infy_me"/>
-https://play.google.com/store/apps/details?id=com.infosys.it.infosysitapp
-https://f-droid.org/en/packages/com.infosys.it.infosysitapp/
-Requested 5 times
-Last requested 1695062593.0
     
 <!-- Alchemy 2 -->
 <item component="ComponentInfo{com.recloak.littlealchemy2/com.recloak.littlealchemy2.MainActivity}" drawable="alchemy_2"/>
-https://play.google.com/store/apps/details?id=com.recloak.littlealchemy2
-https://f-droid.org/en/packages/com.recloak.littlealchemy2/
-Requested 5 times
-Last requested 1693456404.0
     
 <!-- EatSure -->
 <item component="ComponentInfo{com.done.faasos/com.done.faasos.activity.SplashActivity}" drawable="eatsure"/>
-https://play.google.com/store/apps/details?id=com.done.faasos
-https://f-droid.org/en/packages/com.done.faasos/
-Requested 5 times
-Last requested 1693035932.0
     
 <!-- SongSync -->
 <item component="ComponentInfo{pl.lambada.songsync/pl.lambada.songsync.MainActivity}" drawable="songsync"/>
-https://play.google.com/store/apps/details?id=pl.lambada.songsync
-https://f-droid.org/en/packages/pl.lambada.songsync/
-Requested 5 times
-Last requested 1693559425.0
     
 <!-- Listen Audiobook Player -->
 <item component="ComponentInfo{com.acmeandroid.listen/com.acmeandroid.listen.SplashActivity}" drawable="listen_audiobook_player"/>
-https://play.google.com/store/apps/details?id=com.acmeandroid.listen
-https://f-droid.org/en/packages/com.acmeandroid.listen/
-Requested 5 times
-Last requested 1694442471.0
     
 <!-- PeoPay -->
 <item component="ComponentInfo{softax.pekao.powerpay/com.pekao.peopay.presentation.MainActivity}" drawable="peopay"/>
-https://play.google.com/store/apps/details?id=softax.pekao.powerpay
-https://f-droid.org/en/packages/softax.pekao.powerpay/
-Requested 5 times
-Last requested 1693344353.0
     
 <!-- NAFATH -->
 <item component="ComponentInfo{sa.gov.nic.myid/sa.gov.nic.myid.MainActivity}" drawable="nafath"/>
-https://play.google.com/store/apps/details?id=sa.gov.nic.myid
-https://f-droid.org/en/packages/sa.gov.nic.myid/
-Requested 5 times
-Last requested 1694249447.0
     
 <!-- imo Lite -->
 <item component="ComponentInfo{com.imo.android.imoimlite/com.imo.android.imoim.activities.Home}" drawable="imo_lite"/>
-https://play.google.com/store/apps/details?id=com.imo.android.imoimlite
-https://f-droid.org/en/packages/com.imo.android.imoimlite/
-Requested 5 times
-Last requested 1695137151.0
     
 <!-- Dumb Ways -->
 <item component="ComponentInfo{com.popreach.dumbways/com.unity3d.player.UnityPlayerActivity}" drawable="dumb_ways"/>
-https://play.google.com/store/apps/details?id=com.popreach.dumbways
-https://f-droid.org/en/packages/com.popreach.dumbways/
-Requested 5 times
-Last requested 1693425334.0
     
 <!-- Super Sus -->
 <item component="ComponentInfo{com.je.supersus/com.je.game.JeMainActivity}" drawable="super_sus"/>
-https://play.google.com/store/apps/details?id=com.je.supersus
-https://f-droid.org/en/packages/com.je.supersus/
-Requested 5 times
-Last requested 1695228795.0
     
 <!-- Dcoder -->
 <item component="ComponentInfo{com.paprbit.dcoder/com.paprbit.dcoder.splash.Splash}" drawable="dcoder"/>
-https://play.google.com/store/apps/details?id=com.paprbit.dcoder
-https://f-droid.org/en/packages/com.paprbit.dcoder/
-Requested 5 times
-Last requested 1692485606.0
     
 <!-- Neural Cloud -->
 <item component="ComponentInfo{com.sunborn.neuralcloud.en/com.sunborn.neuralcloud.en.GameMainActivity}" drawable="neural_cloud"/>
-https://play.google.com/store/apps/details?id=com.sunborn.neuralcloud.en
-https://f-droid.org/en/packages/com.sunborn.neuralcloud.en/
-Requested 5 times
-Last requested 1693324959.0
     
 <!-- Rec Room -->
 <item component="ComponentInfo{com.AgainstGravity.RecRoom/com.recroom.googleplaynative.SignInActivity}" drawable="rec_room"/>
-https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
-https://f-droid.org/en/packages/com.AgainstGravity.RecRoom/
-Requested 5 times
-Last requested 1693314365.0
     
 <!-- Sunbird -->
 <item component="ComponentInfo{com.sunbird/com.sunbird.SignUpOnboardingActivity}" drawable="sunbird"/>
-https://play.google.com/store/apps/details?id=com.sunbird
-https://f-droid.org/en/packages/com.sunbird/
-Requested 5 times
-Last requested 1693866383.0
     
 <!-- Eurobank -->
 <item component="ComponentInfo{com.EurobankEFG/gr.mobile.eurobank.ui.activity.launch.LaunchActivity}" drawable="eurobank"/>
-https://play.google.com/store/apps/details?id=com.EurobankEFG
-https://f-droid.org/en/packages/com.EurobankEFG/
-Requested 5 times
-Last requested 1694948134.0
     

@@ -1,5 +1,5 @@
 <!-- Hurry -->
-<item component="ComponentInfo{com.samruston.hurry/com.samruston.hurry.ui.events.EventsActivity}" drawable="countdown"/>
+<item component="ComponentInfo{com.samruston.hurry/com.samruston.hurry.ui.events.EventsActivity}" drawable="hurry"/>
 https://play.google.com/store/apps/details?id=com.samruston.hurry
 https://f-droid.org/en/packages/com.samruston.hurry/
 Requested 4 times
@@ -84,13 +84,6 @@ https://f-droid.org/en/packages/net.hyx.app.volumenotification/
 Requested 4 times
 Last requested 1688989789.0
     
-<!-- Alat -->
-<item component="ComponentInfo{com.wemabank.alat.prod/crc64944946ad7d7f913c.LandingPageActivity}" drawable="alat"/>
-https://play.google.com/store/apps/details?id=com.wemabank.alat.prod
-https://f-droid.org/en/packages/com.wemabank.alat.prod/
-Requested 4 times
-Last requested 1685527553.0
-    
 <!-- Root Checker Basic -->
 <item component="ComponentInfo{com.joeykrim.rootcheck/com.joeykrim.rootcheck.MainActivity}" drawable="root_checker_basic"/>
 https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck
@@ -139,18 +132,4 @@ https://play.google.com/store/apps/details?id=com.tien.piholeconnect
 https://f-droid.org/en/packages/com.tien.piholeconnect/
 Requested 4 times
 Last requested 1695063716.0
-    
-<!-- Widgeet -->
-<item component="ComponentInfo{art.widgeet.android/com.leaves.MainActivity}" drawable="widgeet"/>
-https://play.google.com/store/apps/details?id=art.widgeet.android
-https://f-droid.org/en/packages/art.widgeet.android/
-Requested 5 times
-Last requested 1692200512.0
-    
-<!-- Camera Date Folders -->
-<item component="ComponentInfo{de.kromke.andreas.cameradatefolders/de.kromke.andreas.cameradatefolders.MainActivity}" drawable="camera_date_folders"/>
-https://play.google.com/store/apps/details?id=de.kromke.andreas.cameradatefolders
-https://f-droid.org/en/packages/de.kromke.andreas.cameradatefolders/
-Requested 4 times
-Last requested 1688900482.0
-    
+

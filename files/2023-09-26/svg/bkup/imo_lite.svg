@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="b"
+   viewBox="0 0 48 48"
+   version="1.1"
+   sodipodi:docname="imo_lite.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17039"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="11.645833"
+     inkscape:cx="7.298748"
+     inkscape:cy="24.042934"
+     inkscape:window-width="1366"
+     inkscape:window-height="737"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="b" />
+  <defs
+     id="defs17008">
+    <style
+       id="style17006">.c{fill:#fff;}.d{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <path
+     id="polyline4206"
+     style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+     class="st5"
+     d="m 36.5,34.5 v 8 h 4 m 5,-4 a 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 7,7 0 0 1 7,7 z M 13.5602,19.887699 v 7.709002 m 0.75,-10.417502 a 0.75,0.75 0 0 1 -0.75,0.75 0.75,0.75 0 0 1 -0.75,-0.75 0.75,0.75 0 0 1 0.75,-0.75 0.75,0.75 0 0 1 0.75,0.75 z M 22.736,22.7967 c 0,-1.6066 1.3024,-2.909 2.909,-2.909 v 0 c 1.6066,0 2.909,1.3024 2.909,2.909 v 4.7999 M 16.9179,19.887699 v 7.709002 m 0,-4.800001 c 0,-1.6066 1.3024,-2.909 2.909,-2.909 v 0 c 1.6066,0 2.909,1.3024 2.909,2.909 v 4.7999 m 11.8129,-7.708901 h 1e-4 c 1.61158,0 2.909,1.297414 2.909,2.909 v 1.891 c 0,1.611586 -1.29742,2.909 -2.909,2.909 h -1e-4 c -1.61159,0 -2.909,-1.297414 -2.909,-2.909 v -1.891 c 0,-1.611586 1.29741,-2.909 2.909,-2.909 z M 43.3266,33.4309 C 44.7187,30.5835 45.5,27.383 45.5,24 45.5,12.1259 35.8741,2.5 24,2.5 12.1259,2.5 2.5,12.1259 2.5,24 2.5,29.4902 4.5752,34.4837 7.9617,38.2834 6.9907,41.0841 4.9684,41.9581 2.5,42.8505 4.7605,45.0317 9.1677,45.6096 13.1226,42.5227 16.3164,44.4026 20.0259,45.5 24,45.5 c 3.3848,0 6.5869,-0.7822 9.4355,-2.1756" />
+</svg>

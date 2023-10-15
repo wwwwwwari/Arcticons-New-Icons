@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="11.645833"
-     inkscape:cx="15.627907"
+     inkscape:cx="7.298748"
      inkscape:cy="24.042934"
      inkscape:window-width="1366"
      inkscape:window-height="737"
@@ -41,8 +41,18 @@
 		
 		
 	</defs><path
-     id="polyline6043"
-     style="fill:none;stroke:#ffffff;stroke-width:0.529828;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
-     class="st5"
-     transform="matrix(1.8874049,0,-0.40099865,1.8874049,-150.40975,-60.366999)"
-     d="m 104,48.7 v -8 h 4 m -10.708186,8 0,-8 h 2.6 c 1.499996,0 2.699996,1.2 2.699996,2.7 0,1.5 -1.2,2.7 -2.699996,2.7 h -2.6 M 104,44.700001 h 2.6 M 104,48.7 m 4.56381,-13.801818 H 91.079489 a 1.1781857,0.95305086 41.968101 0 0 -0.834521,1.059656 l 3.714725,17.484324 a 1.1781857,0.95305086 41.968101 0 0 1.284791,1.059656 h 17.484326 a 1.1781857,0.95305086 41.968101 0 0 0.83452,-1.059656 L 109.8486,35.957838 a 1.1781857,0.95305086 41.968101 0 0 -1.28479,-1.059656 z" /></svg>
+     style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="M 40.499993,5.5000007 H 7.5 A 2,2 45.651573 0 0 5.5000003,7.5000006 l -1e-7,32.9999984 a 2,2 45.651573 0 0 2.0000002,2 H 40.500003 a 2,2 45.651573 0 0 1.999998,-2 l -10e-6,-32.9999984 A 2,2 45.651573 0 0 40.499993,5.5000007 Z"
+     id="path708" /><path
+     style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="M 26.351725,31.54962"
+     id="path706" /><path
+     style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 27.95572,24.000002 h 4.907252"
+     id="path704" /><path
+     style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 13.690662,31.54962 3.207989,-15.09924 h 4.907253 c 2.8311,0 4.614787,2.264886 4.013289,5.095994 -0.601497,2.831107 -3.347582,5.095993 -6.178682,5.095993 h -4.907252"
+     id="path702" /><path
+     style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 26.351725,31.54962 3.20799,-15.09924 h 7.549619"
+     id="path700" /></svg>
