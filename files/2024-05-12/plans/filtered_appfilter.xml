@@ -35,31 +35,28 @@
 
 	<!-- Sonic 2 -->
 	<item component="ComponentInfo{com.sega.sonic2.runner/com.sega.sonic2px.MainActivity}" drawable="sonic_the_hedgehog_2"/>
-		
+
 	<!-- Slickdeals -->
 	<item component="ComponentInfo{net.slickdeals.android/net.slickdeals.android.SlickdealsLauncher}" drawable="slickdeals"/>
-		
+
 	<!-- Salatuk -->
 	<item component="ComponentInfo{com.masarat.salati/com.masarat.salati.ui.activities.MainActivity}" drawable="salatuk"/>
-		
+
 	<!-- Granny -->
 	<item component="ComponentInfo{com.dvloper.granny/com.unity3d.player.UnityPlayerActivity}" drawable="granny"/>
-		
+
 	<!-- FamilyWall -->
 	<item component="ComponentInfo{com.familywall/com.familywall.app.main.MainActivity}" drawable="familywall"/>
-		
-	<!-- zFile -->
-	<item component="ComponentInfo{com.htetznaing.zfile/com.htetznaing.zfile.ui.MainActivity}" drawable="folder"/>
-		
+
 	<!-- Wall Kickers -->
 	<item component="ComponentInfo{com.kumobius.android.walljumper/com.kumobius.android.KumoAppActivity}" drawable="wall_kickers"/>
-		
+
 	<!-- NekoBox -->
 	<item component="ComponentInfo{moe.nb4a/io.nekohasekai.sagernet.ui.MainActivity}" drawable="nekobox"/>
-		
+
 	<!-- Yandex Bank -->
 	<item component="ComponentInfo{com.yandex.bank/com.yandex.bank.screens.MainActivity}" drawable="yandex_bank"/>
-		
+
 	<!-- Traffic Racer -->
 	<item component="ComponentInfo{com.skgames.trafficracer/com.unity3d.player.UnityPlayerActivity}" drawable="traffic_racer"/>
 
