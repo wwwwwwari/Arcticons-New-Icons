@@ -1,0 +1,135 @@
+<appfilter>
+
+	<!-- 12Go Train Bus Ferry Flight -->
+	<item component="ComponentInfo{co.go12.ticketapp/co.go12.ticketapp.MainActivity}" drawable="12go_train_bus_ferry_flight"/>
+
+	<!-- AA Friends -->
+	<item component="ComponentInfo{com.airasia.foodmerchant/com.airasia.foodmerchant.MainActivity}" drawable="aa_friends"/>
+
+	<!-- AmazingThailand -->
+	<item component="ComponentInfo{org.tat.AmazingThailand/org.tat.AmazingThailand.splashscreen.SplashScreenActivity}" drawable="amazingthailand"/>
+
+	<!-- DDproperty -->
+	<item component="ComponentInfo{com.allproperty.android.consumer.th/com.allproperty.android.consumer.MainActivity}" drawable="ddproperty"/>
+
+	<!-- English Thai -->
+	<item component="ComponentInfo{com.naver.android.globaldictenth/com.naver.android.globaldict.LaunchActivity}" drawable="english_thai"/>
+
+	<!-- Gate by Zipevent -->
+	<item component="ComponentInfo{com.dreamio.organizerapp/com.dreamio.organizerapp.application.UserAuthenticate}" drawable="gate_by_zipevent"/>
+
+	<!-- JOBBKK -->
+	<item component="ComponentInfo{app.seeker.jobbkk/app.seeker.jobbkk.MainActivity}" drawable="jobbkk"/>
+
+	<!-- JobThai -->
+	<item component="ComponentInfo{jobthai.androidv1/com.THiNKNET.JobThai.jobthai.MainActivity}" drawable="jobthai"/>
+
+	<!-- LHB You -->
+	<item component="ComponentInfo{com.lh.lhbu/com.lh.mbanking.presentation.SplashActivity}" drawable="lhb_you"/>
+
+	<!-- LINE MAN -->
+	<item component="ComponentInfo{com.linecorp.linemanth/net.appsynth.lineman.view.splash.SplashActivity}" drawable="line_man"/>
+
+	<!-- M Generation -->
+	<item component="ComponentInfo{com.majorcineplex.mgen/com.majorcineplex.mgen.ui.splash.SplashScreenActivity}" drawable="m_generation"/>
+
+	<!-- Major -->
+	<item component="ComponentInfo{com.hlpth.majorcineplex/com.hlpth.majorcineplex.ui.main.MainActivity}" drawable="major"/>
+
+	<!-- Major KH -->
+	<item component="ComponentInfo{th.co.invp.majorcineplexcambodia/com.hlpth.majorcineplex.SplashActivity}" drawable="major_kh"/>
+
+	<!-- Major Laos -->
+	<item component="ComponentInfo{la.majorplatinumcineplex.android/com.hlpth.majorcineplex.SplashActivity}" drawable="major_laos"/>
+
+	<!-- Nok Air -->
+	<item component="ComponentInfo{com.NokAir.app/com.NokAir.app.MainActivity}" drawable="nok_air"/>
+
+	<!-- Profita -->
+	<item component="ComponentInfo{com.lhinvest/com.lhinvest.MainActivity}" drawable="profita"/>
+
+	<!-- Renthub -->
+	<item component="ComponentInfo{th.in.renthub/th.in.renthub.MainActivity}" drawable="renthub"/>
+
+	<!-- Thai Airways -->
+	<item component="ComponentInfo{com.thaiairways.mobile/com.thaiairwaysapp.MainActivity}" drawable="thai_airways"/>
+
+	<!-- Thaiger News -->
+	<item component="ComponentInfo{com.TheThaiger.android/com.TheThaiger.android.MainActivity}" drawable="thaiger_news"/>
+
+	<!-- thaiweather -->
+	<item component="ComponentInfo{com.tmddev.thaiweather/com.tmddev.thaiweather.MainActivity}" drawable="thaiweather"/>
+
+	<!-- Yindii -->
+	<item component="ComponentInfo{co.yindii/com.example.yindii_app.MainActivity}" drawable="yindii"/>
+
+	<!-- Zero Carbon -->
+	<item component="ComponentInfo{com.tgo.cf.zerocarbon/com.tgo.cf.zerocarbon.MainActivity}" drawable="zero_carbon"/>
+
+	<!-- ZipEvent -->
+	<item component="ComponentInfo{com.dreamio.enjoin/com.dreamio.enjoin.controller.UserAuthenticate}" drawable="zipevent"/>
+
+	<!-- AIS 5G PLAY AR -->
+	<item component="ComponentInfo{com.ais.mimo.AISAR/com.ais.mimo.AISAR.activity.SplashActivity}" drawable="ais_5g_play_ar"/>
+
+	<!-- AIS 5G PLAY VR -->
+	<item component="ComponentInfo{com.ais.mimo.AISPlayVR/com.ais.mimo.AISPlayVR.ui.activity.SplashActivity}" drawable="ais_5g_play_vr"/>
+
+	<!-- AIS PLAY -->
+	<item component="ComponentInfo{com.ais.mimo.AISPlay/net.vimmi.core.launcher.StartupActivity}" drawable="ais_play"/>
+
+	<!-- BUGABOO INTER -->
+	<item component="ComponentInfo{com.bbtv.bugabootvinter/com.bbtv.bugabootvinter.ui.LauncherActivity}" drawable="bugaboo_inter"/>
+
+	<!-- BUGABOO.TV LITE -->
+	<item component="ComponentInfo{com.bbtvnewmedia.bugaboolite/com.bbtvnewmedia.bugaboolite.ui.splash.view.SplashActivity}" drawable="bugabootv_lite"/>
+
+	<!-- dtac -->
+	<item component="ComponentInfo{th.co.crie.tron2.android/com.portonics.dtac.ui.splash.SplashActivity}" drawable="dtac"/>
+
+	<!-- dtac OneCall -->
+	<item component="ComponentInfo{com.metaswitch.cp.DTAC_16383/com.metaswitch.global.frontend.SplashScreenActivity}" drawable="dtac_onecall"/>
+
+	<!-- FINN MOBILE -->
+	<item component="ComponentInfo{io.finnmobile/com.rocky.android.authentication.preflight.SplashActivity}" drawable="finn_mobile"/>
+
+	<!-- LINE Bubble -->
+	<item component="ComponentInfo{jp.naver.SJLGBUBBLE/jp.naver.SJLGBUBBLE.activity.LineBubble}" drawable="line_bubble"/>
+
+	<!-- LINE Bubble2 -->
+	<item component="ComponentInfo{com.linecorp.LGBB2/com.linecorp.LGBB2.LineSplashActivity}" drawable="line_bubble2"/>
+
+	<!-- LINE Camera -->
+	<item component="ComponentInfo{jp.naver.linecamera.android/jp.naver.linecamera.android.activity.ProxyActivity}" drawable="line_camera"/>
+
+	<!-- LINE PLAY -->
+	<item component="ComponentInfo{jp.naver.lineplay.android/jp.naver.lineplay.android.LinePlay}" drawable="line_play"/>
+
+	<!-- LINE POP2 -->
+	<item component="ComponentInfo{com.linecorp.LGLP2/com.nhnpixelcube.linepop2.MainActivity}" drawable="line_pop2"/>
+
+	<!-- LINE Rangers -->
+	<item component="ComponentInfo{com.linecorp.LGRGS/com.linecorp.LGRGS.LineRangersAdr}" drawable="line_rangers"/>
+
+	<!-- Official Account -->
+	<item component="ComponentInfo{com.linecorp.lineoa/com.linecorp.lineoa.MainActivity}" drawable="official_account"/>
+
+	<!-- Sticker Maker -->
+	<item component="ComponentInfo{com.linecorp.usersticker/com.linecorp.usersticker.activity.SplashActivity}" drawable="sticker_maker"/>
+	
+	<!-- Blue Card -->
+	<item component="ComponentInfo{com.ptt.BlueCard/com.spn.IntroActivity}" drawable="blue_card"/>
+
+	<!-- Café Amazon -->
+	<item component="ComponentInfo{com.or.cafe_amazon/com.or.cafe_amazon.feature.splash_screen.SplashScreenActivity}" drawable="caf_amazon"/>
+
+	<!-- Robinhood -->
+	<item component="ComponentInfo{th.in.robinhood/th.co.robinhood.view.activity.splashscreen.SplashScreenActivity}" drawable="robinhood"/>
+
+	<!-- Robinhood Shop -->
+	<item component="ComponentInfo{th.in.robinhood.merchant/com.robinhoodmerchantapp.MainActivity}" drawable="robinhood_shop"/>
+
+	<!-- xplORe -->
+	<item component="ComponentInfo{com.pttor.xplore/com.xplore.MainActivity}" drawable="xplore"/>
+
+</appfilter>
