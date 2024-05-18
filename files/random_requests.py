@@ -45,8 +45,11 @@ ENTRY_STARTS_WITH = "<!--"
 COMPONENT_STARTS_WITH = "<item"
 GPLAY_STARTS_WITH = "https://play.google.com"
 FDROID_STARTS_WITH = "https://f-droid.org"
+IZZY_STARTS_WITH = "https://apt.izzysoft.de"
+GALAXY_STARTS_WITH = "https://galaxystore.samsung.com"
+ECOSIA_START_WITH = "https://www.ecosia.org"
 REQUEST_COUNTER_STARTS_WITH = "Requested"
-LAST_REQUESTED_TIME_STARTS_WITH = "Last"
+LAST_REQUESTED_TIME_STARTS_WITH = "Last requested"
 
 DEFAULT_REQUESTS_FILE_NAME = "requests.txt"
 DEFAULT_RANDOMIZED_REQ_FILE_NAME = "random_requests.txt"
@@ -132,6 +135,9 @@ def compute_final_population(lines, line_count_per_entry, args):
 		found_component_line = False
 		found_gplay_line = False
 		found_fdroid_line = False
+        found_izzy_line = False 
+        found_galaxy_line = False 
+        found_ecosia_line = False
 		found_request_counter_line = False
 		found_last_requested_time_line = False
 		entry_app_name = ""
@@ -149,6 +155,12 @@ def compute_final_population(lines, line_count_per_entry, args):
 				found_gplay_line = True			
 			if not found_fdroid_line and lines[x + entry_offset].startswith(FDROID_STARTS_WITH):
 				found_fdroid_line = True			
+            if not found_izzy_line and lines[x + entry_offset].startswith(IZZY_STARTS_WITH):
+				found_izzy_line = True			
+            if not found_galaxy_line and lines[x + entry_offset].startswith(GALAXY_STARTS_WITH):
+				found_galaxy_line = True			            
+            if not found_ecosia_line and lines[x + entry_offset].startswith(ECOSIA_STARTS_WITH):
+				found_ecosia_line = True			
 			if not found_request_counter_line and lines[x + entry_offset].startswith(REQUEST_COUNTER_STARTS_WITH):
 				found_request_counter_line = True			
 				entry_requested_times = int(lines[x + entry_offset].split(" ")[1])

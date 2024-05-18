@@ -1,0 +1,99 @@
+<!-- Sonic 2 -->
+<item component="ComponentInfo{com.sega.sonic2.runner/com.sega.sonic2px.MainActivity}" drawable="sonic_2"/>
+https://play.google.com/store/apps/details?id=com.sega.sonic2.runner
+https://f-droid.org/en/packages/com.sega.sonic2.runner/
+https://apt.izzysoft.de/fdroid/index/apk/com.sega.sonic2.runner
+https://galaxystore.samsung.com/detail/com.sega.sonic2.runner
+https://www.ecosia.org/search?q=com.sega.sonic2.runner
+Requested 15 times
+Last requested 1712998834.0
+    
+<!-- Slickdeals -->
+<item component="ComponentInfo{net.slickdeals.android/net.slickdeals.android.SlickdealsLauncher}" drawable="slickdeals"/>
+https://play.google.com/store/apps/details?id=net.slickdeals.android
+https://f-droid.org/en/packages/net.slickdeals.android/
+https://apt.izzysoft.de/fdroid/index/apk/net.slickdeals.android
+https://galaxystore.samsung.com/detail/net.slickdeals.android
+https://www.ecosia.org/search?q=net.slickdeals.android
+Requested 15 times
+Last requested 1713268144.0
+    
+<!-- Salatuk -->
+<item component="ComponentInfo{com.masarat.salati/com.masarat.salati.ui.activities.MainActivity}" drawable="salatuk"/>
+https://play.google.com/store/apps/details?id=com.masarat.salati
+https://f-droid.org/en/packages/com.masarat.salati/
+https://apt.izzysoft.de/fdroid/index/apk/com.masarat.salati
+https://galaxystore.samsung.com/detail/com.masarat.salati
+https://www.ecosia.org/search?q=com.masarat.salati
+Requested 15 times
+Last requested 1713122812.0
+    
+<!-- Granny -->
+<item component="ComponentInfo{com.dvloper.granny/com.unity3d.player.UnityPlayerActivity}" drawable="granny"/>
+https://play.google.com/store/apps/details?id=com.dvloper.granny
+https://f-droid.org/en/packages/com.dvloper.granny/
+https://apt.izzysoft.de/fdroid/index/apk/com.dvloper.granny
+https://galaxystore.samsung.com/detail/com.dvloper.granny
+https://www.ecosia.org/search?q=com.dvloper.granny
+Requested 15 times
+Last requested 1712804212.0
+    
+<!-- FamilyWall -->
+<item component="ComponentInfo{com.familywall/com.familywall.app.main.MainActivity}" drawable="familywall"/>
+https://play.google.com/store/apps/details?id=com.familywall
+https://f-droid.org/en/packages/com.familywall/
+https://apt.izzysoft.de/fdroid/index/apk/com.familywall
+https://galaxystore.samsung.com/detail/com.familywall
+https://www.ecosia.org/search?q=com.familywall
+Requested 15 times
+Last requested 1713171455.0
+    
+<!-- zFile -->
+<item component="ComponentInfo{com.htetznaing.zfile/com.htetznaing.zfile.ui.MainActivity}" drawable="zfile"/>
+https://play.google.com/store/apps/details?id=com.htetznaing.zfile
+https://f-droid.org/en/packages/com.htetznaing.zfile/
+https://apt.izzysoft.de/fdroid/index/apk/com.htetznaing.zfile
+https://galaxystore.samsung.com/detail/com.htetznaing.zfile
+https://www.ecosia.org/search?q=com.htetznaing.zfile
+Requested 15 times
+Last requested 1713261749.0
+    
+<!-- Wall Kickers -->
+<item component="ComponentInfo{com.kumobius.android.walljumper/com.kumobius.android.KumoAppActivity}" drawable="wall_kickers"/>
+https://play.google.com/store/apps/details?id=com.kumobius.android.walljumper
+https://f-droid.org/en/packages/com.kumobius.android.walljumper/
+https://apt.izzysoft.de/fdroid/index/apk/com.kumobius.android.walljumper
+https://galaxystore.samsung.com/detail/com.kumobius.android.walljumper
+https://www.ecosia.org/search?q=com.kumobius.android.walljumper
+Requested 15 times
+Last requested 1713288611.0
+    
+<!-- NekoBox -->
+<item component="ComponentInfo{moe.nb4a/io.nekohasekai.sagernet.ui.MainActivity}" drawable="nekobox"/>
+https://play.google.com/store/apps/details?id=moe.nb4a
+https://f-droid.org/en/packages/moe.nb4a/
+https://apt.izzysoft.de/fdroid/index/apk/moe.nb4a
+https://galaxystore.samsung.com/detail/moe.nb4a
+https://www.ecosia.org/search?q=moe.nb4a
+Requested 15 times
+Last requested 1713101318.0
+    
+<!-- Яндекс Пэй -->
+<item component="ComponentInfo{com.yandex.bank/com.yandex.bank.screens.MainActivity}" drawable="яндекс_пэи"/>
+https://play.google.com/store/apps/details?id=com.yandex.bank
+https://f-droid.org/en/packages/com.yandex.bank/
+https://apt.izzysoft.de/fdroid/index/apk/com.yandex.bank
+https://galaxystore.samsung.com/detail/com.yandex.bank
+https://www.ecosia.org/search?q=com.yandex.bank
+Requested 15 times
+Last requested 1712774493.0
+    
+<!-- Traffic Racer -->
+<item component="ComponentInfo{com.skgames.trafficracer/com.unity3d.player.UnityPlayerActivity}" drawable="traffic_racer"/>
+https://play.google.com/store/apps/details?id=com.skgames.trafficracer
+https://f-droid.org/en/packages/com.skgames.trafficracer/
+https://apt.izzysoft.de/fdroid/index/apk/com.skgames.trafficracer
+https://galaxystore.samsung.com/detail/com.skgames.trafficracer
+https://www.ecosia.org/search?q=com.skgames.trafficracer
+Requested 15 times
+Last requested 1712716248.0

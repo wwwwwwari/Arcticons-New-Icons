@@ -1,0 +1,36 @@
+<appfilter>
+
+	<!-- Bumrungrad -->
+	<item component="ComponentInfo{com.bumrungrad.android/com.bumrungrad.android.main.MainActivity}" drawable="bumrungrad"/>
+
+	<!-- Chula Care -->
+	<item component="ComponentInfo{th.go.chulalongkornhospital.chulacare/th.go.chulalongkornhospital.chulacare.SplashActivity}" drawable="chula_care"/>
+
+	<!-- Huachiew Connect -->
+	<item component="ComponentInfo{com.ivb.hcu/com.ivb.hcu.MainActivity}" drawable="huachiew_connect"/>
+
+	<!-- Jitarsa -->
+	<item component="ComponentInfo{th.or.dga.royaljitarsa/th.or.dga.royaljitarsa.LandingPage}" drawable="jitarsa"/>
+
+	<!-- Krungthai -->
+	<item component="ComponentInfo{com.krungthai.biznext.prod/com.krungthai.biznext.ui.RootActivity}" drawable="krungthai"/>
+
+	<!-- Krungthai Campus -->
+	<item component="ComponentInfo{com.ktbuniversity.krungthaicampus/com.ktb_uapp.MainActivity}" drawable="krungthai_campus"/>
+
+	<!-- RAM Health -->
+	<item component="ComponentInfo{com.rkh.ramhospital/com.rkh.ramhospital.MainActivity}" drawable="ram_health"/>
+
+	<!-- ThaID -->
+	<item component="ComponentInfo{th.go.dopa.bora.dims.ddopa/th.go.dopa.bora.dims.ddopa.MainActivity}" drawable="thaid"/>
+
+	<!-- ทางรัฐ -->
+	<item component="ComponentInfo{th.or.dga.citizenportal/th.or.dga.citizenportal.ui.splash.SplashScreenActivity}" drawable=""/>
+
+	<!-- สุขแท้ที่แม่ให้ -->
+	<item component="ComponentInfo{com.superhardcode.android.motherday/com.superhardcode.android.motherday.SplashActivity}" drawable="1"/>
+
+	<!-- สุขพอที่พ่อสอน -->
+	<item component="ComponentInfo{th.or.ega.ad.royalwords/com.itlife.dadday.activities.SplashActivity}" drawable="12"/>
+
+</appfilter>
