@@ -6,14 +6,14 @@
 	<!-- AA Friends -->
 	<item component="ComponentInfo{com.airasia.foodmerchant/com.airasia.foodmerchant.MainActivity}" drawable="letter_lowercase_square_a"/>
 
+	<!-- AIS PLAY -->
+	<item component="ComponentInfo{com.ais.mimo.AISPlay/net.vimmi.core.launcher.StartupActivity}" drawable="ais_play"/>
+	
 	<!-- AIS PLAY AR -->
 	<item component="ComponentInfo{com.ais.mimo.AISAR/com.ais.mimo.AISAR.activity.SplashActivity}" drawable="ais_play_ar"/>
 
 	<!-- AIS PLAY VR -->
 	<item component="ComponentInfo{com.ais.mimo.AISPlayVR/com.ais.mimo.AISPlayVR.ui.activity.SplashActivity}" drawable="ais_play_vr"/>
-
-	<!-- AIS PLAY -->
-	<item component="ComponentInfo{com.ais.mimo.AISPlay/net.vimmi.core.launcher.StartupActivity}" drawable="ais_play"/>
 
 	<!-- AmazingThailand -->
 	<item component="ComponentInfo{org.tat.AmazingThailand/org.tat.AmazingThailand.splashscreen.SplashScreenActivity}" drawable="amazingthailand"/>
@@ -89,7 +89,7 @@
 
 	<!-- LINE POP -->
 	<item component="ComponentInfo{jp.naver.SJLINEPANG/com.linepop.linegameadvertise.unity.LPLineGameAdvertiseUnityPlayerActivity" drawable="line_pop"/>
-	
+
 	<!-- LINE POP2 -->
 	<item component="ComponentInfo{com.linecorp.LGLP2/com.nhnpixelcube.linepop2.MainActivity}" drawable="line_pop_2"/>
 
@@ -131,6 +131,12 @@
 	<!-- Renthub -->
 	<item component="ComponentInfo{th.in.renthub/th.in.renthub.MainActivity}" drawable="renthub"/>
 
+	<!-- Robinhood -->
+	<item component="ComponentInfo{th.in.robinhood/th.co.robinhood.view.activity.splashscreen.SplashScreenActivity}" drawable="robinhood_food"/>
+
+	<!-- Robinhood Shop -->
+	<item component="ComponentInfo{th.in.robinhood.merchant/com.robinhoodmerchantapp.MainActivity}" drawable="robinhood_food_shop"/>
+
 	<!-- TGO Zero Carbon -->
 	<item component="ComponentInfo{com.tgo.cf.zerocarbon/com.tgo.cf.zerocarbon.MainActivity}" drawable="tgo_zero_carbon"/>
 
@@ -149,6 +155,12 @@
 	<!-- Thisshop -->
 	<item component="ComponentInfo{com.thaifintech.thishop/com.thai.thishop.ui.SplashActivity}" drawable="thisshop"/>
 
+	<!-- Tops -->
+	<item component="ComponentInfo{com.iplus.tops/tech.central.tops.MainActivity}" drawable="tops"/>
+
+	<!-- xplORe -->
+	<item component="ComponentInfo{com.pttor.xplore/com.xplore.MainActivity}" drawable="xplore"/>
+
 	<!-- Yindii -->
 	<item component="ComponentInfo{co.yindii/com.example.yindii_app.MainActivity}" drawable="yindii"/>
 
@@ -158,13 +170,4 @@
 	<!-- ZipEvent Gate -->
 	<item component="ComponentInfo{com.dreamio.organizerapp/com.dreamio.organizerapp.application.UserAuthenticate}" drawable="zipevent_gate"/>
 
-	<!-- Robinhood -->
-	<item component="ComponentInfo{th.in.robinhood/th.co.robinhood.view.activity.splashscreen.SplashScreenActivity}" drawable="robinhood"/>
-
-	<!-- Robinhood Shop -->
-	<item component="ComponentInfo{th.in.robinhood.merchant/com.robinhoodmerchantapp.MainActivity}" drawable="robinhood_shop"/>
-
-	<!-- xplORe -->
-	<item component="ComponentInfo{com.pttor.xplore/com.xplore.MainActivity}" drawable="xplore"/>
-	
 </appfilter>

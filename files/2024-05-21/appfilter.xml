@@ -1,0 +1,9 @@
+<appfilter>
+
+	<!-- Gold Now -->
+	<item component="ComponentInfo{com.huasengheng.rmi/com.huasengheng.rmi.MainActivity}" drawable="gold_now"/>
+
+	<!-- photoTAN -->
+	<item component="ComponentInfo{com.comdirect.phototan/de.comdirect.phototan.feature.splash.impl.SplashActivity}" drawable="phototan"/>
+
+</appfilter>

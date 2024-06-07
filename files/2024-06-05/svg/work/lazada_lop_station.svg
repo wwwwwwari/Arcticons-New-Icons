@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="a"
+   viewBox="0 0 48 48"
+   version="1.1"
+   sodipodi:docname="lazada_lop_station.svg"
+   xml:space="preserve"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="7.7860577"
+     inkscape:cx="87.078728"
+     inkscape:cy="40.906453"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="a" /><defs
+     id="defs1"><style
+       id="style1">.b{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path
+     id="rect476"
+     style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round"
+     class="t"
+     d="m 23.333444,18.498988 c 2.101012,0 3.79244,1.625412 3.79244,3.64442 v 3.713184 c 0,2.019008 -1.691428,3.644421 -3.79244,3.644421 -2.101011,0 -3.79244,-1.625413 -3.79244,-3.644421 v -3.713184 c 0,-2.019008 1.691429,-3.64442 3.79244,-3.64442 z M 29.4711,29.501013 V 18.498988 h 3.748076 c 2.119043,0 3.836804,1.654291 3.836804,3.694893 0,2.040599 -1.717761,3.694892 -3.836804,3.694892 H 29.4711 M 12.621702,18.498988 v 11.002025 h 5.724438 m 5.714836,2.867791 v 9.385198 M 43.499975,11.5437 v 19.2712 l -18.5339,10.7006 c -0.560099,0.3233 -1.250101,0.3233 -1.8101,0 l -18.656,-10.771 V 11.4733 m 31.920292,4.158025 7.079808,-4.087525 -9.1177,-5.2641 -1e-4,-10e-5 v 0 l -6.4263,3.7102 c -2.182498,1.260099 -5.732202,1.253699 -7.9285,-0.0143 l -6.4666,-3.7335 -9.0608,5.2313 7.20134,4.157715" /></svg>

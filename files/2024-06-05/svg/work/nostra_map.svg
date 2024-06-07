@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="nostra_map.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="8.96875"
+     inkscape:cx="17.393728"
+     inkscape:cy="26.926829"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs1" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"><path
+       id="polyline364"
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       class="t"
+       d="m 20.165486,20.988016 v -8.251245 l 7.669013,8.251245 v -8.251245 m 5.753931,4.125622 a 9.5884251,9.5830249 0 0 1 -9.588437,9.583024 9.5884251,9.5830249 0 0 1 -9.588422,-9.583024 9.5884251,9.5830249 0 0 1 9.588422,-9.5830252 9.5884251,9.5830249 0 0 1 9.588437,9.5830252 z m 2.729864,-0.02895 C 36.393388,10.022284 30.793306,4.5000008 23.999993,4.5000008 c -6.793313,0 -12.3934,5.5222832 -12.318287,12.3334412 0.07409,6.715579 5.676951,14.775052 12.318287,26.66661 6.641336,-11.891558 12.244244,-19.951031 12.318301,-26.666609 z" /></g></svg>
