@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="mtn_momo.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="6.2976698"
+     inkscape:cx="-26.120773"
+     inkscape:cy="30.884439"
+     inkscape:window-width="1918"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><style
+       id="style1">.a { fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round; }
+</style></defs><path
+     id="path3"
+     style="fill:none;stroke:#fff;stroke-width:1stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 27.513456,22.839674 a 4.9772939,4.9705127 0 0 1 -4.977294,4.970513 4.9772939,4.9705127 0 0 1 -4.977293,-4.970513 4.9772939,4.9705127 0 0 1 4.977293,-4.970513 4.9772939,4.9705127 0 0 1 4.977294,4.970513 z M 31.15184,4.4999643 c -1.426306,2.1976356 -2.85261,4.3952714 -4.278916,6.5929077 5.979308,4.98051 9.91536,12.094103 11.655598,19.619542 C 38.939802,23.895672 38.284068,16.794667 35.095646,10.643545 34.000686,8.4652687 32.660079,6.4145113 31.15184,4.4999643 Z M 20.41865,10.734625 C 16.732809,16.325974 13.046969,21.917322 9.3611277,27.508671 17.771896,28.791 25.768638,32.598085 31.991909,38.402433 c 1.743773,1.591274 3.373805,3.304435 4.907698,5.097641 0.733397,-9.013683 -1.58471,-18.513948 -7.559608,-25.469279 -2.494241,-2.950594 -5.548049,-5.414955 -8.921349,-7.29617 z" /></svg>
