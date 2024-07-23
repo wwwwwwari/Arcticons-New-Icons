@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: https://github.com/wwwwwwari/Arcticons-New-Icons
+
+Files: *
+Copyright: Wari <https://github.com/wwwwwwari>
+License: Unlicense
+Comment: The full license text is available at the LICENSE-UNLICENSE file at the top of this repository, or at <https://unlicense.org>.
+
+Files: *.svg
+Copyright: Arcticons-Teams <https://github.com/Arcticons-Team>
+License: GPL-3.0-only
+Comment: The full license text is available at the LICENSE-GPL-3.0 file at the top of this repository, or at <https://www.gnu.org/licenses/gpl-3.0.txt>.
