@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="iot_fleet_mgmt.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="8.90625"
+     inkscape:cx="28.126316"
+     inkscape:cy="26.217544"
+     inkscape:window-width="1918"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><style
+       id="style1">.a { fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round; }
+</style></defs><path
+     id="path2"
+     style="fill:none;fill-opacity:0.266292;stroke:#fff;stroke-width:1stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 24,27.148161 a 1.4888252,1.4870679 0 0 0 -1.488687,1.48693 1.4888252,1.4870679 0 0 0 1.196621,1.455774 l -1.046333,2.687803 H 25.3384 L 24.292066,30.090865 A 1.4888252,1.4870679 0 0 0 25.488688,28.635091 1.4888252,1.4870679 0 0 0 24,27.148161 Z m 8.534076,-3.871717 C 35.056112,34.769211 27.486454,40.085504 18.985878,43.500008 15.863862,40.426234 12.382177,37.01525 9.671836,32.887636 7.629019,29.77661 6.351147,26.089557 6.351147,22.18906 c 0,-9.92836 8.64488,-17.6890592 17.648854,-17.6890592 9.003972,0 17.648852,7.7606992 17.648852,17.6890592 0,3.900497 -1.277871,7.58755 -3.320688,10.698576 -2.710343,4.127614 -6.192026,7.538598 -9.314042,10.612372 -8.500578,-3.414504 -16.070236,-8.730797 -13.5482,-20.223564 L 24,20.341264 Z" /></svg>

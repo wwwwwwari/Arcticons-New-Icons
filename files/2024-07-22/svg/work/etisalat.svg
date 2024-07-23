@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="my_etisalat.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.59534"
+     inkscape:cx="22.428931"
+     inkscape:cy="19.01497"
+     inkscape:window-width="1918"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><style
+       id="style1">.a { fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round; }
+</style></defs><path
+     id="path1"
+     style="fill:none;stroke:#fff;stroke-width:1stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 35.061491,31.510504 h -1.389623 c -0.920521,0 -1.785748,-0.436405 -2.327206,-1.173789 l -5.703825,-7.76729 c -0.733251,-0.953448 -2.022354,-2.208493 -2.022354,-4.068145 0,-1.75559 1.439372,-3.282088 3.441578,-3.282088 1.949992,0 3.332627,1.526294 3.332627,3.282088 0,1.859244 -1.520776,3.448872 -4.331059,3.976913 -2.544631,0.478194 -4.314323,1.691434 -4.88914,3.634475 m -8.23398,0.0013 h 8.222619 v -1.323669 c 0,-2.249423 -1.840633,-4.072828 -4.111309,-4.072828 v 0 c -2.270676,0 -4.11131,1.823405 -4.11131,4.072828 v 2.647338 c 0,2.249423 1.840634,4.072828 4.11131,4.072828 v 0 c 1.529612,0 2.864143,-0.828044 3.572317,-2.055798 l 0.752473,0.0019 c 0.612628,1.25096 1.921899,2.053728 3.92725,2.053728 3.795347,0 6.029036,-3.565158 9.32815,-7.946698 M 9.5,5.5 h 29 c 2.216,0 4,1.784 4,4 v 29 c 0,2.216 -1.784,4 -4,4 h -29 c -2.216,0 -4,-1.784 -4,-4 v -29 c 0,-2.216 1.784,-4 4,-4 z" /></svg>

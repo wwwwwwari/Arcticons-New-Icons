@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="etisalat_money.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.59534"
+     inkscape:cx="22.667113"
+     inkscape:cy="18.935575"
+     inkscape:window-width="1918"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><style
+       id="style1">.a { fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round; }
+</style></defs><path
+     id="path1"
+     style="fill:none;fill-opacity:0.266292;stroke:#fff;stroke-linecap:round;stroke-linejoin:round
+     d="m 34.5,42.491119 v -7.9912 l 4,8 4,-7.9878 v 7.9878 M 45.5,38.5 c 0,3.865993 -3.134007,7 -7,7 -3.865993,0 -7,-3.134007 -7,-7 0,-3.865993 3.134007,-7 7,-7 3.865993,0 7,3.134007 7,7 z M 35.06149,31.510504 h -1.38962 c -0.92052,0 -1.78575,-0.436406 -2.32721,-1.173789 l -5.70382,-7.76729 c -0.73325,-0.953447 -2.02236,-2.208495 -2.02236,-4.068145 0,-1.755588 1.43938,-3.282088 3.44158,-3.282088 1.94999,0 3.33263,1.526296 3.33263,3.282088 0,1.859242 -1.52078,3.448873 -4.33106,3.976913 -2.54463,0.478194 -4.31433,1.691436 -4.88914,3.634475 m -8.23398,0.0013 h 8.22262 v -1.323669 c 0,-2.249421 -1.84064,-4.072828 -4.11131,-4.072828 v 0 c -2.27068,0 -4.11131,1.823407 -4.11131,4.072828 v 2.647338 c 0,2.249421 1.84063,4.072828 4.11131,4.072828 v 0 c 1.52961,0 2.86414,-0.828045 3.57232,-2.055798 l 0.75247,0.0019 c 0.61263,1.250959 1.9219,2.053728 3.92725,2.053728 3.79534,0 6.02904,-3.565162 9.32815,-7.946698 M 32.77148,42.499999 9.5,42.5 c -2.216,0 -4,-1.784002 -4,-4 V 9.5000002 c 0,-2.215998 1.784,-4 4,-4 v 0 h 29 c 2.216,0 4,1.784002 4,4 V 32.757813"
+     sodipodi:nodetypes="cccccssssscsccsssccccsssssssccsccsssscssc" /></svg>

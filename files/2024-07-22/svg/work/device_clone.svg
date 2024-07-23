@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="device_clone.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.59534"
+     inkscape:cx="3.6918417"
+     inkscape:cy="38.387214"
+     inkscape:window-width="1918"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><style
+       id="style1">.a { fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round; }
+</style></defs><path
+     id="path5"
+     style="fill:none;fill-opacity:0.266292;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 16.666091,21.644919 c 2.097953,1.268664 6.363247,1.230387 9.626403,1.084662 V 21.29329 c 0,-0.259596 0.45016,-0.572572 0.657848,-0.416829 l 4.14511,3.108363 c 0.300966,0.22569 0.300966,0.90287 0,1.12856 l -4.14511,3.108363 c -0.207688,0.155743 -0.657848,-0.157233 -0.657848,-0.416829 v -1.436291 c -3.463359,-0.08852 -7.999267,0.02802 -9.626403,-2.555275 v -2.168433 c 0.13403,-0.702192 1.334296,-1.030953 2.559615,-0.981442 v 1.658709 M 18.22186,32.874412 h -3.191554 c -0.554,0 -1,-0.446001 -1,-1 V 15.862769 c 0,-0.553999 0.446,-1 1,-1 v 0 h 3.191554 m 3.849481,5.338518 V 13.92052 c 0,-0.554 0.446,-1 1,-1 v 0 H 33.39732 c 0.553999,0 1,0.446 1,1 v 19.726997 c 0,0.554 -0.446001,1 -1,1 H 23.071341 c -0.554,0 -1,-0.446 -1,-1 V 28.778752 M 9.5,5.5 h 29 c 2.216,0 4,1.784 4,4 v 29 c 0,2.216 -1.784,4 -4,4 h -29 c -2.216,0 -4,-1.784 -4,-4 v -29 c 0,-2.216 1.784,-4 4,-4 z" /></svg>

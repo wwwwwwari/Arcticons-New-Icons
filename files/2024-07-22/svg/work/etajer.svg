@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="etajer.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="8.90625"
+     inkscape:cx="4.7719298"
+     inkscape:cy="45.754386"
+     inkscape:window-width="1918"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><style
+       id="style1">.a { fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round; }
+</style></defs><path
+     id="circle7"
+     style="fill:none;fill-opacity:0.266292;stroke:#fff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 40.80825,22.824513 a 1.5629154,1.5619597 0 0 1 -1.562914,1.56196 1.5629154,1.5619597 0 0 1 -1.562917,-1.56196 1.5629154,1.5619597 0 0 1 1.562917,-1.561959 1.5629154,1.5619597 0 0 1 1.562914,1.561959 z m -6.301186,0 a 1.0492107,1.0485691 0 0 1 -1.04921,1.048569 1.0492107,1.0485691 0 0 1 -1.04921,-1.048569 1.0492107,1.0485691 0 0 1 1.04921,-1.048569 1.0492107,1.0485691 0 0 1 1.04921,1.048569 z m -0.05541,-7.356354 -8.651838,7.356354 8.651838,7.356356 M 7.1921514,9.5264396 H 28.336862 m -1e-6,28.3723304 -21.1447118,1e-6 M 28.336747,30.691419 v 8.19766 c 0,2.554448 -2.057732,4.610922 -4.613744,4.610922 h -11.91751 c -2.5560115,0 -4.6137435,-2.056474 -4.6137435,-4.610922 V 9.1109226 c 0,-2.5544493 2.057732,-4.6109233 4.6137435,-4.6109233 v 0 h 11.91751 c 2.556012,0 4.613744,2.056474 4.613744,4.6109233 v 5.8448564" /></svg>

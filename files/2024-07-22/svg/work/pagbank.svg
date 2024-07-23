@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="pagbank.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="6.2976698"
+     inkscape:cx="-3.8903278"
+     inkscape:cy="18.816484"
+     inkscape:window-width="1918"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><style
+       id="style1">.a { fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round; }
+</style></defs><path
+     id="circle3"
+     style="fill:none;fill-opacity:0.266292;stroke:#fff;stroke-width:1stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 41.177068,29.899618 a 7.9293595,7.9293595 0 0 1 -7.92936,7.92936 7.9293595,7.9293595 0 0 1 -7.92936,-7.92936 7.9293595,7.9293595 0 0 1 7.92936,-7.92936 7.9293595,7.9293595 0 0 1 7.92936,7.92936 z M 31.134279,37.552626 A 13.215981,13.215981 0 0 1 20.939442,42.358646 13.215981,13.215981 0 0 1 7.7234603,29.142665 13.215981,13.215981 0 0 1 20.939442,15.926683 13.215981,13.215981 0 0 1 32.095813,22.057641 M 8.5347963,24.583273 A 15.727365,15.727365 0 0 1 8.1531343,21.139525 15.727365,15.727365 0 0 1 23.880499,5.4121593 15.727365,15.727365 0 0 1 39.607864,21.139525 v 0 a 15.727365,15.727365 0 0 1 -0.394203,3.499164 M 45.5,24 A 21.5,21.5 0 0 1 24,45.5 21.5,21.5 0 0 1 2.4999998,24 21.5,21.5 0 0 1 24,2.5 21.5,21.5 0 0 1 45.5,24 Z" /></svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="gochat.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.59534"
+     inkscape:cx="35.529014"
+     inkscape:cy="35.290831"
+     inkscape:window-width="1918"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><style
+       id="style1">.a { fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round; }
+</style></defs><path
+     id="path14"
+     style="fill:none;fill-opacity:0.266292;stroke:#fff;stroke-width:1stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 7.527895,38.804647 c 2.715155,1.501563 3.797467,1.616436 7.226429,1.616436 5.111012,0 9.254322,-4.149878 9.254322,-9.269092 l -10e-7,-4.49369 m 4.204098,-2.031657 c 1.498875,0.97293 3.246825,1.490627 5.032935,1.490627 5.111021,0 9.254322,-4.149951 9.254322,-9.269176 v 0 c 0,-5.119224 -4.143301,-9.2691775 -9.254322,-9.2691775 -5.111023,0 -9.254324,4.1499525 -9.245677,9.2691775 0.0086,5.119216 -4.134665,9.269176 -9.245677,9.269176 -5.111012,0 -9.254324,-4.14996 -9.254324,-9.269176 0,-5.119217 4.14331,-9.2691775 9.254324,-9.2691775 2.679161,0 5.092427,1.140325 6.782369,2.9628265" /></svg>

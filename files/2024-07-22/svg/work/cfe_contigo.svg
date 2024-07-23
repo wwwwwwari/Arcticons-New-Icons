@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="cfe_contigo.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.59534"
+     inkscape:cx="41.721781"
+     inkscape:cy="25.922286"
+     inkscape:window-width="1918"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><style
+       id="style1">.a { fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round; }
+</style></defs><path
+     id="path8"
+     style="fill:none;fill-opacity:0.266292;stroke:#fff;stroke-width:1stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 27.375611,9.6473012 23.366074,7.5228518 c -0.493642,-0.2615561 -0.680483,-0.86953 -0.418923,-1.363165 l 0.06645,-0.12541 c 0.261565,-0.4936351 0.869546,-0.6804725 1.36319,-0.4189163 l 4.009536,2.1244493 m -3.281259,6.1926182 -4.009536,-2.12445 c -0.493643,-0.261556 -0.680483,-0.869529 -0.418923,-1.363165 v 0 l 0.06645,-0.125409 C 21.00462,9.8257705 21.612602,9.6389333 22.106246,9.9004885 l 4.009536,2.1244485 m 7.30117,4.804786 c 1.958128,2.212385 3.144814,5.116971 3.144814,8.318838 0,6.966434 -5.595225,12.561575 -12.561766,12.561575 -6.96654,0 -12.561766,-5.595141 -12.561766,-12.561575 0,-3.669752 1.557115,-6.942715 4.051357,-9.24097 0.972254,-0.896383 1.033973,-2.41112 0.137868,-3.383629 -0.895838,-0.972814 -2.410625,-1.035415 -3.38368,-0.139836 -3.4384335,3.168256 -5.5954817,7.731055 -5.5954817,12.764435 10e-8,9.555063 7.7964937,17.351438 17.3517027,17.351438 9.55521,0 17.351703,-7.796375 17.351703,-17.351438 0,-5.048414 -2.168671,-9.617171 -5.627542,-12.789904 0.322558,-1.121929 -0.170422,-2.349427 -1.245869,-2.9192495 L 29.01835,6.5464602 v 0 l -4.501053,8.4947118 5.459944,2.892948 c 1.23411,0.653891 2.754064,0.186799 3.407965,-1.047291 l 0.02804,-0.05293" /></svg>

@@ -45,11 +45,11 @@ This is my general checklist and workflow for Arcticons's icon making process on
 3. Using SVGO, re-save all the files as Optimized SVGs in a separate folder:
     1. `svgo -f ./work -i ./opti`
 4. Open the svg files in `geany` and CTRL+H the following using Regular Expressions and save all files:
-    1. `stroke-width="?\d*.?\d*"?` -> `stroke-width="1"`
-    2. `stroke="?#[abcdef0-9]{3,6}"?` -> `stroke="#fff"`
-    3. `stroke-linecap="?[a-z]*"?` -> `stroke-linecap="round"`
-    4. `stroke-linejoin="?[a-z]*"?` -> `stroke-linejoin="round"`
-    5. `stroke="?rgba\S+"?` -> `stroke="#fff"`
+    1. `stroke-width[:=]"?\d*.?\d*"?` -> `stroke-width:1`
+    2. `stroke[:=]"?#[abcdef0-9]{3,6}"?` -> `stroke:#fff`
+    3. `stroke-linecap[:=]"?[a-z]*"?` -> `stroke-linecap:round`
+    4. `stroke-linejoin[:=]"?[a-z]*"?` -> `stroke-linejoin:round`
+    5. `stroke[:=]"?rgba\S+"?` -> `stroke:#fff`
 5. Re-check that everything still looks correct.
 #### Final Checks & Making a Pull Request
 1. Ensure that your GitHub repo is in sync with Arcticons-Team's using the [web interface](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) before proceeding.

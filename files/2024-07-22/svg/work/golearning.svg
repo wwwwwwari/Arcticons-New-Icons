@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="golearning.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.59534"
+     inkscape:cx="27.271991"
+     inkscape:cy="34.258702"
+     inkscape:window-width="1918"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><style
+       id="style1">.a { fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round; }
+</style></defs><path
+     id="path2"
+     style="fill:none;fill-opacity:0.266292;stroke:#fff;stroke-width:1stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 43.499999,33.393215 c 0,1.962341 -1.585333,3.553132 -3.540941,3.553132 -1.955608,0 -3.54094,-1.590792 -3.54094,-3.553132 0,-1.96234 1.585332,-3.553132 3.54094,-3.553132 1.955608,0 3.540941,1.590791 3.540941,3.553132 z M 21.861547,13.89295 v 27.808564 m 10.921467,-4.795208 -8.781764,4.296522 c -0.721952,0.353219 -1.558329,0.71854 -2.139703,0.71854 -0.581374,0 -1.417751,-0.365321 -2.139703,-0.71854 L 6.6478585,34.806315 C 5.5783044,34.28303 4.5000005,33.84507 4.5000005,32.651062 V 8.952419 c 0,-1.194008 1.078304,-2.678537 2.147858,-2.155253 L 19.721844,13.19368 c 0.708521,0.346647 1.696705,0.703749 2.139703,0.703749 0.442998,0 1.431182,-0.357102 2.139703,-0.703749 L 37.075236,6.797166 c 1.069554,-0.523284 2.147858,0.961245 2.147858,2.155253 v 16.471187"
+     sodipodi:nodetypes="ssssscccszsssscszscsc" /></svg>
