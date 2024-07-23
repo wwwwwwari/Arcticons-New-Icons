@@ -10,3 +10,14 @@ Files: *.svg
 Copyright: Arcticons-Teams <https://github.com/Arcticons-Team>
 License: GPL-3.0-only
 Comment: The full license text is available at the LICENSE-GPL-3.0 file at the top of this repository, or at <https://www.gnu.org/licenses/gpl-3.0.txt>.
+
+Files: */appfilter.xml
+Copyright: Arcticons-Teams <https://github.com/Arcticons-Team>
+License: GPL-3.0-only
+Comment: The full license text is available at the LICENSE-GPL-3.0 file at the top of this repository, or at <https://www.gnu.org/licenses/gpl-3.0.txt>.
+
+Files: */requests.txt
+Copyright: Arcticons-Teams <https://github.com/Arcticons-Team>
+License: GPL-3.0-only
+Comment: The full license text is available at the LICENSE-GPL-3.0 file at the top of this repository, or at <https://www.gnu.org/licenses/gpl-3.0.txt>.
+
