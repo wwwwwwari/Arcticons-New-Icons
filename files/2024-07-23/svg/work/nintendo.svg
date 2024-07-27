@@ -3,7 +3,7 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg1"
-   sodipodi:docname="exness.svg"
+   sodipodi:docname="nintendo_alt_1.svg"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -19,8 +19,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:zoom="8.90625"
-     inkscape:cx="-7.354386"
-     inkscape:cy="38.34386"
+     inkscape:cx="1.7403509"
+     inkscape:cy="15.550877"
      inkscape:window-width="1918"
      inkscape:window-height="1053"
      inkscape:window-x="0"
@@ -30,7 +30,6 @@
      id="defs1"><style
        id="style1">.a { fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round; }
 </style></defs><path
-     id="path414"
-     style="display:inline;fill:none;stroke:#fff;stroke-width:1stroke-linecap:round;stroke-linejoin:round"
-     class="t"
-     d="m 21.730474,28.570117 c -0.991326,1.679358 -2.859448,2.811372 -5.000653,2.811372 v 0 c -3.178572,0 -5.755155,-2.494107 -5.755155,-5.570935 v -3.621107 c 0,-3.076828 2.576583,-5.570935 5.755155,-5.570935 v 0 c 3.178571,0 5.755154,2.494107 5.755154,5.570935 v 1.810554 c 0,0 -11.510309,0 -11.510309,0 M 37.025334,31.381495 25.515025,16.618506 m 11.510309,0 -11.510309,14.762989 M 9.5,5.5 h 29 c 2.216,0 4,1.784 4,4 v 29 c 0,2.216 -1.784,4 -4,4 h -29 c -2.216,0 -4,-1.784 -4,-4 v -29 c 0,-2.216 1.784,-4 4,-4 z" /></svg>
+     id="path15"
+     style="fill:none;stroke:#ffffff;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 18.688651,30.630925 V 17.747203 L 29.31135,30.630925 V 17.747203 M 16.693171,10.765516 h 14.613658 c 6.755019,0 12.193172,5.57792 12.193172,12.506547 v 1.455874 c 0,6.928627 -5.438153,12.506547 -12.193172,12.506547 H 16.693171 C 9.9381533,37.234484 4.5,31.656564 4.5,24.727937 v -1.455874 c 0,-6.928627 5.4381533,-12.506547 12.193171,-12.506547 z" /></svg>

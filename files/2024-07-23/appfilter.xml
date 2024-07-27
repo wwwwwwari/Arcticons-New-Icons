@@ -1,0 +1,6 @@
+<appfilter>
+
+	<!-- SUZURI -->
+	<item component="ComponentInfo{jp.suzuri/jp.suzuri.MainActivity}" drawable="suzuri"/>
+
+</appfilter>
