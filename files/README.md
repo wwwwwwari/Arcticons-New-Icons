@@ -17,8 +17,8 @@ This is my general checklist and workflow for Arcticons's icon making process on
       |_ YYYY-MM-DD/ (workspace of each pull request)
       |  |_ svg/ (all SVG files are saved within here)
       |     |_ bkup/ (backups of /work/ SVG files I've made before applying the regex - to be deleted after everything is done)
-      |     |_ opti/ (result files after running svgo - to be deleted after everything is done)
-      |     |_ opti2/ (final files to be copied to the main repository. shouldn't be edited directly)
+      |     |_ work2/ (result files after running svgo - to be deleted after everything is done)
+      |     |_ opti/ (final files to be copied to the main repository. shouldn't be edited directly)
       |     |_ work/ (main workspace for SVGs)
       |_ plans/ (icons I'm interested in doing in the future)
 ```
@@ -42,9 +42,9 @@ This is my general checklist and workflow for Arcticons's icon making process on
     1. In `YYYY-MM-DD/svg/`, `../../scripts/dupechecker.py ./work --verbose`
 3. Back up the svg files in `work/` above into a backup folder
 4. Using SVGO, re-save all the files as Optimized SVGs in a separate folder:
-    1. `svgo -f ./work -i ./opti`
+    1. `svgo -f ./work -i ./work2`
 5. Run the replacer script in `scripts/` to ensure all stroke colors, stroke widths, linecaps and linejoins are set correctly:
-    1. In `YYYY-MM-DD/svg/`, `../../scripts/replacer.py ./opti ./opti2 --verbose`
+    1. In `YYYY-MM-DD/svg/`, `../../scripts/replacer.py ./work2 ./opti --verbose`
 6. Re-check that everything still looks correct.
 #### Final Checks & Making a Pull Request
 1. Ensure that your GitHub repo is in sync with Arcticons-Team's using the [web interface](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) before proceeding.
