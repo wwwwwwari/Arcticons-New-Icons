@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="blue_light_filter.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="8.90625"
+     inkscape:cx="6.6807018"
+     inkscape:cy="28.912281"
+     inkscape:window-width="1918"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><style
+       id="style1">.a { fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round; }
+</style></defs><path
+     id="path2"
+     style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 9.2392728,25.997506 -0.6607589,-1.570623 -1.2860212,-0.806988 1.2860212,-0.806988 0.6607589,-1.570624 0.660759,1.570624 1.2860202,0.806988 -1.2860202,0.806988 z m 2.9772922,-6.606445 -0.940337,-2.202731 -1.8301567,-1.131766 1.8301567,-1.131766 0.940337,-2.202732 0.940336,2.202732 1.830156,1.131766 -1.830156,1.131766 z M 29.744141,9.4121094 c 0.722407,1.8296856 1.094107,3.7789586 1.095703,5.7460936 1.24e-4,8.660782 -7.020859,15.681765 -15.681641,15.681641 C 13.19865,30.826744 11.258911,30.446482 9.439453,29.71875 11.787394,35.713992 17.561408,39.664796 24,39.681641 32.660782,39.681765 39.681765,32.660782 39.681641,24 39.680125,17.557737 35.738677,11.771834 29.744141,9.4121094 Z M 45.5,24 A 21.5,21.5 0 0 1 24,45.5 21.5,21.5 0 0 1 2.5,24 21.5,21.5 0 0 1 24,2.5 21.5,21.5 0 0 1 45.5,24 Z" /></svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="enel_energia.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="8.90625"
+     inkscape:cx="-16.449123"
+     inkscape:cy="47.438596"
+     inkscape:window-width="1918"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><style
+       id="style1">.a { fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round; }
+</style></defs><path
+     id="path5"
+     style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 24.115748,23.641346 h 12.07971 l 0.0031,-3.28e-4 C 36.004393,17.043677 30.600197,11.796178 24,11.796178 c -6.739985,0 -12.203822,5.463837 -12.203822,12.203822 0,6.739985 5.463837,12.203822 12.203822,12.203822 4.104727,0 7.736137,-2.026509 9.94832,-5.133614 M 9.5,5.5 h 29 c 2.216,0 4,1.784 4,4 v 29 c 0,2.216 -1.784,4 -4,4 h -29 c -2.216,0 -4,-1.784 -4,-4 v -29 c 0,-2.216 1.784,-4 4,-4 z" /></svg>

@@ -6,6 +6,9 @@
 	<!-- ActiveArmor -->
 	<item component="ComponentInfo{com.att.mobilesecurity/com.att.mobilesecurity.ui.launcher.AttOneAppLoadDispatchActivity}" drawable="activearmor"/>
 
+	<!-- Amazon Drive -->
+	<item component="ComponentInfo{com.amazon.drive/com.amazon.drive.activity.MainActivity}" drawable="amazon_drive"/>
+
 	<!-- Android Assistant -->
 	<item component="ComponentInfo{com.androidassistant.free/com.advancedprocessmanager.MainActivity}" drawable="android_assistant"/>
 	<item component="ComponentInfo{com.advancedprocessmanager/com.advancedprocessmanager.MainActivity}" drawable="android_assistant"/>
@@ -20,6 +23,9 @@
 	<!-- AnTuTu 3DBench Lite -->
 	<item component="ComponentInfo{com.antutu.benchmark.full.lite/com.android.module.graphics.app.MainActivity}" drawable="antutu_3dbench_lite"/>
 
+	<!-- APatch -->
+	<item component="ComponentInfo{me.bmax.apatch/me.bmax.apatch.ui.MainActivity}" drawable="apatch"/>
+
 	<!-- Atom for Reddit -->
 	<item component="ComponentInfo{com.atom.reddit.reader/com.atom.reddit.ui.activity.SplashActivity}" drawable="atom_for_reddit"/>
 
@@ -32,6 +38,9 @@
 	<!-- Baseus -->
 	<item component="ComponentInfo{com.baseus.intelligent/com.baseus.intelligent.view.SplashActivity}" drawable="baseus"/>
 
+	<!-- Blue Light Filter -->
+	<item component="ComponentInfo{com.eyefilter.nightmode.bluelightfilter/com.eyefilter.nightmode.bluelightfilter.ui.WelcomeActivity}" drawable="blue_light_filter"/>
+
 	<!-- Brain Out -->
 	<item component="ComponentInfo{com.mind.quiz.brain.out/com.mind.quiz.brain.out.MainActivity}" drawable="brain_out"/>
 
@@ -43,6 +52,12 @@
 
 	<!-- CDEK -->
 	<item component="ComponentInfo{com.logistic.sdek/com.logistic.sdek.v2.modules.splash.ui.SplashV2Activity}" drawable="cdek"/>
+
+	<!-- CheQ -->
+	<item component="ComponentInfo{com.cheq.retail/com.cheq.retail.ui.splash.SplashActivity}" drawable="cheq"/>
+
+	<!-- Chordify -->
+	<item component="ComponentInfo{net.chordify.chordify/net.chordify.chordify.presentation.activities.navigation.NavigationActivity}" drawable="chordify"/>
 
 	<!-- ClassChartsStudents -->
 	<item component="ComponentInfo{com.classcharts.android.student/com.classcharts.android.student.MainActivity}" drawable="classchartsstudents"/>
@@ -107,11 +122,11 @@
 	<!-- Guitar Songs -->
 	<item component="ComponentInfo{ru.subprogram.guitarsongs.vint/ru.subprogram.guitarsongs.activities.dbinit.DbInitActivity}" drawable="guitar_songs"/>
 
-	<!-- HDRezka -->
-	<item component="ComponentInfo{io.fournkoner.hdrezka/io.fournkoner.hdrezka.MainActivity}" drawable="android_alt_1"/>
+	<!-- Hathway -->
+	<item component="ComponentInfo{com.hathwayapp/com.hathwayapp.MainActivity}" drawable="hathway"/>
 
-	<!-- HiTV -->
-	<item component="ComponentInfo{com.captha.didymoi/com.captha.didymoi.MainActivity}" drawable="hitv"/>
+	<!-- HONOR Health -->
+	<item component="ComponentInfo{com.hihonor.health/com.hihonor.health.splash.SplashActivity}" drawable="honor_health"/>
 
 	<!-- Hotlink -->
 	<item component="ComponentInfo{my.com.maxis.hotlink.production/my.com.maxis.hotlink.RevampMainActivity}" drawable="hotlink"/>
@@ -127,6 +142,9 @@
 
 	<!-- INPS Mobile -->
 	<item component="ComponentInfo{it.inps.mobile.app.servizi.activity/it.inps.mobile.app.home.activity.SplashScreenActivity}" drawable="inps_mobile"/>
+
+	<!-- Instant Gaming -->
+	<item component="ComponentInfo{com.instantgaming.android/com.instantgaming.android.Activities.WebViewActivity}" drawable="instant_gaming"/>
 
 	<!-- InstaPay -->
 	<item component="ComponentInfo{com.egyptianbanks.instapay/com.olive.insta_pay.activity.SplashActivity}" drawable="instapay"/>
@@ -149,17 +167,32 @@
 	<!-- Master for Minecraft PE -->
 	<item component="ComponentInfo{com.lyxoto.master.forminecraftpe/com.lyxoto.master.forminecraftpe.SplashActivity}" drawable="master_for_minecraft_pe"/>
 
+	<!-- Material Photo Widget -->
+	<item component="ComponentInfo{com.fibelatti.photowidget/com.fibelatti.photowidget.home.HomeActivity}" drawable="material_photo_widget"/>
+
+	<!-- MediaInfo -->
+	<item component="ComponentInfo{net.mediaarea.mediainfo/net.mediaarea.mediainfo.ReportListActivity}" drawable="mediainfo"/>
+
 	<!-- Mi Buds M8 -->
 	<item component="ComponentInfo{bz.zaa.mibudsm8/bz.zaa.mibudsm8.ui.activities.MiuiHeadsetActivity}" drawable="mi_buds_m8"/>
 
+	<!-- Mininote -->
+	<item component="ComponentInfo{com.zerone.mood/com.zerone.mood.SplashActivity}" drawable="mininote"/>
+
 	<!-- MovieBoxPro -->
 	<item component="ComponentInfo{com.movieboxpro.android/com.movieboxpro.android.view.activity.SplashActivity}" drawable="movieboxpro"/>
+
+	<!-- myGovID -->
+	<item component="ComponentInfo{au.gov.ato.mygovid.droid/au.gov.ato.myGovID.LaunchActivity}" drawable="mygovid"/>
 
 	<!-- Neko: Unofficial MangaDex Reader for Android 7+ -->
 	<item component="ComponentInfo{org.nekomanga.neko/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="neko_2"/>
 
 	<!-- NokoPrint -->
 	<item component="ComponentInfo{com.nokoprint/com.nokoprint.ActivityHome}" drawable="nokoprint"/>
+
+	<!-- Norton App Lock -->
+	<item component="ComponentInfo{com.symantec.applock/com.symantec.applock.ui.LauncherActivity}" drawable="norton_app_lock"/>
 
 	<!-- Nova Google Companion -->
 	<item component="ComponentInfo{com.teslacoilsw.launcherclientproxy/com.teslacoilsw.launcherclientproxy.MainActivity}" drawable="nova_google_companion"/>
@@ -195,11 +228,11 @@
 	<!-- Sbpay -->
 	<item component="ComponentInfo{ru.nspk.sbpay/ru.nspk.sbpay.kgFlpBdkxfwom}" drawable="sbpay"/>
 
-	<!-- Shutdown -->
-	<item component="ComponentInfo{com.samiadom.Shutdown/com.samiadom.Shutdown.MainActivity}" drawable="power"/>
-
 	<!-- Skool -->
 	<item component="ComponentInfo{com.skool.skoolcommunities/com.skool.skoolcommunities.ui.activities.MainActivity}" drawable="skool"/>
+
+	<!-- Smart Transport -->
+	<item component="ComponentInfo{ru.bus62.SmartTransport/ru.bus62.SmartTransport.splash.SplashActivity}" drawable="smart_transport"/>
 
 	<!-- Sovcombank Halva -->
 	<item component="ComponentInfo{ru.sovcomcard.halva.v1/ru.sovcomcard.halva.v1.DEFAULT}" drawable="sovcombank_halva"/>
@@ -225,6 +258,9 @@
 	<!-- VK Video -->
 	<item component="ComponentInfo{com.vk.vkvideo/com.vk.video.screens.main.MainActivity}" drawable="vk_video"/>
 
+	<!-- Wallfever -->
+	<item component="ComponentInfo{com.amaan.wallfever/com.amaan.app.features.MainActivity}" drawable="wallfever"/>
+
 	<!-- WallsPy -->
 	<item component="ComponentInfo{com.harry.wallpie/com.harry.wallpie.ui.activity.MainActivity}" drawable="wallspy"/>
 
@@ -242,18 +278,5 @@
 
 	<!-- Youla -->
 	<item component="ComponentInfo{com.allgoritm.youla/com.allgoritm.youla.Launcher}" drawable="youla"/>
-
-	<!-- !!Use existing icons -->
-	<item component="ComponentInfo{com.wetter.androidclient/com.wetter.androidclient.EntryActivity}" drawable="weather"/>
-
-	<item component="ComponentInfo{com.snaptik.app.snaptik.snaptick10/com.snaptik.app.android.MainActivity}" drawable="downloads"/>
-
-	<!-- !!Use existing icons (no entry in appfilter) -->
-	<!-- Duet -->
-	<item component="ComponentInfo{com.kumobius.android.duet/com.kumobius.android.KumoAppActivity}" drawable="duet"/>
-
-	<!-- !!Remove existing entry from appfilter and add this -->
-	<!-- AnTuTu Benchmark -->
-	<item component="ComponentInfo{com.antutu.ABenchMark/com.android.module.app.ui.start.ABenchMarkStart}" drawable="antutu_benchmark"/>
 
 </appfilter>

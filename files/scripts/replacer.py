@@ -109,7 +109,7 @@ def replacer(verbose, indir, outdir, svgfilename):
 		svgfile_in.close()
 	
 	if STYLE_TAG_TOKEN not in svgcontent:
-		print(f"WARNING: <style> tag is not present in {svgfilename}. Forcing stroke-width to 1 will likely result in the stroke-widths being completely wrong.")
+		print(f"\tWARNING: <style> tag is not present in {svgfilename}. Forcing stroke-width to 1 may result in the stroke-widths being completely wrong.")
 		return_code = RC_WARN
 	
 	svgcontent = re.sub(REGEX_STROKE_COLOR_1, REPL_STROKE_COLOR_1, svgcontent)
@@ -134,7 +134,7 @@ def replacer(verbose, indir, outdir, svgfilename):
 		svgfile_out.close()
 	
 	if verbose:
-		print(f"Successfully processed {svgfilename}")
+		print(f"Successfully processed {svgfilename}\n")
 	
 	return return_code
 

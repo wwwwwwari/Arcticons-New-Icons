@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="xiaomi_service_plus.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.59534"
+     inkscape:cx="5.2003362"
+     inkscape:cy="30.209587"
+     inkscape:window-width="1918"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs1"><style
+       id="style1">.a { fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round; }
+</style></defs><path
+     id="path3"
+     style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 5.4999995,18.210238 c 0,-4.479741 3.598696,-5.765159 6.4015115,-3.493212 l 12.098488,9.800156 12.09849,-9.800156 C 38.902075,12.446032 42.5,13.730497 42.5,18.210238 c 0,5.886972 0,11.773945 0,17.660917 0,4.479741 -3.597925,5.764205 -6.401511,3.493211 L 23.999999,29.56421 11.901511,39.364366 C 9.0986955,41.636313 5.4999995,40.350896 5.4999995,35.871155 Z M 30.119261,13.614259 a 6.0707755,6.0771435 0 0 1 -6.070775,6.077144 6.0707755,6.0771435 0 0 1 -6.070776,-6.077144 6.0707755,6.0771435 0 0 1 6.070776,-6.0771433 6.0707755,6.0771435 0 0 1 6.070775,6.0771433 z" /></svg>

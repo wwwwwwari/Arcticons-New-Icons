@@ -39,12 +39,12 @@ This is my general checklist and workflow for Arcticons's icon making process on
 1. Check that there is no `transform`, `evenodd` and `e-notation` mentioned in any svg files. If there is any, follow Arcticons' [guideline](https://ithub.com/Donnnno/Arcticons/blob/main/CONTRIBUTING.md#how-to-replace) on how to remove them.
     1. You can also remove `tranform` easily by making a dummy stroke nearby, combine it with the icon, save, then uncombine, remove the dummy stroke, and save again.
 2. Run the dupechecker script in `scripts` to make sure no new icons have their file names duplicated with the ones in the Arcticons project
-    1. In `YYYY-MM-DD/work/`, `../../scripts/dupechecker.py ./work --verbose`
+    1. In `YYYY-MM-DD/svg/`, `../../scripts/dupechecker.py ./work --verbose`
 3. Back up the svg files in `work/` above into a backup folder
 4. Using SVGO, re-save all the files as Optimized SVGs in a separate folder:
     1. `svgo -f ./work -i ./opti`
 5. Run the replacer script in `scripts/` to ensure all stroke colors, stroke widths, linecaps and linejoins are set correctly:
-    1. In `YYYY-MM-DD/work/`, `../../scripts/replacer.py ./opti ./opti2 --verbose`
+    1. In `YYYY-MM-DD/svg/`, `../../scripts/replacer.py ./opti ./opti2 --verbose`
 6. Re-check that everything still looks correct.
 #### Final Checks & Making a Pull Request
 1. Ensure that your GitHub repo is in sync with Arcticons-Team's using the [web interface](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) before proceeding.
