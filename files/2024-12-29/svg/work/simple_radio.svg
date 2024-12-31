@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="simple_radio.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.59534"
+     inkscape:cx="16.43465"
+     inkscape:cy="26.279561"
+     inkscape:window-width="1918"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showgrid="false" /><defs
+     id="defs1"><style
+       id="style1">.a { fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round; }
+</style></defs><path
+     style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:1.3;stroke-opacity:1"
+     d="m 22.772391,17.157069 c 5.329351,0.01947 10.764808,0.01444 15.943164,0.928486 2.625096,0.389259 2.658282,2.4485 3.099019,3.82888 0.917785,4.841768 0.923007,9.771889 -0.03873,14.610943 -0.39156,1.392254 -0.607534,3.416234 -3.286234,3.70677 -5.937879,0.95786 -12.132362,0.915479 -18.21189,0.843381 C 16.296656,40.91447 12.153206,40.905517 8.4046624,39.925851 6.5020864,39.027101 6.6357454,37.248053 6.1932854,35.8764 5.3729194,30.900898 5.0998614,25.787211 6.3943954,20.882449 7.2360794,17.693455 8.7708894,17.480522 11.598704,15.946366 L 28.290175,6.8908514"
+     id="path11840" /><path
+     style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:1.3;stroke-opacity:1"
+     d="m 31.564404,30.859594 c -1.456778,1.190752 -4.35669,1.938135 -7.520129,1.938135 -3.163438,0 -6.06335,-0.747383 -7.520129,-1.938135"
+     id="path11822" /></svg>

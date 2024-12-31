@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="bazaar.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="4.453125"
+     inkscape:cx="72.308772"
+     inkscape:cy="57.936842"
+     inkscape:window-width="1918"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showgrid="false" /><defs
+     id="defs1"><style
+       id="style1">.a { fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round; }
+</style></defs><path
+     style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:1.3;stroke-opacity:1"
+     d="m 24.001156,8.6513474 c 2.076892,0 3.186989,2.4435866 4.393595,6.7003676 -1.33788,-0.01488 -2.760206,-0.0185 -4.393595,-0.0185 -1.632926,0 -3.056023,0.0037 -4.393595,0.0185 1.206607,-4.256781 2.316703,-6.7003676 4.393595,-6.7003676 z"
+     id="path1304" /><path
+     style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:1.3;stroke-opacity:1"
+     d="m 24.001156,5.5000006 c -3.793231,0 -5.811369,3.6307898 -8.017153,9.9534454 -3.809805,0.206988 -6.6082528,0.775676 -9.9202731,2.34906 1.1714149,11.381299 3.7936933,24.697493 17.9374261,24.697493 14.143733,0 16.763699,-13.316194 17.935114,-24.697493 -3.311989,-1.573369 -6.108213,-2.142067 -9.917962,-2.34906 -2.205783,-6.3226556 -4.22392,-9.9534454 -8.017152,-9.9534454 z"
+     id="path324" /></svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="a"
+   viewBox="0 0 48 48"
+   version="1.1"
+   sodipodi:docname="flight_lite.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview67836"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="9.0729167"
+     inkscape:cx="-7.6050517"
+     inkscape:cy="22.484501"
+     inkscape:window-width="1918"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="a" />
+  <defs
+     id="defs67830">
+    <style
+       id="style67828">.e{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <path
+     style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+     d="M 12.323,43.5 C 10.827,30.136 36.8977,28.024 35.7546,17.0897 46.1944,34.7001 12.4947,31.2433 12.323,43.5 Z"
+     id="path68001" />
+  <path
+     style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+     d="M 12.323,43.5 C 1.8595,31.3015 34.5745,15.1581 27.4402,4.5 47.026,19.5434 4.4462,30.4845 12.323,43.5 Z"
+     id="path67999" />
+  <path
+     style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+     d="M 33.193534,33.944491 C 27.98879,38.254296 16.871097,34.476368 12.323,43.5 v 0 c 2.281506,-4.326914 13.058411,-3.291202 19.216178,-5.428614"
+     id="path67997" />
+  <path
+     style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+     d="m 35.79893,32.068411 c -0.07435,-0.48168 -0.199672,-0.997327 -0.38023,-1.549711 -0.330181,1.050863 -0.799793,1.898909 -1.381453,2.589954"
+     id="path67995" />
+  <path
+     style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+     d="m 45.5,38.5 a 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 7,7 0 0 1 7,7 z"
+     id="path67993" />
+  <path
+     style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+     d="m 36.5,34.5 v 8 h 4"
+     id="polyline67695" />
+</svg>
